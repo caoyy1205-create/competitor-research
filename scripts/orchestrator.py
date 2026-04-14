@@ -22,7 +22,7 @@ import synthesizer
 DATA_DIR = ROOT / "data"
 DATA_DIR.mkdir(exist_ok=True)
 
-LOOKBACK_DAYS = 7
+LOOKBACK_DAYS = 30
 
 COLLECTOR_MAP = {
     "blog": blog,
