@@ -1,0 +1,74 @@
+{
+  "competitor": "Notion AI",
+  "summary": "Notion AI is accelerating enterprise readiness through rapid API enhancements—especially multi-value filtering and status property support—and expanding its sales, security, and customer success teams globally. Concurrently, new repositories like 'skills' and 'pulumi-elasticstack-sdk' signal strategic investments in AI agent capabilities and infrastructure-as-code integrations for complex deployments.",
+  "signals": [
+    {
+      "type": "github",
+      "title": "notion-sdk-js v5.18.0 adds multi-value filters for select, status, and multi_select properties",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.18.0",
+      "date": "2026-04-13",
+      "insight": "Enables richer, more flexible data querying and dashboarding in Notion AI-powered workflows—directly improving competitive differentiation against Airtable and Coda for enterprise automation use cases.",
+      "importance": "high"
+    },
+    {
+      "type": "github",
+      "title": "New repo 'skills': Notion skills for agents",
+      "url": "https://github.com/makenotion/skills",
+      "date": "2026-03-16",
+      "insight": "Signals a foundational shift toward modular, reusable AI agent capabilities—potentially enabling third-party developers to extend Notion AI as an agentic OS, threatening Microsoft Copilot Studio and LangChain-based platforms.",
+      "importance": "high"
+    },
+    {
+      "type": "github",
+      "title": "notion-sdk-js v5.14.0 adds status property support in API endpoints",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.14.0",
+      "date": "2026-03-19",
+      "insight": "Unlocks native workflow state management (e.g., 'In Review', 'Approved') in automations—critical for ITSM, HR ops, and compliance use cases where Notion competes with Jira Service Management and ClickUp.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Application Security Engineer, AI Security",
+      "url": "https://jobs.ashbyhq.com/notion/e3944777-d4a8-41d2-88ab-32daef949d4e",
+      "date": "2026-04-14",
+      "insight": "Demonstrates proactive investment in AI-specific security controls—addressing growing enterprise concerns about hallucination, prompt injection, and data leakage, thereby strengthening trust versus less mature AI-native competitors.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Multiple global Account Executive roles: Mid-Market, Enterprise (UK, DACH, AMER), Commercial",
+      "url": "https://jobs.ashbyhq.com/notion/0fe96f47-a9ea-4623-ac73-9053c3541297",
+      "date": "2026-04-14",
+      "insight": "Aggressive global sales expansion—especially in EMEA and APAC—indicates imminent push into regulated, high-ACV enterprise segments, directly challenging Confluence+AI and Microsoft Loop in digital workplace contracts.",
+      "importance": "high"
+    },
+    {
+      "type": "github",
+      "title": "New repo 'pulumi-elasticstack-sdk': Generated Pulumi SDK for Elasticstack Terraform provider",
+      "url": "https://github.com/makenotion/pulumi-elasticstack-sdk",
+      "date": "2026-03-23",
+      "insight": "Suggests deeper infrastructure integration strategy—enabling customers to deploy and manage Notion AI alongside observability, logging, and search stacks (Elastic Stack), reinforcing hybrid-cloud enterprise deployment viability.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Product Marketing Manager, IT Solutions",
+      "url": "https://jobs.ashbyhq.com/notion/fc6aa15c-825d-4ec7-a89e-229ce46ce4b3",
+      "date": "2026-04-14",
+      "insight": "Indicates focused go-to-market motion targeting IT decision-makers—signaling intent to position Notion AI as a secure, compliant alternative to shadow-IT tools in regulated industries.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Manager, Scaled Customer Success & Enterprise CSM roles",
+      "url": "https://jobs.ashbyhq.com/notion/d397d9c7-0d37-45fe-a218-c7b69812a237",
+      "date": "2026-04-14",
+      "insight": "Confirms scaling of post-sales infrastructure to support complex enterprise adoption—reducing churn risk and increasing land-and-expand potential against incumbents with entrenched CS organizations.",
+      "importance": "medium"
+    }
+  ],
+  "note": "",
+  "date": "2026-04-14",
+  "generated_at": "2026-04-14 08:45 UTC",
+  "total_signals": 27
+}

@@ -1,0 +1,74 @@
+{
+  "competitor": "Perplexity AI",
+  "summary": "Perplexity AI is executing a major engineering expansion across AI, Search, Mobile, and Security domains, signaling aggressive product scaling and enterprise readiness. The simultaneous hiring of an Engineering Site Lead, AI Research Lead, and Director of Commercial Legal (Enterprise) indicates preparation for organizational growth, advanced R&D, and commercialization of B2B offerings. Notably, the concentration of roles in Search Core, Crawler, and ML for Search suggests a strategic push to strengthen proprietary search infrastructure as a differentiator against incumbents.",
+  "signals": [
+    {
+      "type": "hiring",
+      "title": "Engineering Site Lead hire in AI department",
+      "url": "https://jobs.ashbyhq.com/perplexity/638e6823-be7f-46c6-9675-7b1197fc9b8c",
+      "date": "2026-04-14",
+      "insight": "Signals formalization of AI engineering leadership and likely upcoming team scaling or reorganization to support rapid model and platform development.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "AI Research Lead and AI Researcher roles posted",
+      "url": "https://jobs.ashbyhq.com/perplexity/16bc54a6-83ab-4802-8a65-d88fbb7ebe03",
+      "date": "2026-04-14",
+      "insight": "Indicates intensified investment in foundational and applied AI research—potentially targeting novel reasoning architectures or retrieval-augmented generation improvements to widen technical moat.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Multiple Search-focused engineering roles: Search Core, Crawler, and ML Engineer",
+      "url": "https://jobs.ashbyhq.com/perplexity/27aa1a14-bc59-4613-a65a-38598695076f",
+      "date": "2026-04-14",
+      "insight": "Reveals prioritization of end-to-end search stack ownership—critical for reducing latency, improving freshness, and differentiating from API-dependent competitors like those using Bing or Google Search.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Forward Deployed Engineer (Applied AI) role",
+      "url": "https://jobs.ashbyhq.com/perplexity/aa511ea8-96e3-42ba-b28f-5e222170bcee",
+      "date": "2026-04-14",
+      "insight": "Suggests active pursuit of enterprise customer integration projects, implying near-term GTM motion for vertical-specific AI solutions and custom deployment capabilities.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Director, Commercial Legal (Enterprise)",
+      "url": "https://jobs.ashbyhq.com/perplexity/40fbae50-e61c-4d28-8122-8800988b8595",
+      "date": "2026-04-14",
+      "insight": "Confirms maturation toward enterprise sales—this role enables complex contract negotiations, data governance compliance, and SLA structuring required for large-scale B2B adoption.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "AI Inference Engineer and AI Infrastructure Engineer roles",
+      "url": "https://jobs.ashbyhq.com/perplexity/8a976851-9bef-4b07-8d36-567fa9540aef",
+      "date": "2026-04-14",
+      "insight": "Highlights focus on optimizing real-time LLM serving—key for maintaining low-latency, high-throughput performance as usage scales, directly impacting user retention and competitive responsiveness.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "iOS Software Engineer and Backend Engineer (Mobile)",
+      "url": "https://jobs.ashbyhq.com/perplexity/1dc97d9e-565e-4079-9fba-40fab14a3602",
+      "date": "2026-04-14",
+      "insight": "Signals accelerated mobile product investment, likely to close feature parity with web and capture engagement in high-intent on-the-go use cases where competitors remain desktop-first.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "AI Security Engineer and Application Security Engineer roles",
+      "url": "https://jobs.ashbyhq.com/perplexity/cdbf6ccb-2078-4499-b0a6-af8a04754eee",
+      "date": "2026-04-14",
+      "insight": "Reflects growing emphasis on securing AI supply chains and runtime environments—critical for earning enterprise trust and meeting regulatory expectations in sensitive sectors.",
+      "importance": "medium"
+    }
+  ],
+  "note": "",
+  "date": "2026-04-14",
+  "generated_at": "2026-04-14 08:44 UTC",
+  "total_signals": 20
+}
