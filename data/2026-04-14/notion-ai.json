@@ -1,0 +1,26 @@
+{
+  "competitor": "Notion AI",
+  "summary": "Notion AI is enhancing its developer-facing SDK with improved filtering capabilities for database queries and richer comment formatting via Markdown support. These updates signal continued investment in empowering third-party integrations and automations, strengthening Notion's ecosystem moat against competitors like Coda and ClickUp.",
+  "signals": [
+    {
+      "type": "github",
+      "title": "notion-sdk-js v5.18.0 adds multi-value filters for select, status, and multi_select properties",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.18.0",
+      "date": "2026-04-13",
+      "insight": "Enables more sophisticated, granular database querying in integrations—critical for enterprise automation workflows and a competitive differentiator over rivals with less flexible API filtering.",
+      "importance": "high"
+    },
+    {
+      "type": "github",
+      "title": "notion-sdk-js v5.17.0 adds markdown parameter to Create Comment endpoint",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.17.0",
+      "date": "2026-04-07",
+      "insight": "Allows rich-text formatting in automated comments (e.g., from AI agents or CI/CD bots), improving UX fidelity and enabling more persuasive, contextual AI-generated feedback within Notion threads.",
+      "importance": "medium"
+    }
+  ],
+  "note": "",
+  "date": "2026-04-14",
+  "generated_at": "2026-04-14 08:38 UTC",
+  "total_signals": 2
+}
