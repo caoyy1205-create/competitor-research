@@ -48,19 +48,28 @@ def _ddg_search(query: str, max_results: int = 8) -> list:
         return []
 
     results = []
-    # Parse result blocks
+    html = resp.text
+
+    # Strategy 1: result__a + result__snippet pattern
     blocks = re.findall(
-        r'<a[^>]+class="result__a"[^>]+href="([^"]+)"[^>]*>(.*?)</a>.*?'
-        r'<a[^>]+class="result__snippet"[^>]*>(.*?)</a>',
-        resp.text, re.DOTALL
+        r'<a[^>]+class="[^"]*result__a[^"]*"[^>]+href="([^"]+)"[^>]*>(.*?)</a>.*?'
+        r'class="[^"]*result__snippet[^"]*"[^>]*>(.*?)</[a-z]+>',
+        html, re.DOTALL
     )
     for url_raw, title_raw, snippet_raw in blocks[:max_results]:
         title = re.sub(r"<[^>]+>", "", title_raw).strip()
         snippet = re.sub(r"<[^>]+>", "", snippet_raw).strip()
-        # DuckDuckGo wraps URLs — extract actual URL
-        url = _extract_ddg_url(url_raw)
-        if title and url:
-            results.append({"title": title, "url": url, "snippet": snippet})
+        link = _extract_ddg_url(url_raw)
+        if title and link:
+            results.append({"title": title, "url": link, "snippet": snippet})
+
+    # Strategy 2: fallback — extract any <a> with href + nearby text
+    if not results:
+        links = re.findall(r'<a[^>]+href="(https?://[^"]+)"[^>]*>([^<]{10,100})</a>', html)
+        today = ""
+        for link, title in links[:max_results]:
+            if "duckduckgo.com" not in link:
+                results.append({"title": title.strip(), "url": link, "snippet": ""})
 
     return results
 

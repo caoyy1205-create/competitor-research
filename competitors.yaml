@@ -2,29 +2,29 @@ competitors:
   - id: cursor
     name: Cursor
     website: https://cursor.com
-    blog_rss: https://cursor.com/blog/rss.xml
+    blog_rss: https://cursor.com/atom.xml
     github_org: getcursor
     pricing_url: https://cursor.com/pricing
-    job_board: https://jobs.lever.co/cursor
+    job_board: https://jobs.ashbyhq.com/cursor
     job_search_query: "Cursor AI editor"
     sources: [web_search, blog, github, jobs, pricing]
 
   - id: perplexity
     name: Perplexity AI
     website: https://perplexity.ai
-    blog_rss: https://blog.perplexity.ai/rss
+    blog_rss: https://www.perplexity.ai/hub/rss
     github_org: perplexity-ai
     pricing_url: https://perplexity.ai/pro
-    job_board: https://jobs.lever.co/perplexity
+    job_board: https://jobs.ashbyhq.com/perplexity
     job_search_query: "Perplexity AI"
     sources: [web_search, blog, github, jobs, pricing]
 
   - id: notion-ai
     name: Notion AI
     website: https://notion.so
-    blog_rss: https://www.notion.so/blog/rss.xml
+    blog_rss: https://www.notion.so/rss.xml
     github_org: makenotion
     pricing_url: https://www.notion.so/pricing
-    job_board: https://boards.greenhouse.io/notion
+    job_board: https://jobs.ashbyhq.com/notion
     job_search_query: "Notion AI"
     sources: [web_search, blog, github, jobs, pricing]
