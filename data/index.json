@@ -1,0 +1,19 @@
+{
+  "competitors": [
+    {
+      "id": "cursor",
+      "name": "Cursor"
+    },
+    {
+      "id": "perplexity",
+      "name": "Perplexity AI"
+    },
+    {
+      "id": "notion-ai",
+      "name": "Notion AI"
+    }
+  ],
+  "dates": [
+    "2026-04-14"
+  ]
+}
