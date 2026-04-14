@@ -1,0 +1,544 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Competitor Research</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,700;1,400&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --paper:        #F4F0E6;
+      --paper-dark:   #EDE8D8;
+      --paper-shadow: #E0D9C8;
+      --ink:          #2C2416;
+      --ink-mid:      #4A4235;
+      --ink-light:    #7A7060;
+      --ink-faint:    #A09880;
+      --accent:       #7A3B3B;
+      --accent-gold:  #C4A882;
+      --sage:         #6B7F6B;
+      --rule:         #C8BFA8;
+      --rule-dark:    #9A9080;
+      /* Signal type colors — all muted Morandi */
+      --c-product:    #7A3B3B;
+      --c-hiring:     #4A6B4A;
+      --c-pricing:    #6B5A2C;
+      --c-github:     #3B5A7A;
+      --c-news:       #6B3B6B;
+    }
+
+    html { background: var(--paper); scroll-behavior: smooth; }
+
+    body {
+      font-family: 'Crimson Text', 'Noto Serif SC', Georgia, serif;
+      background: var(--paper);
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='300'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.75' numOctaves='4' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='300' height='300' filter='url(%23n)' opacity='0.04'/%3E%3C/svg%3E");
+      color: var(--ink);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    /* ── MASTHEAD ── */
+    .masthead {
+      border-bottom: 3px double var(--rule-dark);
+      padding: 1.2rem 2rem 0.9rem;
+      text-align: center;
+      background: var(--paper-dark);
+    }
+
+    .masthead-eyebrow {
+      font-size: 0.7rem;
+      letter-spacing: 0.3em;
+      text-transform: uppercase;
+      color: var(--ink-faint);
+      margin-bottom: 0.3rem;
+    }
+
+    .masthead h1 {
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(1.4rem, 3vw, 2rem);
+      font-weight: 700;
+      letter-spacing: 0.05em;
+      color: var(--ink);
+    }
+
+    .masthead-sub {
+      font-size: 0.82rem;
+      font-style: italic;
+      color: var(--ink-light);
+      margin-top: 0.2rem;
+    }
+
+    /* ── LAYOUT ── */
+    .layout {
+      display: flex;
+      flex: 1;
+      min-height: 0;
+    }
+
+    /* ── SIDEBAR ── */
+    .sidebar {
+      width: 200px;
+      flex-shrink: 0;
+      border-right: 1px solid var(--rule);
+      padding: 1.5rem 0;
+      background: var(--paper-dark);
+    }
+
+    .sidebar-label {
+      font-size: 0.65rem;
+      letter-spacing: 0.25em;
+      text-transform: uppercase;
+      color: var(--ink-faint);
+      padding: 0 1.2rem 0.75rem;
+      border-bottom: 1px solid var(--rule);
+      margin-bottom: 0.5rem;
+    }
+
+    .competitor-btn {
+      display: block;
+      width: 100%;
+      text-align: left;
+      padding: 0.6rem 1.2rem;
+      font-family: 'Crimson Text', serif;
+      font-size: 0.95rem;
+      color: var(--ink-mid);
+      background: none;
+      border: none;
+      cursor: pointer;
+      border-left: 3px solid transparent;
+      transition: background 0.15s, color 0.15s, border-color 0.15s;
+    }
+
+    .competitor-btn:hover {
+      background: var(--paper-shadow);
+      color: var(--ink);
+    }
+
+    .competitor-btn.active {
+      border-left-color: var(--accent);
+      color: var(--ink);
+      font-weight: 600;
+      background: var(--paper-shadow);
+    }
+
+    .sidebar-date {
+      padding: 1rem 1.2rem 0;
+      border-top: 1px solid var(--rule);
+      margin-top: 1rem;
+    }
+
+    .sidebar-date label {
+      display: block;
+      font-size: 0.65rem;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--ink-faint);
+      margin-bottom: 0.4rem;
+    }
+
+    select#date-select {
+      font-family: 'Crimson Text', serif;
+      font-size: 0.82rem;
+      color: var(--ink);
+      background: var(--paper);
+      border: 1px solid var(--rule-dark);
+      border-radius: 0;
+      padding: 0.2rem 1.4rem 0.2rem 0.5rem;
+      width: 100%;
+      cursor: pointer;
+      outline: none;
+      appearance: none;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='5'%3E%3Cpath d='M0 0l4 5 4-5z' fill='%237A7060'/%3E%3C/svg%3E");
+      background-repeat: no-repeat;
+      background-position: right 0.4rem center;
+    }
+
+    /* ── MAIN PANEL ── */
+    .panel {
+      flex: 1;
+      overflow-y: auto;
+      padding: 2rem 2.5rem 4rem;
+      max-width: 860px;
+    }
+
+    /* Competitor header */
+    .comp-header {
+      padding-bottom: 1rem;
+      border-bottom: 3px double var(--rule-dark);
+      margin-bottom: 1.75rem;
+    }
+
+    .comp-name {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.6rem;
+      font-weight: 500;
+      color: var(--ink);
+    }
+
+    .comp-meta {
+      font-size: 0.78rem;
+      font-style: italic;
+      color: var(--ink-faint);
+      margin-top: 0.2rem;
+    }
+
+    /* Summary block */
+    .comp-summary {
+      font-size: 1.05rem;
+      line-height: 1.8;
+      color: var(--ink-mid);
+      text-align: justify;
+      hyphens: auto;
+      margin-bottom: 2rem;
+      padding: 1rem 1.5rem;
+      border-left: 3px solid var(--accent-gold);
+      background: var(--paper-dark);
+    }
+
+    .comp-summary::first-letter {
+      font-family: 'Playfair Display', serif;
+      font-size: 3em;
+      font-weight: 700;
+      float: left;
+      line-height: 0.75;
+      margin: 0.08em 0.1em 0 0;
+      color: var(--ink);
+    }
+
+    /* Section label */
+    .section-label {
+      font-size: 0.65rem;
+      letter-spacing: 0.25em;
+      text-transform: uppercase;
+      color: var(--ink-faint);
+      margin-bottom: 1rem;
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+    }
+
+    .section-label::after {
+      content: '';
+      flex: 1;
+      height: 1px;
+      background: var(--rule);
+    }
+
+    /* Signal cards */
+    .signals {
+      display: flex;
+      flex-direction: column;
+      gap: 0.85rem;
+    }
+
+    .signal-card {
+      border: 1px solid var(--rule);
+      border-left: 3px solid var(--rule-dark);
+      padding: 1rem 1.25rem;
+      background: var(--paper);
+      transition: border-color 0.15s;
+    }
+
+    .signal-card:hover { border-color: var(--accent-gold); }
+
+    .signal-card[data-type="product_update"] { border-left-color: var(--c-product); }
+    .signal-card[data-type="hiring"]          { border-left-color: var(--c-hiring); }
+    .signal-card[data-type="pricing"]         { border-left-color: var(--c-pricing); }
+    .signal-card[data-type="github"]          { border-left-color: var(--c-github); }
+    .signal-card[data-type="news"]            { border-left-color: var(--c-news); }
+
+    .signal-top {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 0.75rem;
+      margin-bottom: 0.4rem;
+    }
+
+    .signal-title {
+      font-family: 'Playfair Display', serif;
+      font-size: 0.95rem;
+      font-weight: 500;
+      color: var(--ink);
+      text-decoration: none;
+      line-height: 1.35;
+    }
+
+    .signal-title:hover { color: var(--accent); text-decoration: underline dotted; }
+
+    .signal-badges {
+      display: flex;
+      gap: 0.4rem;
+      flex-shrink: 0;
+      align-items: center;
+    }
+
+    .badge {
+      font-family: 'Crimson Text', serif;
+      font-size: 0.65rem;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      padding: 0.1rem 0.45rem;
+      border: 0.5px solid currentColor;
+      border-radius: 0;
+    }
+
+    .badge-type { color: var(--ink-light); }
+    .badge-high { color: var(--c-product); }
+    .badge-medium { color: var(--ink-light); }
+    .badge-low { color: var(--ink-faint); }
+
+    .signal-insight {
+      font-size: 0.88rem;
+      font-style: italic;
+      color: var(--ink-mid);
+      line-height: 1.55;
+    }
+
+    .signal-date {
+      font-size: 0.72rem;
+      color: var(--ink-faint);
+      margin-top: 0.3rem;
+    }
+
+    /* ── LOADING / EMPTY ── */
+    .state-box {
+      text-align: center;
+      padding: 5rem 2rem;
+      color: var(--ink-faint);
+      font-style: italic;
+    }
+
+    .spinner {
+      width: 22px;
+      height: 22px;
+      border: 1.5px solid var(--rule);
+      border-top-color: var(--accent-gold);
+      border-radius: 50%;
+      animation: spin 0.9s linear infinite;
+      margin: 0 auto 0.75rem;
+    }
+
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    /* ── FOOTER ── */
+    footer {
+      border-top: 3px double var(--rule-dark);
+      padding: 1rem 2rem;
+      background: var(--paper-dark);
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+    }
+
+    footer span {
+      font-size: 0.75rem;
+      font-style: italic;
+      color: var(--ink-faint);
+    }
+
+    /* ── RESPONSIVE ── */
+    @media (max-width: 640px) {
+      .sidebar { width: 140px; }
+      .panel { padding: 1.25rem 1.25rem 3rem; }
+      .comp-summary::first-letter { font-size: 2.5em; }
+    }
+
+    @media (max-width: 480px) {
+      .layout { flex-direction: column; }
+      .sidebar { width: 100%; border-right: none; border-bottom: 1px solid var(--rule); padding: 0.75rem 0; }
+      .sidebar-date { display: none; }
+      .competitor-btn { display: inline-block; width: auto; border-left: none; border-bottom: 3px solid transparent; padding: 0.4rem 0.9rem; }
+      .competitor-btn.active { border-bottom-color: var(--accent); border-left-color: transparent; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- MASTHEAD -->
+  <div class="masthead">
+    <div class="masthead-eyebrow">Intelligence Report</div>
+    <h1>Competitor Research</h1>
+    <div class="masthead-sub">AI tools &amp; LLM products &mdash; weekly signal digest</div>
+  </div>
+
+  <!-- LAYOUT -->
+  <div class="layout">
+
+    <!-- SIDEBAR -->
+    <nav class="sidebar">
+      <div class="sidebar-label">Competitors</div>
+      <div id="competitor-list"></div>
+      <div class="sidebar-date">
+        <label for="date-select">Edition</label>
+        <select id="date-select"></select>
+      </div>
+    </nav>
+
+    <!-- PANEL -->
+    <div class="panel" id="panel">
+      <div class="state-box">
+        <div class="spinner"></div>
+        <p>Loading intelligence&hellip;</p>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- FOOTER -->
+  <footer>
+    <span>Sources: web search, RSS feeds, GitHub, job boards, pricing pages</span>
+    <span id="last-updated"></span>
+  </footer>
+
+  <script>
+    const REPO = "caoyy1205-create/competitor-research";
+    const RAW  = `https://raw.githubusercontent.com/${REPO}/main`;
+
+    const panel        = document.getElementById('panel');
+    const compList     = document.getElementById('competitor-list');
+    const dateSelect   = document.getElementById('date-select');
+    const lastUpdated  = document.getElementById('last-updated');
+
+    let currentCompetitor = null;
+    let currentDate       = null;
+    let competitors       = [];
+
+    function escHtml(s) {
+      return String(s || '')
+        .replace(/&/g,'&amp;').replace(/</g,'&lt;')
+        .replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+    }
+
+    function typeLabel(t) {
+      return { product_update:'Product', hiring:'Hiring', pricing:'Pricing',
+               github:'GitHub', news:'News', web_search:'News', blog:'Blog',
+               jobs:'Hiring' }[t] || t;
+    }
+
+    function renderReport(data) {
+      lastUpdated.textContent = `Updated ${data.generated_at || ''}`;
+
+      if (!data.signals || data.signals.length === 0) {
+        panel.innerHTML = `
+          <div class="comp-header">
+            <div class="comp-name">${escHtml(data.competitor)}</div>
+            <div class="comp-meta">${escHtml(data.date || '')}</div>
+          </div>
+          <div class="state-box"><p>${escHtml(data.note || 'No signals found this period.')}</p></div>`;
+        return;
+      }
+
+      const signalCards = data.signals.map(s => `
+        <div class="signal-card" data-type="${escHtml(s.type)}">
+          <div class="signal-top">
+            <a class="signal-title" href="${escHtml(s.url)}" target="_blank" rel="noopener">
+              ${escHtml(s.title)}
+            </a>
+            <div class="signal-badges">
+              <span class="badge badge-type">${escHtml(typeLabel(s.type))}</span>
+              <span class="badge badge-${escHtml(s.importance || 'medium')}">${escHtml(s.importance || 'medium')}</span>
+            </div>
+          </div>
+          <p class="signal-insight">${escHtml(s.insight)}</p>
+          <div class="signal-date">${escHtml(s.date || '')}</div>
+        </div>
+      `).join('');
+
+      panel.innerHTML = `
+        <div class="comp-header">
+          <div class="comp-name">${escHtml(data.competitor)}</div>
+          <div class="comp-meta">${escHtml(data.date || '')} &nbsp;&middot;&nbsp; ${data.signals.length} signals</div>
+        </div>
+        ${data.summary ? `<p class="comp-summary">${escHtml(data.summary)}</p>` : ''}
+        <div class="section-label">Signals</div>
+        <div class="signals">${signalCards}</div>
+      `;
+    }
+
+    function showLoading() {
+      panel.innerHTML = `<div class="state-box"><div class="spinner"></div><p>Loading&hellip;</p></div>`;
+    }
+
+    function showError(msg) {
+      panel.innerHTML = `<div class="state-box"><p>${escHtml(msg)}</p></div>`;
+    }
+
+    async function loadReport(competitorId, date) {
+      showLoading();
+      try {
+        const res = await fetch(`${RAW}/data/${date}/${competitorId}.json?t=${Date.now()}`);
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        renderReport(await res.json());
+      } catch (e) {
+        showError(`Failed to load: ${e.message}`);
+      }
+    }
+
+    function selectCompetitor(id) {
+      currentCompetitor = id;
+      document.querySelectorAll('.competitor-btn').forEach(btn => {
+        btn.classList.toggle('active', btn.dataset.id === id);
+      });
+      if (currentDate) loadReport(id, currentDate);
+    }
+
+    function formatDate(str) {
+      const [y, m, d] = str.split('-');
+      const months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+      return `${months[parseInt(m)-1]} ${parseInt(d)}, ${y}`;
+    }
+
+    async function init() {
+      try {
+        const res = await fetch(`${RAW}/data/index.json?t=${Date.now()}`);
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const index = await res.json();
+
+        competitors = index.competitors || [];
+        const dates = index.dates || [];
+
+        if (!competitors.length || !dates.length) {
+          showError('No data yet. Run the orchestrator to generate reports.');
+          return;
+        }
+
+        // Build competitor buttons
+        compList.innerHTML = competitors.map(c =>
+          `<button class="competitor-btn" data-id="${escHtml(c.id)}" onclick="selectCompetitor('${escHtml(c.id)}')">${escHtml(c.name)}</button>`
+        ).join('');
+
+        // Build date selector
+        dates.forEach(d => {
+          const opt = document.createElement('option');
+          opt.value = d;
+          opt.textContent = formatDate(d);
+          dateSelect.appendChild(opt);
+        });
+
+        currentDate = dates[0];
+        dateSelect.value = currentDate;
+
+        // Select first competitor
+        selectCompetitor(competitors[0].id);
+
+      } catch (e) {
+        showError(`Initialization failed: ${e.message}`);
+      }
+    }
+
+    dateSelect.addEventListener('change', () => {
+      currentDate = dateSelect.value;
+      if (currentCompetitor) loadReport(currentCompetitor, currentDate);
+    });
+
+    init();
+  </script>
+</body>
+</html>
