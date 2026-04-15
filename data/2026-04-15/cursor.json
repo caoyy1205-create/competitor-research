@@ -1,0 +1,74 @@
+{
+  "competitor": "Cursor",
+  "summary": "Cursor is executing a broad engineering hiring surge across infrastructure, AI/ML, and enterprise domains, signaling aggressive scaling to support product maturity and commercial expansion. The simultaneous addition of GTM, Field Engineering, and AI Deployment roles indicates a strategic pivot toward enterprise sales motion and customer-facing AI implementation capabilities. Notably, new roles in Model Routing & Inference, Agent Harness, and Storage suggest deep technical investment in next-generation AI agent architecture and scalable backend systems.",
+  "signals": [
+    {
+      "type": "hiring",
+      "title": "Software Engineer, Model Routing & Inference",
+      "url": "https://jobs.ashbyhq.com/cursor/e3966cb2-c584-4c8a-9d25-1309af31b3a9",
+      "date": "2026-04-15",
+      "insight": "Signals focused investment in real-time LLM orchestration infrastructure—critical for low-latency, cost-efficient agent workflows and a direct competitive differentiator against Copilot+ and Cursor's own prior inference stack.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Software Engineer, Agent Harness",
+      "url": "https://jobs.ashbyhq.com/cursor/6e6f5bc2-eb32-40e2-bba9-cfa56479600d",
+      "date": "2026-04-15",
+      "insight": "Reveals prioritization of standardized, secure, and observable agent execution environments—indicating Cursor is moving beyond chat-based coding assistants toward production-grade autonomous agent platforms.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "AI Deployment Manager",
+      "url": "https://jobs.ashbyhq.com/cursor/193c326d-2ffc-4c11-8bba-73d243fd178b",
+      "date": "2026-04-15",
+      "insight": "Marks formalization of enterprise AI delivery capability, enabling tailored on-prem/cloud deployments—a key requirement for regulated and large-scale customers and a growing differentiator vs. SaaS-only competitors like GitHub Copilot.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Geo Enterprise Account Executive",
+      "url": "https://jobs.ashbyhq.com/cursor/61e4677d-cf3d-458a-bf6c-02287d5d2c39",
+      "date": "2026-04-15",
+      "insight": "Confirms active pursuit of enterprise land-and-expand motion with geographic specialization, suggesting readiness to compete head-to-head with GitHub, GitLab, and Tabnine for Fortune 500 contracts.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Engineering Manager, Developer Productivity",
+      "url": "https://jobs.ashbyhq.com/cursor/eb174a32-1542-4f99-a363-6a544e7e37f1",
+      "date": "2026-04-15",
+      "insight": "Highlights internal scaling focus on tooling, automation, and velocity—essential for sustaining rapid iteration amid growing engineering headcount and increasing product complexity.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "GTM Engineer, Growth Programs",
+      "url": "https://jobs.ashbyhq.com/cursor/044a003e-d6cc-43b6-806a-833d9399c3d4",
+      "date": "2026-04-15",
+      "insight": "Indicates fusion of engineering and marketing to automate and measure growth loops (e.g., in-product activation, referral, or usage-based conversion), suggesting sophisticated product-led growth maturation beyond early-stage viral tactics.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Research Scientist",
+      "url": "https://jobs.ashbyhq.com/cursor/cd4bad0a-e2f6-4a8d-9b57-ce1780efedae",
+      "date": "2026-04-15",
+      "insight": "Signals long-term R&D commitment beyond applied engineering—potentially targeting novel code synthesis techniques, evaluation frameworks, or agent reasoning architectures that could underpin future IP moats.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Security GRC Engineer",
+      "url": "https://jobs.ashbyhq.com/cursor/59b8511c-3fd5-42c3-87ca-41d3990438ab",
+      "date": "2026-04-15",
+      "insight": "Reflects growing compliance demands from enterprise buyers, especially in finance and healthcare, and suggests imminent pursuit of SOC 2, ISO 27001, or FedRAMP-aligned certifications to unblock procurement cycles.",
+      "importance": "medium"
+    }
+  ],
+  "note": "",
+  "date": "2026-04-15",
+  "generated_at": "2026-04-15 23:42 UTC",
+  "total_signals": 20
+}

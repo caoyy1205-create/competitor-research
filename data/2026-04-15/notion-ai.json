@@ -1,0 +1,74 @@
+{
+  "competitor": "Notion AI",
+  "summary": "Notion AI is accelerating its enterprise readiness with significant API enhancements for advanced filtering and status property support, while aggressively expanding global sales and customer success teams to target mid-market and enterprise segments. Concurrently, the company is investing in AI security infrastructure and developer experience, signaling a strategic pivot toward scalable, secure, and deeply integrable AI-powered collaboration.",
+  "signals": [
+    {
+      "type": "github",
+      "title": "notion-sdk-js v5.18.0 adds multi-value filters for select, status, and multi_select properties",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.18.0",
+      "date": "2026-04-13",
+      "insight": "Enables complex, dynamic database queries critical for enterprise automation and BI integrations, directly competing with Airtable and Coda on advanced data modeling capabilities.",
+      "importance": "high"
+    },
+    {
+      "type": "github",
+      "title": "notion-sdk-js v5.17.0 adds markdown parameter to Create Comment endpoint",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.17.0",
+      "date": "2026-04-07",
+      "insight": "Allows rich, formatted AI-generated comments—key for enhancing AI assistant output quality and adoption in collaborative workflows against competitors like Microsoft Copilot in Teams.",
+      "importance": "high"
+    },
+    {
+      "type": "github",
+      "title": "notion-sdk-js v5.14.0 adds status property support in API endpoints",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.14.0",
+      "date": "2026-03-19",
+      "insight": "Unlocks native workflow state management (e.g., 'In Review', 'Approved') without workarounds, strengthening Notion AI's position as an operational system of record versus static docs tools.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Notion AI hiring Application Security Engineer, AI Security",
+      "url": "https://jobs.ashbyhq.com/notion/e3944777-d4a8-41d2-88ab-32daef949d4e",
+      "date": "2026-04-15",
+      "insight": "Signals proactive investment in AI-specific threat modeling and red-teaming—critical for winning regulated enterprise deals where AI governance is a key differentiator vs. less secure rivals.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Notion AI hiring Enterprise Account Executives across UK, DACH, AMER, and Asia",
+      "url": "https://jobs.ashbyhq.com/notion/f8ee0af3-89e1-441a-ab51-faa62097979d",
+      "date": "2026-04-15",
+      "insight": "Demonstrates coordinated global go-to-market expansion targeting high-value enterprise accounts, directly challenging Asana, Monday.com, and ClickUp in verticalized sales motions.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Notion AI hiring Manager, Scaled Customer Success and Enterprise CSMs",
+      "url": "https://jobs.ashbyhq.com/notion/d397d9c7-0d37-45fe-a218-c7b69812a237",
+      "date": "2026-04-15",
+      "insight": "Indicates maturation beyond self-serve into high-touch, outcomes-based customer success—essential for reducing churn and increasing ACV in competitive enterprise land-and-expand plays.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Notion AI hiring Product Marketing Manager, IT Solutions",
+      "url": "https://jobs.ashbyhq.com/notion/fc6aa15c-825d-4ec7-a89e-229ce46ce4b3",
+      "date": "2026-04-15",
+      "insight": "Suggests dedicated focus on messaging and positioning for IT buyers—shifting from end-user productivity to infrastructure-grade collaboration, aligning with enterprise procurement cycles.",
+      "importance": "medium"
+    },
+    {
+      "type": "github",
+      "title": "New repo: pulumi-elasticstack-sdk",
+      "url": "https://github.com/makenotion/pulumi-elasticstack-sdk",
+      "date": "2026-03-23",
+      "insight": "Reveals internal adoption of Elastic Stack for observability and log analytics—enabling better AI model monitoring and reliability, which underpins trust in production AI features against rivals with weaker telemetry.",
+      "importance": "medium"
+    }
+  ],
+  "note": "",
+  "date": "2026-04-15",
+  "generated_at": "2026-04-15 23:43 UTC",
+  "total_signals": 26
+}
