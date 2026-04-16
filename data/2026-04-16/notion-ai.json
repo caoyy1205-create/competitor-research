@@ -1,0 +1,74 @@
+{
+  "competitor": "Notion AI",
+  "summary": "Notion AI is accelerating its enterprise sales expansion with a surge of global sales and customer success hires across AMER, EMEA, UK, DACH, and Asia, signaling aggressive commercial scaling. Concurrently, the notion-sdk-js releases show rapid API maturation—especially in filtering, commenting, and block-level enhancements—enabling deeper third-party integrations and AI-powered workflow automation. The creation of a new Pulumi SDK for Elasticstack also hints at infrastructure modernization and potential observability or security telemetry investments.",
+  "signals": [
+    {
+      "type": "github",
+      "title": "notion-sdk-js v5.18.0 adds multi-value filters for select, status, and multi_select properties",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.18.0",
+      "date": "2026-04-13",
+      "insight": "Enables richer, AI-driven data segmentation and dynamic dashboarding in integrations, directly competing with Airtable and Coda on advanced relational filtering capabilities.",
+      "importance": "high"
+    },
+    {
+      "type": "github",
+      "title": "notion-sdk-js v5.17.0 adds markdown support to Create Comment endpoint",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.17.0",
+      "date": "2026-04-07",
+      "insight": "Allows AI agents to generate rich, formatted feedback and contextual commentary—critical for collaborative AI workflows and differentiating from linear comment systems in competitors like ClickUp or Asana.",
+      "importance": "high"
+    },
+    {
+      "type": "github",
+      "title": "New pulumi-elasticstack-sdk repo signals infrastructure modernization",
+      "url": "https://github.com/makenotion/pulumi-elasticstack-sdk",
+      "date": "2026-03-23",
+      "insight": "Indicates investment in scalable, observable infrastructure—likely supporting AI model monitoring, audit logging, or real-time analytics, strengthening trust and compliance posture against enterprise rivals like Microsoft Loop or Confluence AI.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Notion AI hiring Enterprise Account Executive, San Francisco",
+      "url": "https://jobs.ashbyhq.com/notion/479b8826-d166-433b-8d7e-373cda9c533e",
+      "date": "2026-04-16",
+      "insight": "Confirms prioritization of high-touch enterprise deals, suggesting imminent expansion into regulated verticals (finance, healthcare) where AI governance and SLA commitments are key competitive battlegrounds.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Notion AI hiring Application Security Engineer, AI Security",
+      "url": "https://jobs.ashbyhq.com/notion/e3944777-d4a8-41d2-88ab-32daef949d4e",
+      "date": "2026-04-16",
+      "insight": "Signals proactive hardening of AI stack against prompt injection, data leakage, and model supply chain risks—directly addressing enterprise buyers' top objection and differentiating from less secure no-code AI tools.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Notion AI hiring Sales Manager, Asia and Account Executive, Mid-Market, DACH",
+      "url": "https://jobs.ashbyhq.com/notion/92601e94-66c8-46ef-b949-da1547a5caa8",
+      "date": "2026-04-16",
+      "insight": "Reveals coordinated geographic expansion beyond US/EU, targeting high-growth markets with localized AI adoption—increasing competitive pressure on regional players like Notta (JP/KR) and Tencent Docs (CN).",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Notion AI hiring Software Engineer, Datastore and Data Platform",
+      "url": "https://jobs.ashbyhq.com/notion/3fbcf972-52d5-4475-8720-040025c6f7da",
+      "date": "2026-04-16",
+      "insight": "Suggests backend investment to support low-latency, high-fidelity AI operations (e.g., real-time vector search, fine-tuned retrieval), essential for maintaining performance advantage as AI feature density increases.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Notion AI hiring Manager, Scaled Customer Success and Enterprise CSM roles",
+      "url": "https://jobs.ashbyhq.com/notion/d397d9c7-0d37-45fe-a218-c7b69812a237",
+      "date": "2026-04-16",
+      "insight": "Indicates shift toward product-led growth with embedded success—reducing reliance on manual onboarding and enabling scalable AI adoption, a key lever against Atlassian's bundled but less flexible Confluence+Jira AI suite.",
+      "importance": "medium"
+    }
+  ],
+  "note": "",
+  "date": "2026-04-16",
+  "generated_at": "2026-04-16 23:41 UTC",
+  "total_signals": 26
+}
