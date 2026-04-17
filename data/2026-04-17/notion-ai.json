@@ -1,0 +1,74 @@
+{
+  "competitor": "Notion AI",
+  "summary": "Notion AI is accelerating enterprise readiness through rapid API enhancements—particularly around comments, filtering, and block-level formatting—while simultaneously scaling its go-to-market team with a surge of global sales, customer success, and security hires. The launch of a new Pulumi SDK for Elasticstack signals deeper infrastructure integration ambitions, likely supporting AI-powered observability or internal tooling for large deployments.",
+  "signals": [
+    {
+      "type": "github",
+      "title": "notion-sdk-js v5.19.0 adds UpdateComment endpoint and refines markdown field descriptions",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.19.0",
+      "date": "2026-04-17",
+      "insight": "Enables programmatic editing of AI-generated or user-added comments—critical for workflow automation, moderation, and auditability in regulated enterprise environments.",
+      "importance": "high"
+    },
+    {
+      "type": "github",
+      "title": "notion-sdk-js v5.18.0 adds multi-value filters for select, status, and multi_select properties",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.18.0",
+      "date": "2026-04-13",
+      "insight": "Dramatically improves query flexibility for complex data modeling (e.g., AI-augmented CRM or project tracking), strengthening Notion AI's position against Airtable and Coda in structured operational use cases.",
+      "importance": "high"
+    },
+    {
+      "type": "github",
+      "title": "notion-sdk-js v5.17.0 adds markdown parameter to Create Comment endpoint",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.17.0",
+      "date": "2026-04-07",
+      "insight": "Allows rich formatting (e.g., code blocks, lists) in AI-generated comments—enhancing usability for technical teams and signaling investment in developer-centric AI interactions.",
+      "importance": "medium"
+    },
+    {
+      "type": "github",
+      "title": "New pulumi-elasticstack-sdk repo launched",
+      "url": "https://github.com/makenotion/pulumi-elasticstack-sdk",
+      "date": "2026-03-23",
+      "insight": "Suggests Notion is building internal or partner-facing infrastructure for scalable logging, monitoring, and AI model observability—potentially enabling differentiated reliability and compliance offerings for enterprise customers.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Multiple global Account Executive and Customer Success Manager roles across EMEA, DACH, UK, Asia, and AMER",
+      "url": "https://jobs.ashbyhq.com/notion/0fe96f47-a9ea-4623-ac73-9053c3541297",
+      "date": "2026-04-17",
+      "insight": "Signals aggressive enterprise land-and-expand motion, with geographic coverage indicating prioritization of international revenue growth and direct competition with ClickUp and Asana in mid-market and enterprise segments.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Application Security Engineer, AI Security role posted",
+      "url": "https://jobs.ashbyhq.com/notion/e3944777-d4a8-41d2-88ab-32daef949d4e",
+      "date": "2026-04-17",
+      "insight": "Confirms dedicated investment in AI-specific security—addressing hallucination mitigation, prompt injection, and data leakage risks—key for winning regulated industries and differentiating from less secure AI-native competitors.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Software Engineer, Datastore and Data Platform roles posted",
+      "url": "https://jobs.ashbyhq.com/notion/3fbcf972-52d5-4475-8720-040025c6f7da",
+      "date": "2026-04-17",
+      "insight": "Indicates foundational work on scalable, low-latency data infrastructure to support real-time AI features (e.g., live document summarization, cross-workspace search), essential for performance at enterprise scale.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Manager, Scaled Customer Success and Enterprise CSM roles posted",
+      "url": "https://jobs.ashbyhq.com/notion/d397d9c7-0d37-45fe-a218-c7b69812a237",
+      "date": "2026-04-17",
+      "insight": "Highlights shift from self-serve growth to high-touch, outcomes-based customer management—necessary for reducing churn and increasing ACV in competitive enterprise deals.",
+      "importance": "medium"
+    }
+  ],
+  "note": "",
+  "date": "2026-04-17",
+  "generated_at": "2026-04-17 23:40 UTC",
+  "total_signals": 26
+}

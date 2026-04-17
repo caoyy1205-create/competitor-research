@@ -1,0 +1,74 @@
+{
+  "competitor": "Perplexity AI",
+  "summary": "Perplexity AI is aggressively expanding its engineering and research capabilities across AI, Search, Mobile, Security, and Customer Success—signaling accelerated product development and enterprise readiness. The simultaneous hiring of an Engineering Site Lead, AI Research Lead, and Director of Commercial Legal (Enterprise) suggests a strategic pivot toward scaling infrastructure, deepening R&D leadership, and building enterprise sales and compliance capacity.",
+  "signals": [
+    {
+      "type": "hiring",
+      "title": "Engineering Site Lead (AI Department)",
+      "url": "https://jobs.ashbyhq.com/perplexity/638e6823-be7f-46c6-9675-7b1197fc9b8c",
+      "date": "2026-04-17",
+      "insight": "Indicates Perplexity is formalizing AI engineering leadership to coordinate cross-functional AI development, suggesting maturation beyond startup-scale execution and increased focus on scalable, production-grade AI systems.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "AI Research Lead",
+      "url": "https://jobs.ashbyhq.com/perplexity/16bc54a6-83ab-4802-8a65-d88fbb7ebe03",
+      "date": "2026-04-17",
+      "insight": "Signals a strategic investment in internal AI research leadership—likely to drive proprietary model advancements, retrieval-augmented reasoning, or agent-based capabilities that differentiate Perplexity from competitors relying on third-party LLMs.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Director, Commercial Legal (Enterprise)",
+      "url": "https://jobs.ashbyhq.com/perplexity/40fbae50-e61c-4d28-8122-8800988b8595",
+      "date": "2026-04-17",
+      "insight": "Confirms Perplexity's active pursuit of enterprise contracts, requiring legal infrastructure for SLAs, data residency, compliance (e.g., SOC 2, GDPR), and custom deployment—directly threatening incumbents like Coveo and emerging rivals in B2B search/AI assistants.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "AI Inference Engineer & AI Infrastructure Engineer (AI Department)",
+      "url": "https://jobs.ashbyhq.com/perplexity/8a976851-9bef-4b07-8d36-567fa9540aef",
+      "date": "2026-04-17",
+      "insight": "Highlights prioritization of low-latency, cost-efficient inference and scalable AI infrastructure—critical for maintaining real-time answer quality and economic viability as usage grows, especially against latency-sensitive competitors like You.com or Phind.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Search Core Engineers (Search Engine Developer, ML Engineer, Crawler Engineer)",
+      "url": "https://jobs.ashbyhq.com/perplexity/27aa1a14-bc59-4613-a65a-38598695076f",
+      "date": "2026-04-17",
+      "insight": "Reinforces Perplexity's foundational bet on proprietary, high-fidelity web-scale search—suggesting ongoing investment in crawling freshness, ranking relevance, and semantic indexing to sustain its key differentiator over LLM-only interfaces.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "AI Security Engineer & Application Security Engineer",
+      "url": "https://jobs.ashbyhq.com/perplexity/cdbf6ccb-2078-4499-b0a6-af8a04754eee",
+      "date": "2026-04-17",
+      "insight": "Reflects growing emphasis on securing AI supply chains, prompt injection resistance, and model integrity—essential for enterprise trust and regulatory alignment, positioning Perplexity to compete in highly scrutinized sectors like finance and healthcare.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Customer Support and Success Associate APAC",
+      "url": "https://jobs.ashbyhq.com/perplexity/c0c29041-ebcb-40e6-b4ab-80b386922d8c",
+      "date": "2026-04-17",
+      "insight": "Marks Perplexity's first explicit regional expansion in customer-facing operations, indicating early-stage international commercialization and intent to capture non-US developer and enterprise users ahead of broader market entry.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Forward Deployed Engineer (Applied AI)",
+      "url": "https://jobs.ashbyhq.com/perplexity/aa511ea8-96e3-42ba-b28f-5e222170bcee",
+      "date": "2026-04-17",
+      "insight": "Suggests Perplexity is building capacity to co-develop custom AI solutions with strategic clients—enabling vertical-specific workflows and integration, a capability critical for displacing legacy enterprise search and knowledge management tools.",
+      "importance": "high"
+    }
+  ],
+  "note": "",
+  "date": "2026-04-17",
+  "generated_at": "2026-04-17 23:40 UTC",
+  "total_signals": 20
+}
