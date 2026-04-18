@@ -1,0 +1,74 @@
+{
+  "competitor": "Notion AI",
+  "summary": "Notion AI is accelerating enterprise readiness through rapid API enhancements—especially around comments, filtering, and block-level formatting—and simultaneously scaling its go-to-market engine with a massive global hiring surge across sales, customer success, and AI security roles. The creation of a new Pulumi SDK for Elasticstack signals infrastructure modernization and potential observability or AI model monitoring investments.",
+  "signals": [
+    {
+      "type": "github",
+      "title": "notion-sdk-js v5.19.0 adds UpdateComment endpoint and markdown field updates",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.19.0",
+      "date": "2026-04-17",
+      "insight": "Enables programmatic editing of AI-generated comments—critical for enterprise workflows requiring auditability, version control, and integration with review/approval systems.",
+      "importance": "high"
+    },
+    {
+      "type": "github",
+      "title": "notion-sdk-js v5.18.0 adds multi-value filters for select/status/multi_select properties",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.18.0",
+      "date": "2026-04-13",
+      "insight": "Dramatically improves query flexibility for relational and operational databases built in Notion AI, strengthening its viability as a low-code backend for internal tools competing with Airtable and Retool.",
+      "importance": "high"
+    },
+    {
+      "type": "github",
+      "title": "notion-sdk-js v5.17.0 adds markdown parameter to Create Comment endpoint",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.17.0",
+      "date": "2026-04-07",
+      "insight": "Allows rich formatting (e.g., code blocks, lists) in AI-generated comments—enhancing usability for technical teams and signaling deeper LLM output structuring capabilities.",
+      "importance": "medium"
+    },
+    {
+      "type": "github",
+      "title": "New pulumi-elasticstack-sdk repo published",
+      "url": "https://github.com/makenotion/pulumi-elasticstack-sdk",
+      "date": "2026-03-23",
+      "insight": "Suggests active investment in Elastic-powered observability, logging, or AI model telemetry—potentially enabling real-time monitoring of AI latency, hallucination rates, or RAG pipeline health.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Application Security Engineer, AI Security",
+      "url": "https://jobs.ashbyhq.com/notion/e3944777-d4a8-41d2-88ab-32daef949d4e",
+      "date": "2026-04-18",
+      "insight": "First explicit AI security role signals formalization of AI governance, red-teaming, and compliance efforts—directly addressing enterprise buyers' top concern and differentiating from less secure competitors.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Global expansion of Enterprise & Mid-Market Account Executives (7+ roles)",
+      "url": "https://jobs.ashbyhq.com/notion/0fe96f47-a9ea-4623-ac73-9053c3541297",
+      "date": "2026-04-18",
+      "insight": "Aggressive sales force buildout across AMER, EMEA, and APAC confirms prioritization of enterprise land-and-expand motion, posing direct competitive pressure on Coda, ClickUp, and Microsoft Loop.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Solutions Engineer, EMEA and Sales Manager, Asia",
+      "url": "https://jobs.ashbyhq.com/notion/6ad34426-b980-436b-80c4-3634c00094ad",
+      "date": "2026-04-18",
+      "insight": "Regional pre-sales capacity expansion indicates imminent localized GTM launches—including potentially AI-powered vertical solutions or compliance-ready deployments for EU/Asia markets.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Software Engineer, Datastore and Data Platform",
+      "url": "https://jobs.ashbyhq.com/notion/3fbcf972-52d5-4475-8720-040025c6f7da",
+      "date": "2026-04-18",
+      "insight": "Signals foundational investment in scalable, low-latency data infrastructure—essential for real-time AI features like live collaborative editing, vector search, and personalized recommendations.",
+      "importance": "high"
+    }
+  ],
+  "note": "",
+  "date": "2026-04-18",
+  "generated_at": "2026-04-18 23:36 UTC",
+  "total_signals": 26
+}

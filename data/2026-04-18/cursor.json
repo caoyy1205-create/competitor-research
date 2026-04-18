@@ -1,0 +1,74 @@
+{
+  "competitor": "Cursor",
+  "summary": "Cursor is executing a major engineering and go-to-market expansion, with 20 new job postings concentrated on infrastructure, AI/ML systems, enterprise capabilities, and growth functions. The breadth of roles—spanning Agent Harness, Model Routing & Inference, Storage, Client Infrastructure, and Enterprise—signals accelerated product diversification and scaling for commercialization, particularly in high-stakes AI developer tooling segments. Notably, the addition of GTM Engineer, Geo Enterprise AE, and AI Deployment Manager roles confirms a strategic pivot toward enterprise sales motion and AI solution delivery.",
+  "signals": [
+    {
+      "type": "hiring",
+      "title": "Hiring for Software Engineer, Agent Harness",
+      "url": "https://jobs.ashbyhq.com/cursor/6e6f5bc2-eb32-40e2-bba9-cfa56479600d",
+      "date": "2026-04-18",
+      "insight": "Signals active investment in autonomous agent architecture—a key differentiator in next-gen AI coding assistants—directly competing with GitHub Copilot's upcoming agent features and Replit's Ghostwriter evolution.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring for Engineering Manager, Model Routing & Inference",
+      "url": "https://jobs.ashbyhq.com/cursor/e3966cb2-c584-4c8a-9d25-1309af31b3a9",
+      "date": "2026-04-18",
+      "insight": "Indicates deep technical focus on optimizing LLM inference performance and cost—critical for real-time IDE integration and a direct competitive lever against latency-sensitive rivals like Tabnine and CodeWhisperer.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring for Software Engineer, Enterprise",
+      "url": "https://jobs.ashbyhq.com/cursor/54a9cfcd-570a-4e9c-b52c-bd2336c60991",
+      "date": "2026-04-18",
+      "insight": "Confirms formalization of an enterprise sales and delivery track, enabling competitive pursuit of large dev teams currently served by GitHub's Enterprise Cloud and GitLab Duo, especially amid tightening AI governance requirements.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring for Geo Enterprise Account Executive",
+      "url": "https://jobs.ashbyhq.com/cursor/61e4677d-cf3d-458a-bf6c-02287d5d2c39",
+      "date": "2026-04-18",
+      "insight": "Demonstrates geographic expansion intent (e.g., EMEA/APAC) to capture enterprise contracts ahead of competitors still focused on US-first GTM, increasing competitive pressure on regional pricing and compliance offerings.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring for AI Deployment Manager",
+      "url": "https://jobs.ashbyhq.com/cursor/193c326d-2ffc-4c11-8bba-73d243fd178b",
+      "date": "2026-04-18",
+      "insight": "Suggests Cursor is building customer-facing AI ops capability to support on-prem/private-cloud deployments—addressing a critical gap vs. GitHub's cloud-only model and positioning against GitLab's self-managed AI roadmap.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring for Software Engineer, Storage",
+      "url": "https://jobs.ashbyhq.com/cursor/515926c1-f044-4aff-9d5f-0bb84cb7eca2",
+      "date": "2026-04-18",
+      "insight": "Points to backend infrastructure scaling for context-aware, stateful coding agents—enabling persistent memory and project-aware reasoning that outperforms stateless competitors like Sourcegraph Cody.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring for GTM Engineer, Growth Programs",
+      "url": "https://jobs.ashbyhq.com/cursor/044a003e-d6cc-43b6-806a-833d9399c3d4",
+      "date": "2026-04-18",
+      "insight": "Reveals integration of engineering talent into growth marketing—accelerating experimentation with conversion funnels, in-product activation, and usage-based monetization, threatening incumbents reliant on traditional SaaS pricing models.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring for Research Scientist",
+      "url": "https://jobs.ashbyhq.com/cursor/cd4bad0a-e2f6-4a8d-9b57-ce1780efedae",
+      "date": "2026-04-18",
+      "insight": "Signals continued R&D investment in foundational AI for code—potentially targeting novel training paradigms or domain-specific LLMs that could erode the advantage of larger models used by AWS CodeWhisperer or Google's Studio Bot.",
+      "importance": "medium"
+    }
+  ],
+  "note": "",
+  "date": "2026-04-18",
+  "generated_at": "2026-04-18 23:35 UTC",
+  "total_signals": 20
+}

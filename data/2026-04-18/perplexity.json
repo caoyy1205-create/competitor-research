@@ -1,0 +1,74 @@
+{
+  "competitor": "Perplexity AI",
+  "summary": "Perplexity AI is executing a major engineering expansion across AI, Search, Mobile, Security, and Customer Success functions, signaling aggressive scaling ahead of potential enterprise product launches. The simultaneous hiring for AI Research Lead, AI Infrastructure, Inference, and Applied ML roles indicates deep investment in proprietary model optimization and real-world deployment capabilities. A new Director of Commercial Legal (Enterprise) suggests imminent focus on B2B contracts and large-scale customer acquisition.",
+  "signals": [
+    {
+      "type": "hiring",
+      "title": "Engineering Site Lead (AI Department)",
+      "url": "https://jobs.ashbyhq.com/perplexity/638e6823-be7f-46c6-9675-7b1197fc9b8c",
+      "date": "2026-04-18",
+      "insight": "Establishing formal AI engineering leadership signals maturation of R&D operations and intent to scale AI development velocity and cross-team coordination.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "AI Inference Engineer",
+      "url": "https://jobs.ashbyhq.com/perplexity/8a976851-9bef-4b07-8d36-567fa9540aef",
+      "date": "2026-04-18",
+      "insight": "Focus on inference optimization reveals strategic priority to reduce latency/cost for real-time, high-volume user interactions—critical for maintaining competitive advantage over LLM-based search rivals.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "AI Infrastructure Engineer",
+      "url": "https://jobs.ashbyhq.com/perplexity/598e1f7d-b802-4de2-99ac-90eb2bc33315",
+      "date": "2026-04-18",
+      "insight": "Building dedicated infrastructure capacity implies Perplexity is moving beyond API-dependent models toward self-hosted, customizable inference stacks—enabling differentiation in performance, privacy, and customization.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Search Core Engineering Roles (Engine Developer, Crawler, ML Engineer)",
+      "url": "https://jobs.ashbyhq.com/perplexity/27aa1a14-bc59-4613-a65a-38598695076f",
+      "date": "2026-04-18",
+      "insight": "Concentrated hiring across search crawler, core engine, and ML signals continued heavy investment in proprietary search stack—directly challenging Google and Microsoft's dominance with vertically integrated AI-native search.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "AI Security Engineer & Cloud/Application Security Engineers",
+      "url": "https://jobs.ashbyhq.com/perplexity/cdbf6ccb-2078-4499-b0a6-af8a04754eee",
+      "date": "2026-04-18",
+      "insight": "Tripling security engineering hires in AI, cloud, and app layers indicates preparation for regulated enterprise adoption and trust-critical deployments where security posture is a key differentiator vs. general-purpose LLMs.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Director, Commercial Legal (Enterprise)",
+      "url": "https://jobs.ashbyhq.com/perplexity/40fbae50-e61c-4d28-8122-8800988b8595",
+      "date": "2026-04-18",
+      "insight": "Adding enterprise-focused legal leadership strongly suggests imminent commercialization of B2B offerings, including SLAs, data residency guarantees, and compliance frameworks required for Fortune 500 sales cycles.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "iOS Software Engineer & Backend Engineer (Mobile)",
+      "url": "https://jobs.ashbyhq.com/perplexity/1dc97d9e-565e-4079-9fba-40fab14a3602",
+      "date": "2026-04-18",
+      "insight": "Dual-track mobile engineering hiring confirms prioritization of native app experience—essential for capturing high-engagement users and competing with mobile-first AI assistants like Arc and Cursor.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "AI Research Lead & AI Researcher",
+      "url": "https://jobs.ashbyhq.com/perplexity/16bc54a6-83ab-4802-8a65-d88fbb7ebe03",
+      "date": "2026-04-18",
+      "insight": "Hiring senior research leadership alongside researchers signals intent to publish or productize novel techniques—potentially in retrieval-augmented generation, reasoning efficiency, or multimodal grounding—to strengthen technical moat.",
+      "importance": "high"
+    }
+  ],
+  "note": "",
+  "date": "2026-04-18",
+  "generated_at": "2026-04-18 23:36 UTC",
+  "total_signals": 20
+}
