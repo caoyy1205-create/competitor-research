@@ -1,0 +1,74 @@
+{
+  "competitor": "Notion AI",
+  "summary": "Notion AI is accelerating enterprise readiness through rapid API enhancements—especially around comments, filtering, and block-level formatting—and simultaneously scaling its go-to-market motion with a massive global hiring surge across sales, customer success, and AI security roles. The new pulumi-elasticstack-sdk signals infrastructure modernization for cloud-native deployments, while the concentration of sales hires in EMEA, DACH, UK, and Asia confirms aggressive international expansion targeting mid-market and enterprise segments.",
+  "signals": [
+    {
+      "type": "github",
+      "title": "notion-sdk-js v5.19.0 adds UpdateComment endpoint and markdown field updates",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.19.0",
+      "date": "2026-04-17",
+      "insight": "Enables programmatic editing of AI-generated comments—critical for workflow automation, auditability, and integration with CRM/ITSM tools, strengthening Notion AI's position against ClickUp AI and Coda AI in collaborative knowledge ops.",
+      "importance": "high"
+    },
+    {
+      "type": "github",
+      "title": "notion-sdk-js v5.18.0 adds multi-value filters for select/status/multi_select properties",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.18.0",
+      "date": "2026-04-13",
+      "insight": "Dramatically improves query flexibility for relational data and AI-powered dashboards, enabling richer analytics and dynamic views—directly competing with Airtable's formula-driven filtering and enhancing Notion AI's viability as a lightweight operational database.",
+      "importance": "high"
+    },
+    {
+      "type": "github",
+      "title": "notion-sdk-js v5.17.0 adds markdown parameter to Create Comment endpoint",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.17.0",
+      "date": "2026-04-07",
+      "insight": "Allows rich formatting (e.g., code blocks, lists) in AI-generated comments—improving usability for technical teams and differentiating from linear-comment competitors like Linear or Jira AI.",
+      "importance": "medium"
+    },
+    {
+      "type": "github",
+      "title": "New repo: pulumi-elasticstack-sdk for Elasticstack Terraform provider",
+      "url": "https://github.com/makenotion/pulumi-elasticstack-sdk",
+      "date": "2026-03-23",
+      "insight": "Signals strategic investment in infrastructure-as-code tooling for observability and log management—likely supporting scalable, compliant AI inference pipelines and positioning Notion AI for regulated enterprise adoption.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Application Security Engineer, AI Security",
+      "url": "https://jobs.ashbyhq.com/notion/e3944777-d4a8-41d2-88ab-32daef949d4e",
+      "date": "2026-04-19",
+      "insight": "Explicit focus on AI-specific security signals proactive response to growing regulatory scrutiny (e.g., EU AI Act) and differentiates Notion AI from less mature AI vendors lacking dedicated AI red-teaming or model guardrail capabilities.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Multiple global Account Executive roles: DACH, UK, EMEA, Asia, SF",
+      "url": "https://jobs.ashbyhq.com/notion/dcee20e4-9e14-417a-9c96-c3e5ad6324da",
+      "date": "2026-04-19",
+      "insight": "Unprecedented geographic breadth in sales hiring indicates accelerated international monetization—posing direct competitive pressure on regional collaboration platforms like Confluence (APAC), Miro (EMEA), and ClickUp (DACH).",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Solutions Engineer, EMEA and Manager, Scaled Customer Success",
+      "url": "https://jobs.ashbyhq.com/notion/6ad34426-b980-436b-80c4-3634c00094ad",
+      "date": "2026-04-19",
+      "insight": "Building pre-sales and post-sales muscle in high-growth regions shows commitment to complex deal cycles and long-term platform adoption—key to displacing entrenched enterprise tools like SharePoint or ServiceNow.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Software Engineer, Datastore and Data Platform",
+      "url": "https://jobs.ashbyhq.com/notion/3fbcf972-52d5-4475-8720-040025c6f7da",
+      "date": "2026-04-19",
+      "insight": "Investment in core data infrastructure suggests upcoming scalability improvements for AI features—such as real-time vector search or cross-workspace knowledge graphs—enhancing competitiveness against AI-native rivals like Mem.ai.",
+      "importance": "high"
+    }
+  ],
+  "note": "",
+  "date": "2026-04-19",
+  "generated_at": "2026-04-19 23:38 UTC",
+  "total_signals": 26
+}

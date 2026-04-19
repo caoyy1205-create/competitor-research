@@ -1,0 +1,74 @@
+{
+  "competitor": "Perplexity AI",
+  "summary": "Perplexity AI is executing a major engineering expansion across AI, Search, Mobile, and Security domains, signaling aggressive product scaling and enterprise readiness. The simultaneous hiring of an Engineering Site Lead, AI Research Lead, and Commercial Legal Director indicates preparation for organizational growth, technical leadership consolidation, and imminent enterprise go-to-market efforts. Notably, the concentration of roles in AI Infrastructure, Inference, and Applied AI—alongside dedicated Search Core and Crawler engineers—reveals deep investment in vertically integrated, real-time search-augmented reasoning capabilities.",
+  "signals": [
+    {
+      "type": "hiring",
+      "title": "Engineering Site Lead (AI Department)",
+      "url": "https://jobs.ashbyhq.com/perplexity/638e6823-be7f-46c6-9675-7b1197fc9b8c",
+      "date": "2026-04-19",
+      "insight": "Signals formalization of AI engineering leadership to coordinate cross-functional AI development, suggesting Perplexity is moving from startup agility to structured R&D scale—a prerequisite for enterprise trust and complex product roadmaps.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "AI Inference Engineer",
+      "url": "https://jobs.ashbyhq.com/perplexity/8a976851-9bef-4b07-8d36-567fa9540aef",
+      "date": "2026-04-19",
+      "insight": "Indicates prioritization of low-latency, cost-efficient model serving—critical for maintaining Perplexity's real-time answer quality and differentiating against competitors reliant on slower, third-party inference APIs.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "AI Research Lead & AI Researcher roles",
+      "url": "https://jobs.ashbyhq.com/perplexity/16bc54a6-83ab-4802-8a65-d88fbb7ebe03",
+      "date": "2026-04-19",
+      "insight": "Confirms sustained investment in proprietary AI research—likely targeting retrieval-augmented generation (RAG) optimization, reasoning efficiency, or multimodal extensions—enabling defensible IP and reducing reliance on foundation model vendors.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Search Core, Crawler, and ML Engineer roles (Search Department)",
+      "url": "https://jobs.ashbyhq.com/perplexity/27aa1a14-bc59-4613-a65a-38598695076f",
+      "date": "2026-04-19",
+      "insight": "Demonstrates vertical integration of search infrastructure—moving beyond API-based indexing toward proprietary, real-time web crawling and ranking—to strengthen Perplexity's core differentiator: authoritative, up-to-date, cited answers.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "AI Security Engineer & Cloud/Application Security Engineers",
+      "url": "https://jobs.ashbyhq.com/perplexity/cdbf6ccb-2078-4499-b0a6-af8a04754eee",
+      "date": "2026-04-19",
+      "insight": "Suggests proactive hardening of AI systems ahead of enterprise adoption, addressing hallucination mitigation, prompt injection, and model supply chain risks—key gating factors for regulated industry customers.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Forward Deployed Engineer (Applied AI)",
+      "url": "https://jobs.ashbyhq.com/perplexity/aa511ea8-96e3-42ba-b28f-5e222170bcee",
+      "date": "2026-04-19",
+      "insight": "Reveals early-stage enterprise sales motion, where engineers embed with clients to customize AI workflows—indicating Perplexity is transitioning from consumer tool to B2B solution with tailored integrations.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Director, Commercial Legal (Enterprise)",
+      "url": "https://jobs.ashbyhq.com/perplexity/40fbae50-e61c-4d28-8122-8800988b8595",
+      "date": "2026-04-19",
+      "insight": "Confirms imminent enterprise contract negotiations, including SLAs, data residency, IP ownership, and compliance (e.g., SOC 2, GDPR), positioning Perplexity to compete directly with Anthropic and Cohere for commercial AI contracts.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Customer Support and Success Associate APAC",
+      "url": "https://jobs.ashbyhq.com/perplexity/c0c29041-ebcb-40e6-b4ab-80b386922d8c",
+      "date": "2026-04-19",
+      "insight": "Marks first explicit geographic expansion signal in APAC, implying localized go-to-market strategy and responsiveness to regional demand—potentially countering regional incumbents like Naver or Line in Japan/Korea.",
+      "importance": "medium"
+    }
+  ],
+  "note": "",
+  "date": "2026-04-19",
+  "generated_at": "2026-04-19 23:37 UTC",
+  "total_signals": 20
+}
