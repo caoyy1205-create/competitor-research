@@ -1,0 +1,74 @@
+{
+  "competitor": "Notion AI",
+  "summary": "Notion AI is accelerating its enterprise sales expansion with a surge of global sales and customer success hiring across AMER, EMEA, UK, DACH, and Asia, while simultaneously enhancing developer-facing AI capabilities via the notion-sdk-js—adding comment markdown support, multi-value property filters, and comment update functionality. The creation of a new Pulumi SDK for Elasticstack signals infrastructure modernization efforts aligned with AI scalability and observability.",
+  "signals": [
+    {
+      "type": "github",
+      "title": "notion-sdk-js v5.19.0 adds UpdateComment endpoint and markdown field updates",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.19.0",
+      "date": "2026-04-17",
+      "insight": "Enables programmatic editing of AI-generated comments—critical for workflow automation, auditability, and tighter integration with third-party AI orchestration tools.",
+      "importance": "high"
+    },
+    {
+      "type": "github",
+      "title": "notion-sdk-js v5.18.0 adds multi-value filters for select/status/multi_select properties",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.18.0",
+      "date": "2026-04-13",
+      "insight": "Improves AI-powered data querying precision in relational databases and dashboards, directly strengthening Notion AI's competitive edge against Airtable and Coda in structured-data use cases.",
+      "importance": "high"
+    },
+    {
+      "type": "github",
+      "title": "notion-sdk-js v5.17.0 adds markdown parameter to Create Comment endpoint",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.17.0",
+      "date": "2026-04-07",
+      "insight": "Allows rich formatting (e.g., code blocks, lists) in AI-generated comments—enhancing usability for technical teams and raising the bar for AI output fidelity versus competitors like ClickUp AI.",
+      "importance": "high"
+    },
+    {
+      "type": "github",
+      "title": "New pulumi-elasticstack-sdk repo signals infrastructure investment",
+      "url": "https://github.com/makenotion/pulumi-elasticstack-sdk",
+      "date": "2026-03-23",
+      "insight": "Indicates strategic adoption of Elastic Stack for observability and telemetry—essential for scaling AI inference monitoring, latency optimization, and compliance reporting in enterprise deployments.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Enterprise Account Executive roles launched in San Francisco, UK, and DACH",
+      "url": "https://jobs.ashbyhq.com/notion/479b8826-d166-433b-8d7e-373cda9c533e",
+      "date": "2026-04-20",
+      "insight": "Signals aggressive global enterprise GTM expansion targeting regulated industries, posing direct competitive pressure on Monday.com and Asana in high-ACV verticals.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Sales Manager, Asia and regional Customer Success Managers hired",
+      "url": "https://jobs.ashbyhq.com/notion/92601e94-66c8-46ef-b949-da1547a5caa8",
+      "date": "2026-04-20",
+      "insight": "Confirms formalized APAC market entry strategy, enabling localized AI solutioning and compliance support—key to challenging regional incumbents like Naver Works and Tencent Docs.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Application Security Engineer, AI Security role posted",
+      "url": "https://jobs.ashbyhq.com/notion/e3944777-d4a8-41d2-88ab-32daef949d4e",
+      "date": "2026-04-20",
+      "insight": "Highlights prioritization of AI-specific security (e.g., prompt injection, model watermarking, RAG data leakage)—a critical differentiator as enterprises demand auditable AI governance.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Software Engineer, Datastore and Data Platform roles opened",
+      "url": "https://jobs.ashbyhq.com/notion/3fbcf972-52d5-4475-8720-040025c6f7da",
+      "date": "2026-04-20",
+      "insight": "Suggests backend infrastructure scaling to support higher-volume AI operations—including real-time vector indexing and hybrid retrieval—a prerequisite for reliable enterprise-grade AI performance.",
+      "importance": "medium"
+    }
+  ],
+  "note": "",
+  "date": "2026-04-20",
+  "generated_at": "2026-04-20 23:43 UTC",
+  "total_signals": 26
+}
