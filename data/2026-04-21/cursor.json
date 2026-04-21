@@ -1,0 +1,74 @@
+{
+  "competitor": "Cursor",
+  "summary": "Cursor is executing a major engineering and go-to-market expansion, with 12+ engineering roles spanning infrastructure, storage, ML research, agent systems, and enterprise—indicating deep product scaling and AI-native architecture investment. Concurrently, the pricing page refresh suggests strategic monetization refinement, likely in response to market feedback or competitive pressure. The addition of GTM, Field Engineering, and AI Deployment roles signals accelerated enterprise motion and customer-facing AI integration capabilities.",
+  "signals": [
+    {
+      "type": "hiring",
+      "title": "Hiring Software Engineer, Agent Harness",
+      "url": "https://jobs.ashbyhq.com/cursor/6e6f5bc2-eb32-40e2-bba9-cfa56479600d",
+      "date": "2026-04-21",
+      "insight": "Signals prioritization of autonomous agent development—a key differentiator in the AI coding assistant market—and suggests upcoming agent-first features or workflows.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Engineering Manager, Model Routing & Inference",
+      "url": "https://jobs.ashbyhq.com/cursor/e3966cb2-c584-4c8a-9d25-1309af31b3a9",
+      "date": "2026-04-21",
+      "insight": "Reveals investment in low-latency, cost-efficient LLM orchestration—critical for performance differentiation against competitors like GitHub Copilot and Tabnine.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Software Engineer, Enterprise",
+      "url": "https://jobs.ashbyhq.com/cursor/54a9cfcd-570a-4e9c-b52c-bd2336c60991",
+      "date": "2026-04-21",
+      "insight": "Confirms dedicated enterprise product engineering, implying roadmap investments in SSO, auditability, on-prem deployment, or compliance—directly challenging GitHub's enterprise dominance.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring AI Deployment Manager",
+      "url": "https://jobs.ashbyhq.com/cursor/193c326d-2ffc-4c11-8bba-73d243fd178b",
+      "date": "2026-04-21",
+      "insight": "Indicates shift from self-serve to high-touch AI adoption support—key for winning large engineering orgs where deployment friction blocks usage.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring GTM Engineer, Growth Programs",
+      "url": "https://jobs.ashbyhq.com/cursor/044a003e-d6cc-43b6-806a-833d9399c3d4",
+      "date": "2026-04-21",
+      "insight": "Blends engineering and growth expertise to automate and scale acquisition/activation—suggesting data-driven experimentation to improve conversion in a crowded developer tool market.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Research Scientist",
+      "url": "https://jobs.ashbyhq.com/cursor/cd4bad0a-e2f6-4a8d-9b57-ce1780efedae",
+      "date": "2026-04-21",
+      "insight": "Signals long-term R&D commitment beyond fine-tuning—potentially targeting novel code-generation architectures or reasoning techniques to outpace open-weight alternatives.",
+      "importance": "medium"
+    },
+    {
+      "type": "pricing",
+      "title": "Pricing page changed significantly",
+      "url": "https://cursor.com/pricing",
+      "date": "2026-04-21",
+      "insight": "Likely reflects tier restructuring (e.g., introducing usage-based billing, team plans, or AI compute add-ons) to improve ARPU and align with enterprise buyer expectations.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Security GRC Engineer",
+      "url": "https://jobs.ashbyhq.com/cursor/59b8511c-3fd5-42c3-87ca-41d3990438ab",
+      "date": "2026-04-21",
+      "insight": "Addresses critical trust barrier for enterprise sales by building internal compliance capacity—essential for competing in regulated industries and against incumbents with mature security programs.",
+      "importance": "high"
+    }
+  ],
+  "note": "",
+  "date": "2026-04-21",
+  "generated_at": "2026-04-21 23:35 UTC",
+  "total_signals": 21
+}

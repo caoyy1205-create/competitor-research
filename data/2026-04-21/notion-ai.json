@@ -1,0 +1,74 @@
+{
+  "competitor": "Notion AI",
+  "summary": "Notion AI is aggressively expanding its enterprise sales and customer success capabilities globally, with a concentrated hiring push across mid-market, commercial, and enterprise sales roles—including regional coverage in DACH, EMEA, Asia, and AMER. Concurrently, it is investing in infrastructure and security foundations for AI-powered offerings, evidenced by a new Pulumi SDK for Elasticstack and a dedicated AI Security engineering role. This signals a strategic pivot toward scalable, secure, and commercially mature AI platform delivery.",
+  "signals": [
+    {
+      "type": "github",
+      "title": "New Pulumi SDK for Elasticstack Terraform provider",
+      "url": "https://github.com/makenotion/pulumi-elasticstack-sdk",
+      "date": "2026-03-23",
+      "insight": "Indicates Notion AI is building robust, infrastructure-as-code–enabled observability and logging capabilities—critical for production-grade AI systems and enterprise compliance.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Enterprise Account Executive, San Francisco",
+      "url": "https://jobs.ashbyhq.com/notion/479b8826-d166-433b-8d7e-373cda9c533e",
+      "date": "2026-04-21",
+      "insight": "Signals prioritization of high-touch enterprise sales in the core US tech hub, suggesting imminent expansion of AI-powered enterprise contracts and integrations.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Sales Manager, Asia",
+      "url": "https://jobs.ashbyhq.com/notion/92601e94-66c8-46ef-b949-da1547a5caa8",
+      "date": "2026-04-21",
+      "insight": "Reveals formalized geographic expansion into Asia—a key growth market—indicating localized go-to-market strategy for Notion AI beyond North America and EMEA.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Application Security Engineer, AI Security",
+      "url": "https://jobs.ashbyhq.com/notion/e3944777-d4a8-41d2-88ab-32daef949d4e",
+      "date": "2026-04-21",
+      "insight": "Highlights growing emphasis on AI-specific security posture—directly addressing enterprise buyers' top concern and differentiating Notion AI from less-secured AI competitors.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Manager, Scaled Customer Success",
+      "url": "https://jobs.ashbyhq.com/notion/d397d9c7-0d37-45fe-a218-c7b69812a237",
+      "date": "2026-04-21",
+      "insight": "Suggests Notion AI is shifting from reactive to proactive, scalable CS models—essential for retaining and expanding AI seat-based or usage-based revenue streams.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Software Engineer, Datastore",
+      "url": "https://jobs.ashbyhq.com/notion/3fbcf972-52d5-4475-8720-040025c6f7da",
+      "date": "2026-04-21",
+      "insight": "Points to foundational investment in low-latency, AI-optimized data storage—critical for real-time RAG, personalization, and complex workspace intelligence features.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Account Executive, Mid-Market, DACH",
+      "url": "https://jobs.ashbyhq.com/notion/dcee20e4-9e14-417a-9c96-c3e5ad6324da",
+      "date": "2026-04-21",
+      "insight": "Confirms targeted expansion into German-speaking enterprise markets, where data sovereignty and AI governance requirements are stringent and competitive.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Solutions Engineer, EMEA",
+      "url": "https://jobs.ashbyhq.com/notion/6ad34426-b980-436b-80c4-3634c00094ad",
+      "date": "2026-04-21",
+      "insight": "Indicates growing technical sales capacity to support complex AI use-case deployments and integration narratives in regulated EMEA markets.",
+      "importance": "medium"
+    }
+  ],
+  "note": "",
+  "date": "2026-04-21",
+  "generated_at": "2026-04-21 23:36 UTC",
+  "total_signals": 21
+}
