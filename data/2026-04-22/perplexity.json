@@ -1,0 +1,74 @@
+{
+  "competitor": "Perplexity AI",
+  "summary": "Perplexity AI is executing a major engineering expansion across AI, Search, Mobile, and Security domains, signaling aggressive product scaling and enterprise readiness. The simultaneous hiring of an AI Research Lead, Engineering Site Lead, and Director of Commercial Legal underscores strategic focus on R&D leadership, technical execution, and enterprise go-to-market capability.",
+  "signals": [
+    {
+      "type": "hiring",
+      "title": "Engineering Site Lead (AI Department)",
+      "url": "https://jobs.ashbyhq.com/perplexity/638e6823-be7f-46c6-9675-7b1197fc9b8c",
+      "date": "2026-04-22",
+      "insight": "This senior leadership hire indicates Perplexity is formalizing AI engineering governance and scaling its core AI development organization—potentially accelerating model iteration, agent capabilities, or proprietary inference stack deployment.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "AI Research Lead",
+      "url": "https://jobs.ashbyhq.com/perplexity/16bc54a6-83ab-4802-8a65-d88fbb7ebe03",
+      "date": "2026-04-22",
+      "insight": "A dedicated Research Lead signals intensified investment in foundational AI research—likely targeting differentiation in reasoning, multimodal grounding, or efficient long-context inference to outpace competitors like Anthropic and Google Gemini.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Director, Commercial Legal (Enterprise)",
+      "url": "https://jobs.ashbyhq.com/perplexity/40fbae50-e61c-4d28-8122-8800988b8595",
+      "date": "2026-04-22",
+      "insight": "This role confirms Perplexity's active push into enterprise sales, requiring contract structuring, compliance frameworks, and SLA negotiation—directly enabling competitive bids against Microsoft Copilot and Anthropic Enterprise.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "AI Inference Engineer & AI Infrastructure Engineer (AI Department)",
+      "url": "https://jobs.ashbyhq.com/perplexity/8a976851-9bef-4b07-8d36-567fa9540aef",
+      "date": "2026-04-22",
+      "insight": "Dual infrastructure-focused AI hires suggest imminent optimization or re-architecting of Perplexity's inference stack—critical for reducing latency/cost and supporting real-time, high-volume enterprise workloads.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Search Core Engineering Roles (3 roles: Search Engine Developer, ML Engineer, Crawler Backend)",
+      "url": "https://jobs.ashbyhq.com/perplexity/27aa1a14-bc59-4613-a65a-38598695076f",
+      "date": "2026-04-22",
+      "insight": "Concentrated hiring in search core—including crawler, ML, and engine development—reveals prioritization of proprietary indexing and retrieval quality, directly challenging Bing, Google, and emerging AI-native search rivals.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "AI Security Engineer & Application Security Engineer (Security Department)",
+      "url": "https://jobs.ashbyhq.com/perplexity/cdbf6ccb-2078-4499-b0a6-af8a04754eee",
+      "date": "2026-04-22",
+      "insight": "Dedicated AI and app security roles indicate proactive hardening of the platform ahead of enterprise adoption, addressing critical trust gaps that currently hinder Perplexity's competitiveness in regulated sectors.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "iOS Software Engineer & Backend Engineer (Mobile Department)",
+      "url": "https://jobs.ashbyhq.com/perplexity/1dc97d9e-565e-4079-9fba-40fab14a3602",
+      "date": "2026-04-22",
+      "insight": "Mobile engineering hires confirm continued investment in native app experiences—essential for user retention, offline functionality, and capturing mobile-first workflows where competitors like ChatGPT still rely heavily on web.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Customer Support and Success Associate APAC",
+      "url": "https://jobs.ashbyhq.com/perplexity/c0c29041-ebcb-40e6-b4ab-80b386922d8c",
+      "date": "2026-04-22",
+      "insight": "APAC-specific customer success hiring reflects geographic expansion intent and signals preparation for regional enterprise demand, increasing competitive pressure on local AI players and global incumbents in Asia-Pacific markets.",
+      "importance": "medium"
+    }
+  ],
+  "note": "",
+  "date": "2026-04-22",
+  "generated_at": "2026-04-22 23:46 UTC",
+  "total_signals": 20
+}

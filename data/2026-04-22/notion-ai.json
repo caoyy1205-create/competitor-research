@@ -1,0 +1,74 @@
+{
+  "competitor": "Notion AI",
+  "summary": "Notion AI is accelerating its enterprise GTM expansion with a major hiring surge across sales, customer success, and security roles—particularly in Japan and EMEA—while simultaneously enhancing API capabilities for richer AI-powered collaboration features like comment markdown support, multi-value filtering, and status tracking. The rapid SDK release cadence (5 versions in 26 days) signals aggressive backend investment to support scalable AI integrations and workflow automation.",
+  "signals": [
+    {
+      "type": "github",
+      "title": "notion-sdk-js v5.20.0 adds request_status field to list responses",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.20.0",
+      "date": "2026-04-20",
+      "insight": "Enables developers to programmatically monitor AI request lifecycle states—critical for building robust, production-grade AI workflows and observability tooling that competitors must now match.",
+      "importance": "high"
+    },
+    {
+      "type": "github",
+      "title": "notion-sdk-js v5.18.0 adds multi-value filters for select/status/multi_select properties",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.18.0",
+      "date": "2026-04-13",
+      "insight": "Unlocks advanced AI-driven data querying and dynamic dashboarding capabilities, allowing customers to build more sophisticated, context-aware automations that raise the bar for low-code AI workspace platforms.",
+      "importance": "high"
+    },
+    {
+      "type": "github",
+      "title": "notion-sdk-js v5.17.0 adds markdown parameter to Create Comment endpoint",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.17.0",
+      "date": "2026-04-07",
+      "insight": "Empowers AI agents to generate richly formatted, actionable feedback directly in comments—enhancing collaborative editing and AI-assisted documentation workflows beyond plain-text competitors.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Notion AI hiring Application Security Engineer, AI Security",
+      "url": "https://jobs.ashbyhq.com/notion/e3944777-d4a8-41d2-88ab-32daef949d4e",
+      "date": "2026-04-22",
+      "insight": "Signals formalization of AI-specific security posture amid rising regulatory scrutiny—positioning Notion AI as enterprise-ready and raising the compliance bar for rivals lacking dedicated AI security roles.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Notion AI hiring Account Executives and Solutions Engineers in Japan",
+      "url": "https://jobs.ashbyhq.com/notion/26bc4374-8571-4c10-9d71-36bbe776da2a",
+      "date": "2026-04-22",
+      "insight": "Confirms strategic push into high-value Japanese enterprise market, directly challenging regional incumbents like Cybozu and global players with weak Japan GTM presence.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Notion AI hiring Solutions Engineer, EMEA",
+      "url": "https://jobs.ashbyhq.com/notion/6ad34426-b980-436b-80c4-3634c00094ad",
+      "date": "2026-04-22",
+      "insight": "Indicates targeted expansion into European enterprise accounts, where complex AI use cases and GDPR-aligned deployments require deep technical sales capacity—a capability gap for many AI-native tools.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Notion AI hiring Enterprise Product Marketing, GTM",
+      "url": "https://jobs.ashbyhq.com/notion/5f986e92-f668-4c9b-8b13-3de9cfe737e2",
+      "date": "2026-04-22",
+      "insight": "Reveals shift from product-led growth to full-funnel enterprise GTM—enabling differentiated positioning against AI productivity tools that lack vertical-specific messaging and ROI frameworks.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Notion AI hiring Manager, Scaled Customer Success",
+      "url": "https://jobs.ashbyhq.com/notion/d397d9c7-0d37-45fe-a218-c7b69812a237",
+      "date": "2026-04-22",
+      "insight": "Highlights focus on operationalizing AI adoption at scale—addressing a key enterprise objection around AI toolstickiness and driving expansion revenue through proven outcomes.",
+      "importance": "medium"
+    }
+  ],
+  "note": "",
+  "date": "2026-04-22",
+  "generated_at": "2026-04-22 23:47 UTC",
+  "total_signals": 25
+}
