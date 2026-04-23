@@ -1,0 +1,74 @@
+{
+  "competitor": "Perplexity AI",
+  "summary": "Perplexity AI is executing a major engineering expansion across AI, Search, Mobile, and Security domains, signaling aggressive product scaling and infrastructure maturation. The simultaneous hiring of an Engineering Site Lead for AI and an AI Research Lead—along with multiple specialized roles in inference, platform, and applied ML—indicates a strategic push to vertically integrate AI capabilities and accelerate R&D velocity. Notably, the 'Computer Monetization' role suggests imminent commercialization efforts beyond its current freemium model.",
+  "signals": [
+    {
+      "type": "hiring",
+      "title": "Hiring Engineering Site Lead (AI)",
+      "url": "https://jobs.ashbyhq.com/perplexity/638e6823-be7f-46c6-9675-7b1197fc9b8c",
+      "date": "2026-04-23",
+      "insight": "Signals formalization of AI engineering leadership and likely upcoming investment in scalable, production-grade AI systems that could challenge competitors' inference latency and cost efficiency.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Member of Technical Staff (AI Inference Engineer)",
+      "url": "https://jobs.ashbyhq.com/perplexity/8a976851-9bef-4b07-8d36-567fa9540aef",
+      "date": "2026-04-23",
+      "insight": "Directly targets performance-critical inference optimization—key for real-time, low-cost LLM interactions and a potential differentiator against slower or more expensive rivals like Anthropic or Cohere.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Member of Technical Staff (Software Engineer, Computer Monetization)",
+      "url": "https://jobs.ashbyhq.com/perplexity/043d6a58-87a1-4e3c-bf47-4dc351b94cf4",
+      "date": "2026-04-23",
+      "insight": "Strong indicator of imminent monetization strategy expansion—potentially including desktop app licensing, enterprise API tiers, or usage-based billing, threatening incumbents' revenue models.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Member of Technical Staff (AI Research Lead)",
+      "url": "https://jobs.ashbyhq.com/perplexity/16bc54a6-83ab-4802-8a65-d88fbb7ebe03",
+      "date": "2026-04-23",
+      "insight": "Suggests Perplexity is shifting from applied fine-tuning to foundational research—potentially aiming to reduce reliance on third-party models and build proprietary architectures.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Multiple Search-Core Engineers (Crawler, Engine, ML)",
+      "url": "https://jobs.ashbyhq.com/perplexity/94ccf41e-d3e1-41aa-9569-c3bcbffc4184",
+      "date": "2026-04-23",
+      "insight": "Reinforces Perplexity's core differentiator—real-time, citation-rich search—and implies deeper vertical integration of indexing, ranking, and retrieval, directly challenging Google and Microsoft Copilot.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring AI Security and Cloud Security Engineers",
+      "url": "https://jobs.ashbyhq.com/perplexity/cdbf6ccb-2078-4499-b0a6-af8a04754eee",
+      "date": "2026-04-23",
+      "insight": "Highlights growing emphasis on trust and compliance—critical for enterprise adoption and a prerequisite for competing with Azure AI and AWS Bedrock in regulated sectors.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring iOS and Backend Mobile Engineers",
+      "url": "https://jobs.ashbyhq.com/perplexity/1dc97d9e-565e-4079-9fba-40fab14a3602",
+      "date": "2026-04-23",
+      "insight": "Confirms prioritization of mobile as a primary user channel, enabling tighter integration with device capabilities (e.g., on-device reasoning) and increasing user engagement versus web-only competitors.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Research Resident and AI Researcher Roles",
+      "url": "https://jobs.ashbyhq.com/perplexity/adf189e8-5802-4077-aa1f-3668206aacbb",
+      "date": "2026-04-23",
+      "insight": "Indicates sustained commitment to academic-industry collaboration and talent pipeline development—essential for long-term innovation leadership in a talent-constrained AI landscape.",
+      "importance": "medium"
+    }
+  ],
+  "note": "",
+  "date": "2026-04-23",
+  "generated_at": "2026-04-23 23:46 UTC",
+  "total_signals": 20
+}

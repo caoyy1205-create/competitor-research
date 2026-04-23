@@ -1,0 +1,74 @@
+{
+  "competitor": "Notion AI",
+  "summary": "Notion AI is accelerating enterprise GTM expansion with a surge of sales, customer success, and regional hiring—especially in EMEA, Asia, and Japan—while simultaneously enhancing API capabilities for richer AI-powered collaboration features like comment markdown support, multi-value filtering, and status tracking. The addition of an AI Security-focused Application Security Engineer signals growing emphasis on trust and compliance as Notion scales AI adoption in regulated environments.",
+  "signals": [
+    {
+      "type": "github",
+      "title": "notion-sdk-js v5.20.0 adds request_status field to list responses",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.20.0",
+      "date": "2026-04-20",
+      "insight": "Enables developers to programmatically monitor AI request lifecycle (e.g., pending, completed, failed), critical for building robust, production-grade AI workflows atop Notion's platform.",
+      "importance": "high"
+    },
+    {
+      "type": "github",
+      "title": "notion-sdk-js v5.18.0 adds multi-value filters for select/status/multi_select properties",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.18.0",
+      "date": "2026-04-13",
+      "insight": "Dramatically improves querying flexibility for AI agents and automations that need to filter databases by complex categorical states—key for enterprise knowledge management and AI-augmented decisioning.",
+      "importance": "high"
+    },
+    {
+      "type": "github",
+      "title": "notion-sdk-js v5.17.0 adds markdown parameter to Create Comment endpoint",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.17.0",
+      "date": "2026-04-07",
+      "insight": "Allows AI-generated comments to include rich formatting (e.g., code blocks, lists, links), significantly elevating the quality and utility of AI-assisted collaboration and feedback loops.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Application Security Engineer, AI Security",
+      "url": "https://jobs.ashbyhq.com/notion/e3944777-d4a8-41d2-88ab-32daef949d4e",
+      "date": "2026-04-23",
+      "insight": "First explicit AI Security role signals Notion's strategic prioritization of model safety, red-teaming, and compliance—directly addressing enterprise buyers' top concern and differentiating against less secure AI competitors.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Solutions Engineer, EMEA and Tokyo; Sales Manager, Asia; Enterprise Sales Leader",
+      "url": "https://jobs.ashbyhq.com/notion/6ad34426-b980-436b-80c4-3634c00094ad",
+      "date": "2026-04-23",
+      "insight": "Coordinated regional GTM hires indicate accelerated enterprise land-and-expand strategy outside North America, posing a direct competitive threat to regional incumbents like ClickUp and Coda in high-growth markets.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Enterprise Customer Success Manager, AMER and Manager, Scaled Customer Success",
+      "url": "https://jobs.ashbyhq.com/notion/1ecf717b-264d-4557-ab7d-d00cd670d33d",
+      "date": "2026-04-23",
+      "insight": "Signals maturation of Notion's enterprise motion, with dedicated scaled and segment-specific CSM roles indicating focus on retention, expansion, and ROI measurement—key battlegrounds against Microsoft Loop and Asana AI.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Software Engineer, Datastore and Data Platform",
+      "url": "https://jobs.ashbyhq.com/notion/3fbcf972-52d5-4475-8720-040025c6f7da",
+      "date": "2026-04-23",
+      "insight": "Investment in core data infrastructure suggests upcoming enhancements to AI context window, real-time sync, or cross-workspace reasoning—foundational for next-gen agentic capabilities.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Enterprise Product Marketing, GTM",
+      "url": "https://jobs.ashbyhq.com/notion/5f986e92-f668-4c9b-8b13-3de9cfe737e2",
+      "date": "2026-04-23",
+      "insight": "Dedicated enterprise PMM signals imminent launch or major iteration of Notion AI's commercial packaging, use-case playbooks, or compliance narratives targeting Fortune 500 procurement cycles.",
+      "importance": "medium"
+    }
+  ],
+  "note": "",
+  "date": "2026-04-23",
+  "generated_at": "2026-04-23 23:46 UTC",
+  "total_signals": 25
+}
