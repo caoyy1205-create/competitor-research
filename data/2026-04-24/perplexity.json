@@ -1,0 +1,74 @@
+{
+  "competitor": "Perplexity AI",
+  "summary": "Perplexity AI is executing a major, multi-front engineering expansion focused on monetization, search infrastructure, AI capabilities, and global customer support. The simultaneous hiring across AI Research, Search Core, Monetization, Security, and APAC Customer Success signals aggressive scaling ahead of potential product launches or revenue initiatives. This breadth suggests preparation for enterprise readiness, enhanced search sovereignty, and commercialization beyond its current freemium model.",
+  "signals": [
+    {
+      "type": "hiring",
+      "title": "Hiring Monetization Software Engineer",
+      "url": "https://jobs.ashbyhq.com/perplexity/043d6a58-87a1-4e3c-bf47-4dc351b94cf4",
+      "date": "2026-04-24",
+      "insight": "First explicit signal of dedicated monetization engineering investment, indicating imminent rollout or scaling of paid features (e.g., Pro tiers, API access, or B2B offerings).",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Engineering Site Lead (AI Department)",
+      "url": "https://jobs.ashbyhq.com/perplexity/638e6823-be7f-46c6-9675-7b1197fc9b8c",
+      "date": "2026-04-24",
+      "insight": "Establishing AI-specific site leadership signals maturation of AI org and prioritization of internal AI capability development over third-party models.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Search Core Engineers (3 roles: Search Engine Developer, ML Engineer, Crawler Backend)",
+      "url": "https://jobs.ashbyhq.com/perplexity/27aa1a14-bc59-4613-a65a-38598695076f",
+      "date": "2026-04-24",
+      "insight": "Concentrated investment in proprietary search infrastructure implies strategic push toward vertical integration and reduced reliance on external search APIs, directly challenging Bing/Google-backed competitors.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring AI Security and Cloud Security Engineers",
+      "url": "https://jobs.ashbyhq.com/perplexity/cdbf6ccb-2078-4499-b0a6-af8a04754eee",
+      "date": "2026-04-24",
+      "insight": "Dual security hires in AI and cloud domains suggest preparation for handling sensitive enterprise data and compliance requirements—key enablers for B2B expansion.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring iOS and Mobile Backend Engineers",
+      "url": "https://jobs.ashbyhq.com/perplexity/1dc97d9e-565e-4079-9fba-40fab14a3602",
+      "date": "2026-04-24",
+      "insight": "Mobile engineering expansion indicates prioritization of app-led growth and user engagement, countering desktop-centric competitors and capturing high-intent mobile search traffic.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Customer Support & Success Associate (APAC)",
+      "url": "https://jobs.ashbyhq.com/perplexity/c0c29041-ebcb-40e6-b4ab-80b386922d8c",
+      "date": "2026-04-24",
+      "insight": "First dedicated APAC customer-facing hire signals intentional regional expansion and readiness to serve enterprise clients in high-growth Asian markets.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring AI Research Lead and Researchers",
+      "url": "https://jobs.ashbyhq.com/perplexity/16bc54a6-83ab-4802-8a65-d88fbb7ebe03",
+      "date": "2026-04-24",
+      "insight": "Leadership-level AI research hiring confirms commitment to foundational model innovation—potentially targeting smaller, domain-optimized models to improve latency, cost, and IP control.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Forward Deployed Engineer (Applied AI)",
+      "url": "https://jobs.ashbyhq.com/perplexity/aa511ea8-96e3-42ba-b28f-5e222170bcee",
+      "date": "2026-04-24",
+      "insight": "Forward-deployed role strongly indicates active pursuit of enterprise contracts requiring on-site AI integration, custom workflows, and technical account management.",
+      "importance": "high"
+    }
+  ],
+  "note": "",
+  "date": "2026-04-24",
+  "generated_at": "2026-04-24 23:40 UTC",
+  "total_signals": 20
+}

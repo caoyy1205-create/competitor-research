@@ -1,0 +1,74 @@
+{
+  "competitor": "Cursor",
+  "summary": "Cursor is executing a major engineering hiring surge across infrastructure, AI/ML, and enterprise domains, signaling aggressive scaling of its developer AI platform. The simultaneous addition of GTM, Field Engineering, and AI Deployment roles indicates a strategic pivot toward commercialization and enterprise adoption. Notably, new roles in Model Routing & Inference, Agent Harness, and Storage suggest deep investment in next-generation AI agent architecture and scalable backend systems.",
+  "signals": [
+    {
+      "type": "hiring",
+      "title": "Hiring for Engineering Manager, Model Routing & Inference",
+      "url": "https://jobs.ashbyhq.com/cursor/e3966cb2-c584-4c8a-9d25-1309af31b3a9",
+      "date": "2026-04-24",
+      "insight": "Signals prioritization of low-latency, cost-efficient LLM orchestration—critical for competitive differentiation in AI coding assistants facing inference cost and latency pressures.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring for Software Engineer, Agent Harness",
+      "url": "https://jobs.ashbyhq.com/cursor/6e6f5bc2-eb32-40e2-bba9-cfa56479600d",
+      "date": "2026-04-24",
+      "insight": "Reveals active development of autonomous agent frameworks—positioning Cursor to compete with GitHub Copilot Agents and Replit's Ghostwriter in multi-step, stateful code automation.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring for Software Engineer, Storage",
+      "url": "https://jobs.ashbyhq.com/cursor/515926c1-f044-4aff-9d5f-0bb84cb7eca2",
+      "date": "2026-04-24",
+      "insight": "Suggests foundational work on persistent, context-aware code memory or vectorized workspace storage—key for maintaining long-running agent sessions and personalized IDE experiences.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring for GTM Engineer, Growth Programs",
+      "url": "https://jobs.ashbyhq.com/cursor/044a003e-d6cc-43b6-806a-833d9399c3d4",
+      "date": "2026-04-24",
+      "insight": "Indicates formalization of product-led growth infrastructure (e.g., usage telemetry, in-app activation, tiered feature gating), enabling data-driven monetization ahead of potential pricing changes.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring for Geo Enterprise Account Executive",
+      "url": "https://jobs.ashbyhq.com/cursor/61e4677d-cf3d-458a-bf6c-02287d5d2c39",
+      "date": "2026-04-24",
+      "insight": "Confirms accelerated enterprise sales motion targeting regional Fortune 500 accounts—directly challenging GitHub Copilot Enterprise and Tabnine's enterprise offerings.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring for AI Deployment Manager",
+      "url": "https://jobs.ashbyhq.com/cursor/193c326d-2ffc-4c11-8bba-73d243fd178b",
+      "date": "2026-04-24",
+      "insight": "Highlights focus on post-sale AI integration support—addressing a key enterprise objection around security, customization, and on-prem/private cloud deployment of AI coding tools.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring for Engineering Manager, Developer Productivity",
+      "url": "https://jobs.ashbyhq.com/cursor/eb174a32-1542-4f99-a363-6a544e7e37f1",
+      "date": "2026-04-24",
+      "insight": "Suggests internal tooling investment to scale engineering velocity—critical as Cursor expands headcount rapidly and must avoid productivity decay amid rapid growth.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring for Research Scientist",
+      "url": "https://jobs.ashbyhq.com/cursor/cd4bad0a-e2f6-4a8d-9b57-ce1780efedae",
+      "date": "2026-04-24",
+      "insight": "Signals continued R&D commitment beyond applied engineering—potentially exploring novel code-generation architectures, self-improving models, or domain-specific LLM fine-tuning strategies.",
+      "importance": "medium"
+    }
+  ],
+  "note": "",
+  "date": "2026-04-24",
+  "generated_at": "2026-04-24 23:39 UTC",
+  "total_signals": 20
+}
