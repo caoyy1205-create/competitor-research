@@ -1,0 +1,74 @@
+{
+  "competitor": "Perplexity AI",
+  "summary": "Perplexity AI is executing a major, coordinated engineering expansion across AI infrastructure, search core, monetization, and security—indicating preparation for scaling its product, enterprise readiness, and potential near-term revenue initiatives. The simultaneous hiring of an Engineering Site Lead in AI and an AI Research Lead signals consolidation of R&D leadership and strategic prioritization of foundational AI capabilities over pure application-layer features.",
+  "signals": [
+    {
+      "type": "hiring",
+      "title": "Engineering Site Lead (AI)",
+      "url": "https://jobs.ashbyhq.com/perplexity/638e6823-be7f-46c6-9675-7b1197fc9b8c",
+      "date": "2026-04-25",
+      "insight": "This senior leadership hire suggests Perplexity is centralizing AI engineering execution and likely preparing for larger-scale model deployment, inference optimization, or internal AI platform standardization—directly impacting its ability to compete with Anthropic and Cohere on infrastructure maturity.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Member of Technical Staff (Monetization Engineer)",
+      "url": "https://jobs.ashbyhq.com/perplexity/043d6a58-87a1-4e3c-bf47-4dc351b94cf4",
+      "date": "2026-04-25",
+      "insight": "First explicit monetization-focused engineering role signals accelerated commercialization efforts, likely targeting paid tiers, API monetization, or enterprise billing integrations—posing a competitive threat to early-revenue LLM startups like Cursor and Windsurf.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "AI Security Engineer & Cloud Security Engineer roles",
+      "url": "https://jobs.ashbyhq.com/perplexity/cdbf6ccb-2078-4499-b0a6-af8a04754eee",
+      "date": "2026-04-25",
+      "insight": "Dual security hires—especially AI-specific and cloud-native—indicate proactive investment in trust and compliance ahead of enterprise sales cycles, directly enabling competitiveness against Microsoft Copilot and Google Gemini in regulated sectors.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Search Core Engineering Roles (Search Engine Developer, Crawler, ML Engineer)",
+      "url": "https://jobs.ashbyhq.com/perplexity/27aa1a14-bc59-4613-a65a-38598695076f",
+      "date": "2026-04-25",
+      "insight": "Concentrated hiring in search fundamentals—not just AI layer—reveals Perplexity's commitment to owning the full retrieval stack, differentiating it from API-dependent rivals and strengthening defensibility against Bing/Copilot and Perplexity's own reliance on third-party indexes.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "AI Research Lead & AI Researcher roles",
+      "url": "https://jobs.ashbyhq.com/perplexity/16bc54a6-83ab-4802-8a65-d88fbb7ebe03",
+      "date": "2026-04-25",
+      "insight": "Hiring both a research lead and individual researchers signals formalization of long-term AI strategy beyond prompt engineering—potentially targeting proprietary small language models, reasoning architectures, or evaluation frameworks that could underpin future IP moats.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "iOS Software Engineer & Backend Engineer (Mobile)",
+      "url": "https://jobs.ashbyhq.com/perplexity/1dc97d9e-565e-4079-9fba-40fab14a3602",
+      "date": "2026-04-25",
+      "insight": "Mobile engineering expansion—especially native iOS—suggests prioritization of user acquisition and engagement outside the browser, increasing competitive pressure on mobile-first AI apps like Elicit and You.com.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Customer Support and Success Associate (APAC)",
+      "url": "https://jobs.ashbyhq.com/perplexity/c0c29041-ebcb-40e6-b4ab-80b386922d8c",
+      "date": "2026-04-25",
+      "insight": "Dedicated APAC support hire reflects intentional geographic expansion and signals readiness to serve non-US enterprise customers—competing more directly with regional players like Naver Clova and Alibaba Tongyi in Asia-Pacific markets.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "AI Inference Engineer & AI Infrastructure Engineer",
+      "url": "https://jobs.ashbyhq.com/perplexity/8a976851-9bef-4b07-8d36-567fa9540aef",
+      "date": "2026-04-25",
+      "insight": "Targeted infrastructure roles indicate optimization for latency, cost, and scalability of real-time AI responses—critical for maintaining Perplexity's 'zero-click' UX advantage over slower competitors like Claude or open-source LLM frontends.",
+      "importance": "high"
+    }
+  ],
+  "note": "",
+  "date": "2026-04-25",
+  "generated_at": "2026-04-25 23:38 UTC",
+  "total_signals": 20
+}

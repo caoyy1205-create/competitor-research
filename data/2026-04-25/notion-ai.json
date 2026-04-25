@@ -1,0 +1,74 @@
+{
+  "competitor": "Notion AI",
+  "summary": "Notion AI is accelerating its enterprise GTM motion with a massive, globally distributed hiring surge across Sales, Customer Success, and Security—particularly emphasizing AI-specific security roles and regional expansion in EMEA, Asia, and Japan. Concurrently, the Notion SDK is undergoing rapid iteration focused on enhanced API capabilities for comments, filtering, and status tracking—indicating deeper integration readiness for AI-powered workflows and third-party automation.",
+  "signals": [
+    {
+      "type": "github",
+      "title": "notion-sdk-js v5.20.0 adds request_status field to list responses",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.20.0",
+      "date": "2026-04-20",
+      "insight": "Enables developers to programmatically monitor AI request lifecycle (e.g., pending, completed, failed), critical for building reliable AI-augmented applications and observability tooling.",
+      "importance": "high"
+    },
+    {
+      "type": "github",
+      "title": "notion-sdk-js v5.18.0 adds multi-value filters for select/status/multi_select properties",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.18.0",
+      "date": "2026-04-13",
+      "insight": "Significantly improves query flexibility for AI-driven data analysis and automation, allowing complex conditional logic in AI prompts or agents operating on Notion databases.",
+      "importance": "high"
+    },
+    {
+      "type": "github",
+      "title": "notion-sdk-js v5.17.0 adds markdown parameter to Create Comment endpoint",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.17.0",
+      "date": "2026-04-07",
+      "insight": "Allows AI-generated comments to retain rich formatting (e.g., code blocks, lists), enabling higher-fidelity AI collaboration and reducing post-generation editing friction.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Application Security Engineer, AI Security",
+      "url": "https://jobs.ashbyhq.com/notion/e3944777-d4a8-41d2-88ab-32daef949d4e",
+      "date": "2026-04-25",
+      "insight": "Signals formalization of AI-specific security posture—likely responding to enterprise compliance demands and differentiating from competitors lacking dedicated AI security roles.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Enterprise Sales Leader and Enterprise Customer Success Manager, AMER",
+      "url": "https://jobs.ashbyhq.com/notion/7f02bc74-65e8-4b62-a2dc-aee2fa8a3894",
+      "date": "2026-04-25",
+      "insight": "Confirms aggressive push into high-touch enterprise sales, directly competing with ClickUp, Coda, and Microsoft for large-scale, AI-integrated workflow contracts.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Solutions Engineer, Tokyo and Solutions Engineer, EMEA",
+      "url": "https://jobs.ashbyhq.com/notion/e5d316fa-0857-4e4b-96ca-1f2710a96c95",
+      "date": "2026-04-25",
+      "insight": "Geographically targeted technical sales hires indicate imminent localized AI product launches or deep integrations with regional enterprise stacks (e.g., Japanese ERP systems, EU GDPR-compliant workflows).",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Software Engineer, Datastore and Data Platform",
+      "url": "https://jobs.ashbyhq.com/notion/3fbcf972-52d5-4475-8720-040025c6f7da",
+      "date": "2026-04-25",
+      "insight": "Suggests foundational investment in scalable, low-latency data infrastructure to support real-time AI inference and context-aware prompting across large Notion workspaces.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Enterprise Product Marketing, GTM",
+      "url": "https://jobs.ashbyhq.com/notion/5f986e92-f668-4c9b-8b13-3de9cfe737e2",
+      "date": "2026-04-25",
+      "insight": "Indicates upcoming AI feature packaging and positioning for enterprise buyers—likely preparing for differentiated AI tiers, compliance narratives, or vertical-specific AI use cases.",
+      "importance": "medium"
+    }
+  ],
+  "note": "",
+  "date": "2026-04-25",
+  "generated_at": "2026-04-25 23:39 UTC",
+  "total_signals": 25
+}

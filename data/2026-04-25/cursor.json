@@ -1,0 +1,74 @@
+{
+  "competitor": "Cursor",
+  "summary": "Cursor is executing a major engineering hiring surge across infrastructure, AI/ML, and enterprise functions, signaling aggressive scaling of its AI coding platform. The simultaneous expansion in Growth Engineering, GTM Engineering, and Field Engineering reveals a strategic pivot toward product-led growth, enterprise sales enablement, and AI deployment support. Notably, roles in Model Routing & Inference, Agent Harness, and ML Research suggest accelerated investment in autonomous agent architecture and real-time LLM orchestration.",
+  "signals": [
+    {
+      "type": "hiring",
+      "title": "Hiring for Engineering Manager, Model Routing & Inference",
+      "url": "https://jobs.ashbyhq.com/cursor/e3966cb2-c584-4c8a-9d25-1309af31b3a9",
+      "date": "2026-04-25",
+      "insight": "Signals prioritization of low-latency, scalable LLM inference infrastructure—critical for competitive differentiation in real-time AI coding assistance and agent execution.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring for Software Engineer, Agent Harness",
+      "url": "https://jobs.ashbyhq.com/cursor/6e6f5bc2-eb32-40e2-bba9-cfa56479600d",
+      "date": "2026-04-25",
+      "insight": "Indicates active development of an abstraction layer for composing, testing, and deploying autonomous coding agents—directly competing with GitHub Copilot's upcoming agent capabilities and Replit's Ghostwriter evolution.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring for GTM Engineer, Growth Programs",
+      "url": "https://jobs.ashbyhq.com/cursor/044a003e-d6cc-43b6-806a-833d9399c3d4",
+      "date": "2026-04-25",
+      "insight": "Reveals institutionalization of product-led growth (PLG) engineering—embedding growth loops (e.g., in-product sharing, usage-based feature unlocks) that threaten incumbents reliant on traditional sales motion.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring for AI Deployment Manager",
+      "url": "https://jobs.ashbyhq.com/cursor/193c326d-2ffc-4c11-8bba-73d243fd178b",
+      "date": "2026-04-25",
+      "insight": "Highlights focus on enterprise AI adoption friction points—enabling differentiated, secure, and context-aware onboarding that challenges GitHub's and Amazon CodeWhisperer's enterprise deployment models.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring for Engineering Manager, Developer Productivity",
+      "url": "https://jobs.ashbyhq.com/cursor/eb174a32-1542-4f99-a363-6a544e7e37f1",
+      "date": "2026-04-25",
+      "insight": "Suggests internal tooling and platform investments to accelerate engineering velocity—key for sustaining rapid iteration against well-resourced competitors like Microsoft and Tabnine.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring for Geo Enterprise Account Executive",
+      "url": "https://jobs.ashbyhq.com/cursor/61e4677d-cf3d-458a-bf6c-02287d5d2c39",
+      "date": "2026-04-25",
+      "insight": "Confirms formal enterprise go-to-market expansion beyond self-serve, directly targeting large organizations where pricing, compliance, and integration depth are decisive competitive battlegrounds.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring for Security GRC Engineer",
+      "url": "https://jobs.ashbyhq.com/cursor/59b8511c-3fd5-42c3-87ca-41d3990438ab",
+      "date": "2026-04-25",
+      "insight": "Reflects growing emphasis on audit readiness and regulatory alignment (e.g., SOC 2, ISO 27001), a prerequisite for displacing incumbents in highly regulated sectors like finance and healthcare.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring for Research Scientist",
+      "url": "https://jobs.ashbyhq.com/cursor/cd4bad0a-e2f6-4a8d-9b57-ce1780efedae",
+      "date": "2026-04-25",
+      "insight": "Demonstrates commitment to foundational AI research—potentially targeting code-specific model improvements or novel evaluation frameworks that could raise the technical bar for competitors.",
+      "importance": "medium"
+    }
+  ],
+  "note": "",
+  "date": "2026-04-25",
+  "generated_at": "2026-04-25 23:38 UTC",
+  "total_signals": 20
+}
