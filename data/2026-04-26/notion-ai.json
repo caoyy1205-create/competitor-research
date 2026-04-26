@@ -1,0 +1,74 @@
+{
+  "competitor": "Notion AI",
+  "summary": "Notion AI is accelerating its enterprise GTM motion with a massive, globally distributed hiring surge across sales, customer success, and security—particularly in EMEA, Asia, and Japan—while simultaneously enhancing API capabilities for richer AI-powered collaboration features like comment updates, markdown support, and advanced filtering. The addition of an AI Security-focused Application Security Engineer role signals growing emphasis on trust and compliance as Notion scales AI adoption in regulated environments.",
+  "signals": [
+    {
+      "type": "github",
+      "title": "notion-sdk-js v5.20.0 adds request_status field to list responses",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.20.0",
+      "date": "2026-04-20",
+      "insight": "Enables developers to programmatically monitor AI request lifecycle (e.g., pending, completed, failed), critical for building robust, production-grade AI integrations and observability tooling.",
+      "importance": "high"
+    },
+    {
+      "type": "github",
+      "title": "notion-sdk-js v5.19.0 adds update method for comments",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.19.0",
+      "date": "2026-04-17",
+      "insight": "Allows dynamic editing of AI-generated or user-added comments—enabling real-time collaborative refinement of AI outputs, a key differentiator for team-based knowledge work.",
+      "importance": "high"
+    },
+    {
+      "type": "github",
+      "title": "notion-sdk-js v5.18.0 adds multi-value filters for select/status/multi_select properties",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.18.0",
+      "date": "2026-04-13",
+      "insight": "Dramatically improves query flexibility for AI agents and automations filtering databases by complex metadata—essential for enterprise-scale AI workflows over structured operational data.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Application Security Engineer, AI Security",
+      "url": "https://jobs.ashbyhq.com/notion/e3944777-d4a8-41d2-88ab-32daef949d4e",
+      "date": "2026-04-26",
+      "insight": "First explicit AI Security engineering role signals proactive investment in securing AI models, prompts, and outputs—addressing a top enterprise concern and raising the bar for trust in AI-augmented collaboration platforms.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Solutions Engineer, EMEA & Tokyo; Sales Leader, Enterprise",
+      "url": "https://jobs.ashbyhq.com/notion/6ad34426-b980-436b-80c4-3634c00094ad",
+      "date": "2026-04-26",
+      "insight": "Targeted expansion of pre-sales technical capacity in high-growth regions indicates imminent enterprise product launches or AI-specific commercial packages tailored for global regulated markets.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Enterprise Customer Success Manager, AMER & Manager, Scaled Customer Success",
+      "url": "https://jobs.ashbyhq.com/notion/1ecf717b-264d-4557-ab7d-d00cd670d33d",
+      "date": "2026-04-26",
+      "insight": "Signals shift from land-and-expand to full enterprise lifecycle management—critical for retaining large contracts where AI feature adoption and ROI measurement are key churn drivers.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Enterprise Product Marketing, GTM",
+      "url": "https://jobs.ashbyhq.com/notion/5f986e92-f668-4c9b-8b13-3de9cfe737e2",
+      "date": "2026-04-26",
+      "insight": "Confirms Notion AI is formalizing go-to-market strategy for enterprise buyers, implying upcoming differentiated AI packaging, pricing tiers, or compliance narratives targeting procurement and security teams.",
+      "importance": "medium"
+    },
+    {
+      "type": "github",
+      "title": "notion-sdk-js v5.17.0 adds markdown parameter to Create Comment endpoint",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.17.0",
+      "date": "2026-04-07",
+      "insight": "Enables rich formatting in AI-generated comments—enhancing clarity and professionalism of AI outputs in collaborative contexts, directly competing with AI features in ClickUp and Coda.",
+      "importance": "medium"
+    }
+  ],
+  "note": "",
+  "date": "2026-04-26",
+  "generated_at": "2026-04-26 23:40 UTC",
+  "total_signals": 25
+}

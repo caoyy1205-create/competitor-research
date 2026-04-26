@@ -1,0 +1,74 @@
+{
+  "competitor": "Perplexity AI",
+  "summary": "Perplexity AI is executing a major, multi-front engineering expansion—particularly in AI infrastructure, search core, and monetization—while simultaneously strengthening security and global customer support. The volume and specificity of roles signal aggressive scaling ahead of potential product launches or enterprise commercialization. Notably, the creation of an 'Engineering Site Lead' role and dual AI Research Lead/Researcher positions indicate strategic emphasis on both applied R&D and organizational leadership for AI development.",
+  "signals": [
+    {
+      "type": "hiring",
+      "title": "Hiring Engineering Site Lead (AI Department)",
+      "url": "https://jobs.ashbyhq.com/perplexity/638e6823-be7f-46c6-9675-7b1197fc9b8c",
+      "date": "2026-04-26",
+      "insight": "Signals formalization of AI engineering leadership and likely preparation for scaling AI product delivery, team management, and cross-functional alignment—critical for maintaining technical velocity amid rapid growth.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Member of Technical Staff (Software Engineer, Monetization)",
+      "url": "https://jobs.ashbyhq.com/perplexity/043d6a58-87a1-4e3c-bf47-4dc351b94cf4",
+      "date": "2026-04-26",
+      "insight": "Confirms active investment in revenue infrastructure, suggesting imminent or accelerating rollout of paid tiers, API monetization, or B2B offerings—directly threatening competitors reliant on freemium models like Anthropic or early-stage LLM startups.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring multiple Search Core Engineers (Crawler, Engine Developer, ML Engineer)",
+      "url": "https://jobs.ashbyhq.com/perplexity/27aa1a14-bc59-4613-a65a-38598695076f",
+      "date": "2026-04-26",
+      "insight": "Reinforces Perplexity's foundational differentiator—real-time, citation-rich search—and implies ongoing enhancement of indexing depth, latency, and relevance, directly challenging Google's AI Overviews and Microsoft Copilot in information integrity and speed.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring AI Infrastructure and AI Inference Engineers",
+      "url": "https://jobs.ashbyhq.com/perplexity/598e1f7d-b802-4de2-99ac-90eb2bc33315",
+      "date": "2026-04-26",
+      "insight": "Indicates heavy investment in cost-efficient, low-latency model serving—essential for scaling Pro-tier usage and supporting real-time multimodal or long-context inference, widening Perplexity's operational moat vs. less infra-optimized rivals.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring AI Security and Cloud/Application Security Engineers",
+      "url": "https://jobs.ashbyhq.com/perplexity/cdbf6ccb-2078-4499-b0a6-af8a04754eee",
+      "date": "2026-04-26",
+      "insight": "Suggests proactive hardening for enterprise readiness and compliance (e.g., SOC 2, ISO 27001), enabling future sales to regulated sectors—a key prerequisite for competing with Cohere and Inflection in B2B AI contracts.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Customer Support & Success Associate (APAC)",
+      "url": "https://jobs.ashbyhq.com/perplexity/c0c29041-ebcb-40e6-b4ab-80b386922d8c",
+      "date": "2026-04-26",
+      "insight": "Marks first explicit geographic expansion in customer-facing operations, indicating prioritization of APAC market entry—potentially targeting Japan, Korea, and Australia where AI-native search adoption is accelerating and regulatory environments favor privacy-first models.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring AI Research Lead and AI Researcher",
+      "url": "https://jobs.ashbyhq.com/perplexity/16bc54a6-83ab-4802-8a65-d88fbb7ebe03",
+      "date": "2026-04-26",
+      "insight": "Signals intent to deepen proprietary research capabilities—likely focused on reasoning, citation grounding, or efficient fine-tuning—reducing reliance on third-party models and differentiating from API-layer competitors like You.com or Phind.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring iOS and Backend/Mobile Engineers",
+      "url": "https://jobs.ashbyhq.com/perplexity/1dc97d9e-565e-4079-9fba-40fab14a3602",
+      "date": "2026-04-26",
+      "insight": "Confirms mobile as a strategic priority, implying upcoming feature parity or exclusive capabilities on iOS—potentially leveraging Apple Intelligence integration to capture high-intent users before competitors achieve deep OS-level embedding.",
+      "importance": "medium"
+    }
+  ],
+  "note": "",
+  "date": "2026-04-26",
+  "generated_at": "2026-04-26 23:39 UTC",
+  "total_signals": 20
+}
