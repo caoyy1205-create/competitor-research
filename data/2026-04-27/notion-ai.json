@@ -1,0 +1,74 @@
+{
+  "competitor": "Notion AI",
+  "summary": "Notion AI is aggressively expanding its global sales and enterprise GTM capabilities, with targeted hiring across EMEA, Asia (especially Japan/Tokyo), and AMER. Simultaneously, it is strengthening AI-specific security infrastructure and core platform engineering—particularly in datastores, data platforms, and cloud infrastructure—to support scaling and trust for enterprise adoption.",
+  "signals": [
+    {
+      "type": "hiring",
+      "title": "Outbound Business Development Representative (x2)",
+      "url": "https://jobs.ashbyhq.com/notion/05e14247-17c4-4e98-9a13-53828a4e2f13",
+      "date": "2026-04-27",
+      "insight": "Dual postings signal accelerated outbound motion to acquire new logos, especially among SMBs and mid-market, intensifying competition for early-stage workflow-AI buyers.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Sales Manager, Asia & Sales Development Representative, Japan",
+      "url": "https://jobs.ashbyhq.com/notion/92601e94-66c8-46ef-b949-da1547a5caa8",
+      "date": "2026-04-27",
+      "insight": "Dedicated Japan and broader Asia sales leadership roles indicate a strategic push into high-growth, underpenetrated markets where competitors like ClickUp and Coda have limited localized GTM—creating first-mover advantage in enterprise AI collaboration.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Solutions Engineer, EMEA & Solutions Engineer, Tokyo",
+      "url": "https://jobs.ashbyhq.com/notion/6ad34426-b980-436b-80c4-3634c00094ad",
+      "date": "2026-04-27",
+      "insight": "Regional solutions engineering hires suggest imminent expansion of technical sales capacity to support complex enterprise evaluations—directly challenging Microsoft Loop and Asana's AI offerings in regulated, high-touch markets.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Application Security Engineer, AI Security",
+      "url": "https://jobs.ashbyhq.com/notion/e3944777-d4a8-41d2-88ab-32daef949d4e",
+      "date": "2026-04-27",
+      "insight": "First dedicated AI Security role signals formalization of AI-specific threat modeling and red-teaming—critical for winning regulated enterprise contracts where AI governance (e.g., SOC 2 AI addendum) is now table stakes.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Software Engineer, Datastore & Data Platform",
+      "url": "https://jobs.ashbyhq.com/notion/3fbcf972-52d5-4475-8720-040025c6f7da",
+      "date": "2026-04-27",
+      "insight": "Concurrent hiring for datastore and data platform engineers reveals foundational investment in scalable, low-latency AI data infrastructure—enabling real-time RAG, personalization, and offline sync critical for competing with Figma's and Linear's embedded AI performance.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Enterprise Customer Success Manager, AMER & Manager, Scaled Customer Success",
+      "url": "https://jobs.ashbyhq.com/notion/1ecf717b-264d-4557-ab7d-d00cd670d33d",
+      "date": "2026-04-27",
+      "insight": "Dual-tier customer success hiring reflects maturation toward enterprise land-and-expand motions, directly threatening Atlassian's Confluence AI adoption by improving retention and cross-sell velocity in large accounts.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Enterprise Product Marketing, GTM",
+      "url": "https://jobs.ashbyhq.com/notion/5f986e92-f668-4c9b-8b13-3de9cfe737e2",
+      "date": "2026-04-27",
+      "insight": "Dedicated enterprise PMM signals upcoming launch of differentiated AI packaging (e.g., AI governance dashboards, usage analytics, or compliance modules) aimed squarely at displacing legacy intranet and knowledge management tools.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Enterprise Sales Leader",
+      "url": "https://jobs.ashbyhq.com/notion/7f02bc74-65e8-4b62-a2dc-aee2fa8a3894",
+      "date": "2026-04-27",
+      "insight": "Hiring a top-tier enterprise sales leader—rather than promoting internally—indicates urgency to close $1M+ ACV deals and signals readiness to compete head-to-head with Microsoft's Copilot for M365 in Fortune 500 procurement cycles.",
+      "importance": "high"
+    }
+  ],
+  "note": "",
+  "date": "2026-04-27",
+  "generated_at": "2026-04-27 23:55 UTC",
+  "total_signals": 20
+}

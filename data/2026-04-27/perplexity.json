@@ -1,0 +1,74 @@
+{
+  "competitor": "Perplexity AI",
+  "summary": "Perplexity AI is executing a major, coordinated engineering expansion across AI, Search, Security, and Monetization—indicating accelerated product development and enterprise readiness. The simultaneous hiring of an Engineering Site Lead, AI Research Lead, and Director of Commercial Legal (Enterprise) signals a strategic pivot toward scaling infrastructure, deepening R&D leadership, and preparing for B2B commercialization. Notably, the concentration of roles in Search Core, Crawler, and ML for Search suggests imminent enhancements to its foundational retrieval capabilities.",
+  "signals": [
+    {
+      "type": "hiring",
+      "title": "Engineering Site Lead hire in AI department",
+      "url": "https://jobs.ashbyhq.com/perplexity/638e6823-be7f-46c6-9675-7b1197fc9b8c",
+      "date": "2026-04-27",
+      "insight": "Signals formalization of AI engineering leadership and likely upcoming organizational scaling or cross-team AI infrastructure integration.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "AI Research Lead and AI Researcher roles opened",
+      "url": "https://jobs.ashbyhq.com/perplexity/16bc54a6-83ab-4802-8a65-d88fbb7ebe03",
+      "date": "2026-04-27",
+      "insight": "Indicates intensified focus on proprietary AI advancement beyond API-based models, potentially targeting differentiated reasoning or multimodal capabilities.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Monetization Software Engineer role opened",
+      "url": "https://jobs.ashbyhq.com/perplexity/043d6a58-87a1-4e3c-bf47-4dc351b94cf4",
+      "date": "2026-04-27",
+      "insight": "Confirms active investment in revenue infrastructure, suggesting near-term rollout of new paid features, tiered access, or enterprise billing systems.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Search Core, Crawler, and ML Engineer roles (3 positions)",
+      "url": "https://jobs.ashbyhq.com/perplexity/27aa1a14-bc59-4613-a65a-38598695076f",
+      "date": "2026-04-27",
+      "insight": "Reveals prioritization of vertical integration in search—critical for improving answer accuracy, freshness, and reducing reliance on third-party indexes.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Director, Commercial Legal (Enterprise)",
+      "url": "https://jobs.ashbyhq.com/perplexity/40fbae50-e61c-4d28-8122-8800988b8595",
+      "date": "2026-04-27",
+      "insight": "Strong indicator of imminent enterprise sales motion, including SLAs, data residency commitments, and custom contract negotiations.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "AI Infrastructure and AI Inference Engineer roles",
+      "url": "https://jobs.ashbyhq.com/perplexity/598e1f7d-b802-4de2-99ac-90eb2bc33315",
+      "date": "2026-04-27",
+      "insight": "Suggests ongoing optimization for low-latency, cost-efficient model serving—key for maintaining competitive response speed and scalability.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Cloud Security and AI Security Engineer roles",
+      "url": "https://jobs.ashbyhq.com/perplexity/b932d73f-49f3-4367-8fa7-a22f760e55a3",
+      "date": "2026-04-27",
+      "insight": "Highlights growing emphasis on trust and compliance as prerequisites for enterprise adoption and regulatory scrutiny.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "iOS Software Engineer role opened",
+      "url": "https://jobs.ashbyhq.com/perplexity/1dc97d9e-565e-4079-9fba-40fab14a3602",
+      "date": "2026-04-27",
+      "insight": "Confirms continued investment in native mobile experience, likely to support offline functionality, push notifications, or tighter OS integration for engagement.",
+      "importance": "medium"
+    }
+  ],
+  "note": "",
+  "date": "2026-04-27",
+  "generated_at": "2026-04-27 23:54 UTC",
+  "total_signals": 20
+}
