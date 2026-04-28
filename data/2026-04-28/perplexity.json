@@ -1,0 +1,74 @@
+{
+  "competitor": "Perplexity AI",
+  "summary": "Perplexity AI is executing a major, coordinated engineering hiring surge across AI, Search, Security, and Monetization—indicating accelerated product development, infrastructure scaling, and commercialization. The simultaneous hiring of an Engineering Site Lead (AI), AI Research Lead, and Director of Commercial Legal (Enterprise) signals preparation for enterprise GTM expansion and organizational maturation beyond a pure research or consumer-first model.",
+  "signals": [
+    {
+      "type": "hiring",
+      "title": "Engineering Site Lead (AI)",
+      "url": "https://jobs.ashbyhq.com/perplexity/638e6823-be7f-46c6-9675-7b1197fc9b8c",
+      "date": "2026-04-28",
+      "insight": "A site lead role in AI signals formalization of AI engineering as a top-tier functional pillar and likely reflects plans to scale AI R&D output, integrate models more deeply into core products, and potentially support external API or enterprise offerings.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Member of Technical Staff (AI Inference Engineer)",
+      "url": "https://jobs.ashbyhq.com/perplexity/8a976851-9bef-4b07-8d36-567fa9540aef",
+      "date": "2026-04-28",
+      "insight": "Targeted hiring for inference optimization suggests Perplexity is prioritizing low-latency, cost-efficient model serving—critical for real-time search-augmented answering and competitive differentiation against latency-sensitive rivals like Cursor or Claude-based tools.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Member of Technical Staff (Search Engine Developer, Search Core)",
+      "url": "https://jobs.ashbyhq.com/perplexity/27aa1a14-bc59-4613-a65a-38598695076f",
+      "date": "2026-04-28",
+      "insight": "Deep investment in search core engineering—alongside crawler and ML roles—confirms Perplexity's strategic bet on proprietary, real-time web indexing as a defensible moat against LLM-native search competitors relying on static or third-party data.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Member of Technical Staff (Software Engineer, Monetization)",
+      "url": "https://jobs.ashbyhq.com/perplexity/043d6a58-87a1-4e3c-bf47-4dc351b94cf4",
+      "date": "2026-04-28",
+      "insight": "Dedicated monetization engineering signals imminent or expanded paid features (e.g., Pro tiers, API access, or enterprise plans), marking a decisive shift from freemium experimentation to structured revenue operations.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Director, Commercial Legal (Enterprise)",
+      "url": "https://jobs.ashbyhq.com/perplexity/40fbae50-e61c-4d28-8122-8800988b8595",
+      "date": "2026-04-28",
+      "insight": "Hiring an enterprise-focused legal leader strongly indicates active pursuit of B2B contracts, SLAs, data residency requirements, and compliance frameworks—directly enabling competition with Anthropic, Cohere, and Microsoft Copilot in regulated sectors.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "AI Research Lead",
+      "url": "https://jobs.ashbyhq.com/perplexity/16bc54a6-83ab-4802-8a65-d88fbb7ebe03",
+      "date": "2026-04-28",
+      "insight": "Creating a dedicated AI Research Lead role—distinct from applied or infrastructure roles—suggests Perplexity is institutionalizing long-term, foundational research (e.g., reasoning, verification, multimodal grounding) to sustain technical leadership beyond prompt-engineered solutions.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Cloud Security Engineer & AI Security Engineer",
+      "url": "https://jobs.ashbyhq.com/perplexity/b932d73f-49f3-4367-8fa7-a22f760e55a3",
+      "date": "2026-04-28",
+      "insight": "Dual security hires—one cloud-infrastructure focused and one AI-specific—reveal proactive hardening ahead of enterprise adoption, addressing key trust barriers (model supply chain, data leakage, adversarial robustness) that competitors often treat reactively.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Customer Support and Success Associate APAC",
+      "url": "https://jobs.ashbyhq.com/perplexity/c0c29041-ebcb-40e6-b4ab-80b386922d8c",
+      "date": "2026-04-28",
+      "insight": "APAC-specific customer success hiring implies geographic expansion intent and readiness to serve non-English or regionally regulated enterprise customers—potentially countering regional incumbents like Naver Clova or Alibaba Tongyi in Asia.",
+      "importance": "medium"
+    }
+  ],
+  "note": "",
+  "date": "2026-04-28",
+  "generated_at": "2026-04-28 23:56 UTC",
+  "total_signals": 20
+}

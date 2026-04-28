@@ -1,0 +1,74 @@
+{
+  "competitor": "Cursor",
+  "summary": "Cursor is executing a major engineering hiring surge across infrastructure, AI/ML, and enterprise domains, signaling aggressive scaling of its AI coding platform. The simultaneous expansion in Growth Engineering, GTM Engineering, and Field Engineering indicates a strategic pivot toward monetization, enterprise sales enablement, and product-led growth. Notably, roles in Model Routing & Inference, Agent Harness, and ML Research suggest accelerated investment in autonomous agent capabilities and real-time AI infrastructure.",
+  "signals": [
+    {
+      "type": "hiring",
+      "title": "Hiring for Engineering Manager, Model Routing & Inference",
+      "url": "https://jobs.ashbyhq.com/cursor/e3966cb2-c584-4c8a-9d25-1309af31b3a9",
+      "date": "2026-04-28",
+      "insight": "Signals prioritization of low-latency, scalable AI inference infrastructure—critical for competitive differentiation in real-time code generation and agent workflows.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring for Software Engineer, Agent Harness",
+      "url": "https://jobs.ashbyhq.com/cursor/6e6f5bc2-eb32-40e2-bba9-cfa56479600d",
+      "date": "2026-04-28",
+      "insight": "Confirms active development of agent orchestration frameworks, positioning Cursor to compete directly with GitHub Copilot Agents and Replit's Ghostwriter agents.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring for GTM Engineer, Growth Programs",
+      "url": "https://jobs.ashbyhq.com/cursor/044a003e-d6cc-43b6-806a-833d9399c3d4",
+      "date": "2026-04-28",
+      "insight": "Indicates integration of engineering resources into go-to-market motion—enabling rapid experimentation with conversion funnels, in-product trials, and usage-based monetization levers.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring for Geo Enterprise Account Executive",
+      "url": "https://jobs.ashbyhq.com/cursor/61e4677d-cf3d-458a-bf6c-02287d5d2c39",
+      "date": "2026-04-28",
+      "insight": "Marks formal escalation of enterprise sales efforts, suggesting imminent launch or expansion of tiered commercial plans targeting large dev teams and regulated industries.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring for AI Deployment Manager",
+      "url": "https://jobs.ashbyhq.com/cursor/193c326d-2ffc-4c11-8bba-73d243fd178b",
+      "date": "2026-04-28",
+      "insight": "Reveals focus on post-sale AI integration support—critical for enterprise adoption where secure, compliant, and context-aware model deployment is a key buying criterion.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring for Engineering Manager, Developer Productivity",
+      "url": "https://jobs.ashbyhq.com/cursor/eb174a32-1542-4f99-a363-6a544e7e37f1",
+      "date": "2026-04-28",
+      "insight": "Suggests internal tooling and platform investments to accelerate engineering velocity—potentially enabling faster iteration on AI features and reducing time-to-market vs. competitors.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring for Security GRC Engineer",
+      "url": "https://jobs.ashbyhq.com/cursor/59b8511c-3fd5-42c3-87ca-41d3990438ab",
+      "date": "2026-04-28",
+      "insight": "Highlights growing emphasis on compliance (SOC 2, ISO 27001) and governance—necessary for winning enterprise contracts and differentiating from less-regulated open-source or startup alternatives.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring for Research Scientist",
+      "url": "https://jobs.ashbyhq.com/cursor/cd4bad0a-e2f6-4a8d-9b57-ce1780efedae",
+      "date": "2026-04-28",
+      "insight": "Confirms ongoing investment in foundational AI research—likely focused on code-specific LLMs, reasoning augmentation, or verification—strengthening long-term IP moat against incumbents.",
+      "importance": "medium"
+    }
+  ],
+  "note": "",
+  "date": "2026-04-28",
+  "generated_at": "2026-04-28 23:55 UTC",
+  "total_signals": 20
+}

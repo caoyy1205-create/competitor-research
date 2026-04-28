@@ -1,0 +1,74 @@
+{
+  "competitor": "Notion AI",
+  "summary": "Notion AI is aggressively expanding its global sales and go-to-market (GTM) organization, with dedicated hires across EMEA, Asia, Japan, and AMER—indicating a strategic push into enterprise markets. Concurrently, it is strengthening AI-specific security capabilities and core infrastructure engineering, signaling increased focus on trust, scalability, and product robustness for high-stakes customers.",
+  "signals": [
+    {
+      "type": "hiring",
+      "title": "Outbound Business Development Representative (x2)",
+      "url": "https://jobs.ashbyhq.com/notion/05e14247-17c4-4e98-9a13-53828a4e2f13",
+      "date": "2026-04-28",
+      "insight": "Dual outbound BDR roles suggest accelerated pipeline generation for enterprise and mid-market expansion, directly competing with tools like Coda and ClickUp in high-touch sales motions.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Solutions Engineer, EMEA and Tokyo",
+      "url": "https://jobs.ashbyhq.com/notion/6ad34426-b980-436b-80c4-3634c00094ad",
+      "date": "2026-04-28",
+      "insight": "Regional solutions engineering hires indicate Notion AI is building localized technical sales capacity to support complex enterprise evaluations—eroding Atlassian's and Microsoft's advantage in solution-led selling.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Application Security Engineer, AI Security",
+      "url": "https://jobs.ashbyhq.com/notion/e3944777-d4a8-41d2-88ab-32daef949d4e",
+      "date": "2026-04-28",
+      "insight": "Dedicated AI Security role signals proactive investment in securing LLM-powered workflows—a critical differentiator as regulated industries evaluate Notion AI against competitors lacking auditable AI governance controls.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Sales Manager, Asia and GTM Recruiter, Tokyo",
+      "url": "https://jobs.ashbyhq.com/notion/92601e94-66c8-46ef-b949-da1547a5caa8",
+      "date": "2026-04-28",
+      "insight": "Leadership + recruiting hires in Tokyo confirm formalized, self-sustaining GTM operations in Japan—enabling faster localization, compliance alignment, and competitive response against regional incumbents like Cybozu.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Enterprise Product Marketing, GTM",
+      "url": "https://jobs.ashbyhq.com/notion/5f986e92-f668-4c9b-8b13-3de9cfe737e2",
+      "date": "2026-04-28",
+      "insight": "First dedicated enterprise PMM hire suggests Notion AI is developing differentiated messaging, battle cards, and ROI frameworks for Fortune 500 buyers—shifting from SMB-first positioning toward head-to-head competition with Asana and Monday.com in enterprise sales cycles.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Software Engineer, Datastore and Data Platform",
+      "url": "https://jobs.ashbyhq.com/notion/3fbcf972-52d5-4475-8720-040025c6f7da",
+      "date": "2026-04-28",
+      "insight": "Back-end datastore and data platform engineering roles point to foundational work enabling real-time collaboration at scale and richer AI training data pipelines—key for improving accuracy and latency of Notion AI features versus rivals.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Forward Deployed Engineer, GTM",
+      "url": "https://jobs.ashbyhq.com/notion/10437426-14c8-4c45-8075-67959ce80393",
+      "date": "2026-04-28",
+      "insight": "FDE role bridges engineering and sales, enabling rapid customization and integration support during enterprise POCs—increasing win rates against low-code platforms that lack embedded technical GTM resources.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Enterprise Sales Leader",
+      "url": "https://jobs.ashbyhq.com/notion/7f02bc74-65e8-4b62-a2dc-aee2fa8a3894",
+      "date": "2026-04-28",
+      "insight": "Hiring an executive-level Enterprise Sales Leader confirms a top-down mandate to institutionalize enterprise revenue operations, signaling imminent expansion of ACV targets, named-account programs, and channel partnerships.",
+      "importance": "high"
+    }
+  ],
+  "note": "",
+  "date": "2026-04-28",
+  "generated_at": "2026-04-28 23:56 UTC",
+  "total_signals": 20
+}
