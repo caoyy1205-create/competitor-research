@@ -1,0 +1,74 @@
+{
+  "competitor": "Perplexity AI",
+  "summary": "Perplexity AI is executing a major engineering and organizational expansion, with concentrated hiring across AI infrastructure, search core, monetization, and security—indicating accelerated product development and enterprise readiness. The simultaneous launch of roles for AI Research Lead, Engineering Site Lead, and Commercial Legal Director signals preparation for scaling R&D output, technical leadership consolidation, and B2B commercialization. This hiring wave reflects a strategic pivot toward vertical integration of AI capabilities, enhanced search sovereignty, and regulatory/compliance maturity.",
+  "signals": [
+    {
+      "type": "hiring",
+      "title": "Hiring Engineering Site Lead (AI Department)",
+      "url": "https://jobs.ashbyhq.com/perplexity/638e6823-be7f-46c6-9675-7b1197fc9b8c",
+      "date": "2026-04-29",
+      "insight": "Signals formalization of AI engineering leadership to coordinate cross-functional AI development, suggesting maturation beyond startup-phase agility into structured, scalable R&D operations.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Member of Technical Staff (Monetization Engineer)",
+      "url": "https://jobs.ashbyhq.com/perplexity/043d6a58-87a1-4e3c-bf47-4dc351b94cf4",
+      "date": "2026-04-29",
+      "insight": "Confirms active investment in revenue infrastructure—likely for premium tiers, API access, or enterprise billing—marking a decisive shift from freemium growth to monetization execution.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Multiple Search-Core Engineers (Crawler, Engine Developer, ML Engineer)",
+      "url": "https://jobs.ashbyhq.com/perplexity/94ccf41e-d3e1-41aa-9569-c3bcbffc4184",
+      "date": "2026-04-29",
+      "insight": "Reveals deep commitment to proprietary search stack ownership—reducing reliance on third-party indexes and enabling tighter LLM–search co-design for competitive differentiation in answer accuracy and freshness.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring AI Security and Cloud Security Engineers",
+      "url": "https://jobs.ashbyhq.com/perplexity/b932d73f-49f3-4367-8fa7-a22f760e55a3",
+      "date": "2026-04-29",
+      "insight": "Indicates proactive hardening of AI systems ahead of enterprise adoption, addressing audit requirements (e.g., SOC 2, ISO 27001) and mitigating model-specific risks like prompt injection or data leakage.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Director, Commercial Legal (Enterprise)",
+      "url": "https://jobs.ashbyhq.com/perplexity/40fbae50-e61c-4d28-8122-8800988b8595",
+      "date": "2026-04-29",
+      "insight": "Demonstrates readiness to negotiate complex enterprise contracts—including data processing agreements, IP ownership, and SLAs—essential for winning regulated or large-scale B2B deals.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring AI Research Lead and AI Researcher Roles",
+      "url": "https://jobs.ashbyhq.com/perplexity/16bc54a6-83ab-4802-8a65-d88fbb7ebe03",
+      "date": "2026-04-29",
+      "insight": "Suggests intent to expand proprietary research output (e.g., reasoning optimization, retrieval-augmented generation improvements) rather than relying solely on open-source or vendor models.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring iOS Software Engineer",
+      "url": "https://jobs.ashbyhq.com/perplexity/1dc97d9e-565e-4079-9fba-40fab14a3602",
+      "date": "2026-04-29",
+      "insight": "Highlights prioritization of mobile user acquisition and engagement, likely to deepen usage habits and capture real-time, on-device query data for personalization and model fine-tuning.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Customer Support and Success Associate APAC",
+      "url": "https://jobs.ashbyhq.com/perplexity/c0c29041-ebcb-40e6-b4ab-80b386922d8c",
+      "date": "2026-04-29",
+      "insight": "Signals geographic expansion and localization efforts in high-growth APAC markets, supporting both consumer trust-building and early enterprise account management in the region.",
+      "importance": "medium"
+    }
+  ],
+  "note": "",
+  "date": "2026-04-29",
+  "generated_at": "2026-04-29 23:55 UTC",
+  "total_signals": 20
+}
