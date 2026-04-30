@@ -1,0 +1,74 @@
+{
+  "competitor": "Notion AI",
+  "summary": "Notion AI is accelerating its enterprise GTM motion with a major hiring surge across sales, customer success, and security roles—particularly in EMEA, Asia, and Japan—while simultaneously enhancing API capabilities for richer AI-powered collaboration features like comment management and advanced filtering. The rapid SDK versioning (v5.17–v5.20 in under two weeks) signals aggressive backend investment to support scalable, secure, and interoperable AI workflows.",
+  "signals": [
+    {
+      "type": "github",
+      "title": "notion-sdk-js v5.20.0 adds request_status field to list responses",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.20.0",
+      "date": "2026-04-20",
+      "insight": "Enables real-time status tracking of AI-generated or bulk operations—critical for enterprise automation integrations and reliability monitoring.",
+      "importance": "high"
+    },
+    {
+      "type": "github",
+      "title": "notion-sdk-js v5.18.0 adds multi-value filters for select/status/multi_select properties",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.18.0",
+      "date": "2026-04-13",
+      "insight": "Dramatically improves AI-driven data querying and dashboarding capabilities, allowing complex, human-intent-aligned filtering—key for enterprise analytics and workflow automation.",
+      "importance": "high"
+    },
+    {
+      "type": "github",
+      "title": "notion-sdk-js v5.17.0 adds markdown parameter to Create Comment endpoint",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.17.0",
+      "date": "2026-04-07",
+      "insight": "Allows AI agents to generate richly formatted, context-aware comments—enhancing collaborative editing and AI-assisted documentation workflows.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Application Security Engineer, AI Security",
+      "url": "https://jobs.ashbyhq.com/notion/e3944777-d4a8-41d2-88ab-32daef949d4e",
+      "date": "2026-04-30",
+      "insight": "Signals formalization of AI-specific security posture—direct response to regulatory scrutiny and enterprise trust requirements for AI-augmented data platforms.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Enterprise Sales Leader and Sales Manager, Asia",
+      "url": "https://jobs.ashbyhq.com/notion/7f02bc74-65e8-4b62-a2dc-aee2fa8a3894",
+      "date": "2026-04-30",
+      "insight": "Confirms strategic push into high-growth enterprise markets—especially APAC—indicating imminent expansion of Notion AI's commercial licensing and SLA offerings.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Solutions Engineer, Tokyo and EMEA",
+      "url": "https://jobs.ashbyhq.com/notion/e5d316fa-0857-4e4b-96ca-1f2710a96c95",
+      "date": "2026-04-30",
+      "insight": "Builds localized technical sales capacity to drive complex AI workflow deployments—suggesting imminent enterprise-ready AI templates and integration blueprints.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Enterprise Product Marketing, GTM",
+      "url": "https://jobs.ashbyhq.com/notion/5f986e92-f668-4c9b-8b13-3de9cfe737e2",
+      "date": "2026-04-30",
+      "insight": "Indicates upcoming AI-specific GTM campaigns targeting regulated industries, likely including compliance narratives and ROI frameworks for AI-augmented knowledge work.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Software Engineer, Datastore and Data Platform",
+      "url": "https://jobs.ashbyhq.com/notion/3fbcf972-52d5-4475-8720-040025c6f7da",
+      "date": "2026-04-30",
+      "insight": "Reveals foundational investment in scalable, low-latency data infrastructure—essential for real-time AI inference, vector search, and personalized assistant experiences.",
+      "importance": "high"
+    }
+  ],
+  "note": "",
+  "date": "2026-04-30",
+  "generated_at": "2026-04-30 23:54 UTC",
+  "total_signals": 24
+}

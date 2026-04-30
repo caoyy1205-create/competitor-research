@@ -1,0 +1,74 @@
+{
+  "competitor": "Perplexity AI",
+  "summary": "Perplexity AI is executing a major, coordinated hiring push across AI research, search infrastructure, monetization, and enterprise legal functions—indicating accelerated product development, commercial scaling, and preparation for enterprise adoption. The concentration of roles in Search (5 positions) and AI (7 positions), alongside new monetization and security engineering hires, signals strategic emphasis on deepening technical moats and transitioning toward sustainable revenue. This hiring wave—spanning applied AI, inference, infrastructure, and forward-deployed engineering—suggests Perplexity is building internal capacity to support both product-led growth and high-touch B2B expansion.",
+  "signals": [
+    {
+      "type": "hiring",
+      "title": "Hiring for Monetization Software Engineer",
+      "url": "https://jobs.ashbyhq.com/perplexity/043d6a58-87a1-4e3c-bf47-4dc351b94cf4",
+      "date": "2026-04-30",
+      "insight": "First explicit monetization engineering role signals active development of paid features or subscription infrastructure, representing a direct competitive shift from pure freemium to revenue-generating product lines.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Engineering Site Lead for AI Department",
+      "url": "https://jobs.ashbyhq.com/perplexity/638e6823-be7f-46c6-9675-7b1197fc9b8c",
+      "date": "2026-04-30",
+      "insight": "Creation of an AI Site Lead role indicates organizational scaling and formalized leadership over AI R&D—critical for accelerating model iteration, safety, and proprietary capability development ahead of competitors.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Five Search-Focused Engineering Roles (Crawler, Core, ML, Backend, Search Engine Developer)",
+      "url": "https://jobs.ashbyhq.com/perplexity/dd80ab52-34bd-42af-aa5e-6283b7e6c194",
+      "date": "2026-04-30",
+      "insight": "Unprecedented investment in search infrastructure—including crawler, core engine, and ML ranking—confirms Perplexity's commitment to owning the full search stack, directly challenging Google and Microsoft in AI-native search differentiation.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring AI Inference and AI Infrastructure Engineers",
+      "url": "https://jobs.ashbyhq.com/perplexity/8a976851-9bef-4b07-8d36-567fa9540aef",
+      "date": "2026-04-30",
+      "insight": "Dedicated inference and infrastructure roles reveal focus on optimizing latency, cost, and scalability of real-time LLM serving—key to maintaining performance advantage as usage grows and competitors face inference bottlenecks.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring AI Security and Cloud Security Engineers",
+      "url": "https://jobs.ashbyhq.com/perplexity/b932d73f-49f3-4367-8fa7-a22f760e55a3",
+      "date": "2026-04-30",
+      "insight": "Dual security engineering hires signal proactive hardening of AI systems and cloud infrastructure—essential for enterprise trust, compliance readiness, and differentiating against less-secure AI search alternatives.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Director and Commercial Counsel for Enterprise Legal",
+      "url": "https://jobs.ashbyhq.com/perplexity/40fbae50-e61c-4d28-8122-8800988b8595",
+      "date": "2026-04-30",
+      "insight": "Senior enterprise legal hires indicate imminent or active pursuit of large-scale B2B contracts, requiring SLAs, data governance, and IP frameworks—marking a decisive move into the high-value enterprise search and AI assistant market.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Forward Deployed Engineer (Applied AI)",
+      "url": "https://jobs.ashbyhq.com/perplexity/aa511ea8-96e3-42ba-b28f-5e222170bcee",
+      "date": "2026-04-30",
+      "insight": "Forward-deployed engineering role confirms Perplexity is preparing for customer-specific AI integration and customization—enabling competitive differentiation in enterprise sales versus generic API-based rivals.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring iOS Software Engineer",
+      "url": "https://jobs.ashbyhq.com/perplexity/1dc97d9e-565e-4079-9fba-40fab14a3602",
+      "date": "2026-04-30",
+      "insight": "Dedicated iOS engineering hire suggests prioritization of native mobile experience—critical for user retention, offline capabilities, and competing with mobile-first AI assistants like Arc and Bing.",
+      "importance": "medium"
+    }
+  ],
+  "note": "",
+  "date": "2026-04-30",
+  "generated_at": "2026-04-30 23:54 UTC",
+  "total_signals": 20
+}

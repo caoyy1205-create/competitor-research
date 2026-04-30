@@ -1,0 +1,74 @@
+{
+  "competitor": "Cursor",
+  "summary": "Cursor is executing a major engineering hiring surge across infrastructure, AI/ML, and enterprise functions, signaling aggressive scaling of its AI coding platform. The simultaneous openings for Model Routing & Inference, Agent Harness, Storage, and ML Research roles indicate deep investment in proprietary AI inference architecture and autonomous agent capabilities. Expansion into GTM Engineering, Field Engineering, and AI Deployment Management reveals a strategic pivot toward enterprise sales motion and production-grade AI integration.",
+  "signals": [
+    {
+      "type": "hiring",
+      "title": "Hiring Software Engineer, Model Routing & Inference",
+      "url": "https://jobs.ashbyhq.com/cursor/e3966cb2-c584-4c8a-9d25-1309af31b3a9",
+      "date": "2026-04-30",
+      "insight": "Signals prioritization of low-latency, cost-efficient LLM orchestration—critical for differentiating Cursor's real-time coding assistance against competitors relying on generic API backends.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Software Engineer, Agent Harness",
+      "url": "https://jobs.ashbyhq.com/cursor/6e6f5bc2-eb32-40e2-bba9-cfa56479600d",
+      "date": "2026-04-30",
+      "insight": "Suggests active development of autonomous coding agents with structured tool-use, memory, and execution safety—positioning Cursor to compete directly with GitHub Copilot Agents and Replit Ghostwriter in advanced automation.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring GTM Engineer, Growth Programs",
+      "url": "https://jobs.ashbyhq.com/cursor/044a003e-d6cc-43b6-806a-833d9399c3d4",
+      "date": "2026-04-30",
+      "insight": "Indicates formalization of product-led growth infrastructure (e.g., in-app experimentation, usage-triggered onboarding), enabling data-driven conversion optimization that could erode market share from less technical devtool vendors.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring AI Deployment Manager",
+      "url": "https://jobs.ashbyhq.com/cursor/193c326d-2ffc-4c11-8bba-73d243fd178b",
+      "date": "2026-04-30",
+      "insight": "Reveals focus on enterprise deployment complexity—custom model hosting, VPC integration, compliance hand-holding—strengthening competitive moat against open-source alternatives and accelerating enterprise revenue capture.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Engineering Manager, Developer Productivity",
+      "url": "https://jobs.ashbyhq.com/cursor/eb174a32-1542-4f99-a363-6a544e7e37f1",
+      "date": "2026-04-30",
+      "insight": "Highlights internal scaling pressure and intent to systematize developer velocity—key for sustaining rapid iteration in AI-native tooling where build speed directly impacts feature competitiveness.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Software Engineer, Storage",
+      "url": "https://jobs.ashbyhq.com/cursor/515926c1-f044-4aff-9d5f-0bb84cb7eca2",
+      "date": "2026-04-30",
+      "insight": "Suggests investment in persistent, semantic codebase indexing and retrieval—essential for accurate context-aware suggestions and long-horizon reasoning, closing a key gap versus incumbents with mature IDE integrations.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Field Engineering",
+      "url": "https://jobs.ashbyhq.com/cursor/64a6cb18-493b-4d18-9f22-c661ae533bfa",
+      "date": "2026-04-30",
+      "insight": "Confirms expansion of pre-sales technical capacity to support complex enterprise evaluations—directly competing with GitHub's field org and increasing win rates in large deals.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Research Scientist",
+      "url": "https://jobs.ashbyhq.com/cursor/cd4bad0a-e2f6-4a8d-9b57-ce1780efedae",
+      "date": "2026-04-30",
+      "insight": "Signals continued R&D commitment beyond applied engineering—potentially targeting novel code-generation architectures or evaluation frameworks that could underpin future IP and benchmark leadership.",
+      "importance": "medium"
+    }
+  ],
+  "note": "",
+  "date": "2026-04-30",
+  "generated_at": "2026-04-30 23:53 UTC",
+  "total_signals": 20
+}
