@@ -1,0 +1,74 @@
+{
+  "competitor": "Perplexity AI",
+  "summary": "Perplexity AI is executing a major, coordinated hiring push across AI research, search infrastructure, monetization, and enterprise legal functions—indicating accelerated product development, commercial scaling, and preparation for enterprise go-to-market. The concentration of roles in Search (5 positions) and AI (7 positions), alongside dedicated Monetization and Enterprise Legal hires, signals a strategic pivot toward deepening technical moats while building revenue operations and compliance capacity for B2B expansion.",
+  "signals": [
+    {
+      "type": "hiring",
+      "title": "Hiring for Monetization Software Engineer",
+      "url": "https://jobs.ashbyhq.com/perplexity/043d6a58-87a1-4e3c-bf47-4dc351b94cf4",
+      "date": "2026-05-01",
+      "insight": "First explicit monetization engineering role signals imminent rollout or scaling of paid features (e.g., Pro tier, API access, or enterprise plans), representing a direct competitive threat to free-tier-focused rivals like Claude or open-source LLM tools.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Engineering Site Lead for AI Department",
+      "url": "https://jobs.ashbyhq.com/perplexity/638e6823-be7f-46c6-9675-7b1197fc9b8c",
+      "date": "2026-05-01",
+      "insight": "Establishing AI-specific site leadership confirms Perplexity is institutionalizing AI R&D as a core, scalable division—enabling faster iteration on proprietary models and inference optimizations that differentiate its real-time answer engine from competitors relying on third-party APIs.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Five Search-Focused Engineering Roles (Crawler, Core, ML, Backend, Search)",
+      "url": "https://jobs.ashbyhq.com/perplexity/dd80ab52-34bd-42af-aa5e-6283b7e6c194",
+      "date": "2026-05-01",
+      "insight": "Unprecedented investment in search infrastructure—including crawler, core engine, and ML—reinforces Perplexity's foundational differentiator: authoritative, citation-rich, real-time web-indexed answers, directly challenging Google's SGE and Microsoft's Copilot+ search integration.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring AI Security and Cloud Security Engineers",
+      "url": "https://jobs.ashbyhq.com/perplexity/b932d73f-49f3-4367-8fa7-a22f760e55a3",
+      "date": "2026-05-01",
+      "insight": "Dual security engineering hires indicate proactive hardening of AI systems ahead of enterprise adoption, addressing key trust barriers for regulated customers and positioning Perplexity to compete with Anthropic and Cohere in high-compliance verticals.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Director and Commercial Counsel for Enterprise Legal",
+      "url": "https://jobs.ashbyhq.com/perplexity/40fbae50-e61c-4d28-8122-8800988b8595",
+      "date": "2026-05-01",
+      "insight": "Dedicated enterprise legal leadership signals imminent launch or scaling of B2B contracts, SLAs, data processing agreements, and compliance certifications—essential for competing with established AI vendors in Fortune 500 sales cycles.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring iOS Software Engineer",
+      "url": "https://jobs.ashbyhq.com/perplexity/1dc97d9e-565e-4079-9fba-40fab14a3602",
+      "date": "2026-05-01",
+      "insight": "Mobile engineering hire suggests prioritization of native app experience—potentially to deepen user engagement, enable offline/cached functionality, or support upcoming mobile-first features like voice or AR-integrated search.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring AI Research Lead and AI Researcher",
+      "url": "https://jobs.ashbyhq.com/perplexity/16bc54a6-83ab-4802-8a65-d88fbb7ebe03",
+      "date": "2026-05-01",
+      "insight": "Senior research leadership hire validates continued investment in proprietary model development (e.g., pplx-7b/70b variants) and long-horizon capabilities like reasoning, tool use, and multimodal grounding—key to sustaining technical differentiation against open-weight models.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Customer Success & Support Associate for APAC",
+      "url": "https://jobs.ashbyhq.com/perplexity/c0c29041-ebcb-40e6-b4ab-80b386922d8c",
+      "date": "2026-05-01",
+      "insight": "APAC-specific customer success hire reflects geographic expansion intent and signals readiness to support non-English or regionally tailored enterprise deployments, increasing competitive pressure on regional incumbents like Naver or Rakuten.",
+      "importance": "medium"
+    }
+  ],
+  "note": "",
+  "date": "2026-05-01",
+  "generated_at": "2026-05-01 23:53 UTC",
+  "total_signals": 20
+}

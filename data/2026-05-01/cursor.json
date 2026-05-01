@@ -1,0 +1,74 @@
+{
+  "competitor": "Cursor",
+  "summary": "Cursor is executing a broad engineering hiring surge across infrastructure, AI/ML, and enterprise domains, signaling aggressive scaling of its technical foundation and go-to-market capabilities. The simultaneous openings for ML Research, Model Routing & Inference, Agent Harness, and AI Deployment Manager indicate a strategic pivot toward production-grade autonomous agent systems and enterprise AI deployment. This expansion—spanning Growth, Security, Storage, and Developer Productivity—suggests Cursor is preparing for both rapid user acquisition and complex B2B adoption cycles.",
+  "signals": [
+    {
+      "type": "hiring",
+      "title": "Software Engineer, ML Research",
+      "url": "https://jobs.ashbyhq.com/cursor/0aa0650b-f93c-416e-9e2f-4fdf1556fd14",
+      "date": "2026-05-01",
+      "insight": "Signals deep investment in foundational AI research to differentiate Cursor's code-generation and reasoning capabilities from competitors like GitHub Copilot and Tabnine.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Engineering Manager, Model Routing & Inference",
+      "url": "https://jobs.ashbyhq.com/cursor/e3966cb2-c584-4c8a-9d25-1309af31b3a9",
+      "date": "2026-05-01",
+      "insight": "Reveals prioritization of scalable, low-latency LLM orchestration—critical for real-time IDE integration and competitive with Anthropic's and Replit's inference optimizations.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Software Engineer, Agent Harness",
+      "url": "https://jobs.ashbyhq.com/cursor/6e6f5bc2-eb32-40e2-bba9-cfa56479600d",
+      "date": "2026-05-01",
+      "insight": "Confirms active development of autonomous coding agents (beyond chat-based assistance), positioning Cursor to compete directly with Cognition's Devin and Amazon CodeWhisperer's upcoming agent features.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "AI Deployment Manager",
+      "url": "https://jobs.ashbyhq.com/cursor/193c326d-2ffc-4c11-8bba-73d243fd178b",
+      "date": "2026-05-01",
+      "insight": "Indicates a dedicated focus on enterprise AI rollout support—addressing a key friction point for large customers and differentiating from purely self-serve devtool vendors.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Software Engineer, Enterprise",
+      "url": "https://jobs.ashbyhq.com/cursor/54a9cfcd-570a-4e9c-b52c-bd2336c60991",
+      "date": "2026-05-01",
+      "insight": "Suggests accelerated investment in enterprise-specific features (SSO, audit logs, compliance) to capture mid-market and Fortune 500 accounts amid growing competition from GitLab Duo and AWS CodeCatalyst.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "GTM Engineer, Growth Programs",
+      "url": "https://jobs.ashbyhq.com/cursor/044a003e-d6cc-43b6-806a-833d9399c3d4",
+      "date": "2026-05-01",
+      "insight": "Highlights fusion of engineering and growth—enabling rapid experimentation with in-product activation, conversion, and retention levers, a capability most devtool startups lack.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Engineering Manager, Developer Productivity",
+      "url": "https://jobs.ashbyhq.com/cursor/eb174a32-1542-4f99-a363-6a544e7e37f1",
+      "date": "2026-05-01",
+      "insight": "Points to internal tooling and platform investments that improve Cursor's own engineering velocity—critical for sustaining innovation pace against well-funded incumbents.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Field Engineering",
+      "url": "https://jobs.ashbyhq.com/cursor/64a6cb18-493b-4d18-9f22-c661ae533bfa",
+      "date": "2026-05-01",
+      "insight": "Demonstrates commitment to pre-sales technical enablement, essential for winning complex enterprise deals where credibility and hands-on validation are decisive.",
+      "importance": "medium"
+    }
+  ],
+  "note": "",
+  "date": "2026-05-01",
+  "generated_at": "2026-05-01 23:52 UTC",
+  "total_signals": 20
+}
