@@ -1,0 +1,74 @@
+{
+  "competitor": "Cursor",
+  "summary": "Cursor is executing a major engineering hiring surge across infrastructure, AI/ML, and enterprise functions, signaling aggressive scaling of its AI coding platform. The simultaneous openings for Growth Engineering, GTM Engineering, and Enterprise Sales roles indicate a strategic pivot toward monetization and market expansion. Notably, specialized roles in Model Routing & Inference, Agent Harness, and AI Deployment Management reveal deep investment in next-generation agent architecture and enterprise AI integration.",
+  "signals": [
+    {
+      "type": "hiring",
+      "title": "Hiring for Engineering Manager, Model Routing & Inference",
+      "url": "https://jobs.ashbyhq.com/cursor/e3966cb2-c584-4c8a-9d25-1309af31b3a9",
+      "date": "2026-05-02",
+      "insight": "Signals a focused effort to optimize LLM orchestration and inference efficiency—critical for reducing latency/costs and differentiating Cursor's real-time coding assistance against competitors like GitHub Copilot and Tabnine.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring for Software Engineer, Agent Harness",
+      "url": "https://jobs.ashbyhq.com/cursor/6e6f5bc2-eb32-40e2-bba9-cfa56479600d",
+      "date": "2026-05-02",
+      "insight": "Reveals active development of autonomous agent frameworks—positioning Cursor to move beyond chat-based code completion toward self-executing, context-aware coding agents, a key battleground in the AI devtools space.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring for AI Deployment Manager (Customer Success)",
+      "url": "https://jobs.ashbyhq.com/cursor/193c326d-2ffc-4c11-8bba-73d243fd178b",
+      "date": "2026-05-02",
+      "insight": "Indicates maturation of enterprise go-to-market strategy, with dedicated roles to support complex AI toolchain integrations—directly competing with GitHub's Enterprise Copilot rollout and Amazon CodeWhisperer's enterprise enablement.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring for GTM Engineer, Growth Programs",
+      "url": "https://jobs.ashbyhq.com/cursor/044a003e-d6cc-43b6-806a-833d9399c3d4",
+      "date": "2026-05-02",
+      "insight": "Suggests product-led growth is being augmented with engineering-led marketing automation (e.g., in-product trials, usage-triggered onboarding), increasing conversion pressure on freemium-focused rivals like Sourcegraph Cody.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring for Software Engineer, Enterprise",
+      "url": "https://jobs.ashbyhq.com/cursor/54a9cfcd-570a-4e9c-b52c-bd2336c60991",
+      "date": "2026-05-02",
+      "insight": "Confirms prioritization of enterprise sales motion, implying imminent or recent launch of compliance, SSO, audit logging, or on-prem deployment features to compete with GitHub Copilot Business and GitLab Duo Enterprise.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring for Engineering Manager, Developer Productivity",
+      "url": "https://jobs.ashbyhq.com/cursor/eb174a32-1542-4f99-a363-6a544e7e37f1",
+      "date": "2026-05-02",
+      "insight": "Highlights internal focus on scaling engineering velocity—likely to accelerate feature iteration and reduce time-to-market for AI capabilities, widening the execution gap versus slower-moving incumbents.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring for Research Scientist",
+      "url": "https://jobs.ashbyhq.com/cursor/cd4bad0a-e2f6-4a8d-9b57-ce1780efedae",
+      "date": "2026-05-02",
+      "insight": "Signals continued investment in proprietary AI research—potentially for fine-tuned coding models, retrieval-augmented generation (RAG) over codebases, or novel evaluation frameworks—bolstering defensibility against open-weight alternatives.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring for Account Executive, Geo Enterprise",
+      "url": "https://jobs.ashbyhq.com/cursor/61e4677d-cf3d-458a-bf6c-02287d5d2c39",
+      "date": "2026-05-02",
+      "insight": "Demonstrates geographic expansion intent (e.g., EMEA/APAC) for enterprise sales, suggesting readiness to challenge regional incumbents like JetBrains AI Assistant and localized Copilot deployments.",
+      "importance": "medium"
+    }
+  ],
+  "note": "",
+  "date": "2026-05-02",
+  "generated_at": "2026-05-02 23:43 UTC",
+  "total_signals": 20
+}

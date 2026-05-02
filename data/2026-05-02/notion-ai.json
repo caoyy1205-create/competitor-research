@@ -1,0 +1,74 @@
+{
+  "competitor": "Notion AI",
+  "summary": "Notion AI is accelerating enterprise GTM expansion with a surge of sales, solutions engineering, and customer success hires across AMER, EMEA, and Asia—particularly Japan and Tokyo—while simultaneously enhancing API capabilities for richer AI-powered collaboration features like comment markdown support, multi-value filtering, and status tracking in list responses.",
+  "signals": [
+    {
+      "type": "github",
+      "title": "notion-sdk-js v5.20.0 adds request_status field to list responses",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.20.0",
+      "date": "2026-04-20",
+      "insight": "Enables developers to programmatically monitor AI request lifecycle (e.g., pending, completed, failed), improving reliability and observability for AI-integrated workflows—a critical capability for enterprise automation use cases.",
+      "importance": "high"
+    },
+    {
+      "type": "github",
+      "title": "notion-sdk-js v5.18.0 adds multi-value filters for select/status/multi_select properties",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.18.0",
+      "date": "2026-04-13",
+      "insight": "Unlocks more sophisticated AI-driven data querying and dashboarding by allowing complex, real-world property-based filtering—directly enabling advanced analytics and dynamic AI summarization over structured Notion databases.",
+      "importance": "high"
+    },
+    {
+      "type": "github",
+      "title": "notion-sdk-js v5.17.0 adds markdown parameter to Create Comment endpoint",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.17.0",
+      "date": "2026-04-07",
+      "insight": "Allows AI-generated comments to include rich formatting (bullets, code blocks, links), significantly elevating the quality and utility of AI-assisted collaboration—closing a key gap vs. competitors like Coda or Microsoft Copilot in Teams.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Notion AI hiring Enterprise Sales Leader",
+      "url": "https://jobs.ashbyhq.com/notion/7f02bc74-65e8-4b62-a2dc-aee2fa8a3894",
+      "date": "2026-05-02",
+      "insight": "Signals formal launch of dedicated enterprise sales leadership, indicating readiness to pursue large-scale contracts and compete head-to-head with Asana, ClickUp, and Monday.com for Fortune 500 deals.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Notion AI hiring Solutions Engineer, Tokyo & Solutions Engineer, EMEA",
+      "url": "https://jobs.ashbyhq.com/notion/e5d316fa-0857-4e4b-96ca-1f2710a96c95",
+      "date": "2026-05-02",
+      "insight": "Geographically targeted technical sales hires confirm aggressive regional expansion into high-value enterprise markets where AI-powered workflow adoption is accelerating, directly challenging localized incumbents.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Notion AI hiring Application Security Engineer, AI Security",
+      "url": "https://jobs.ashbyhq.com/notion/e3944777-d4a8-41d2-88ab-32daef949d4e",
+      "date": "2026-05-02",
+      "insight": "First publicly advertised AI-specific security role signals growing emphasis on trust, compliance, and secure AI output handling—critical for winning regulated industries and differentiating from less mature AI competitors.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Notion AI hiring Software Engineer, Datastore & Data Platform",
+      "url": "https://jobs.ashbyhq.com/notion/3fbcf972-52d5-4475-8720-040025c6f7da",
+      "date": "2026-05-02",
+      "insight": "Back-end infrastructure hires focused on datastore and data platform suggest foundational work to scale AI inference, caching, and real-time sync—enabling lower-latency, higher-fidelity AI experiences across large databases.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Notion AI hiring Enterprise Product Marketing, GTM",
+      "url": "https://jobs.ashbyhq.com/notion/5f986e92-f668-4c9b-8b13-3de9cfe737e2",
+      "date": "2026-05-02",
+      "insight": "Dedicated enterprise PMM signals shift from product-led growth to full-funnel GTM strategy, including competitive positioning, ROI messaging, and vertical-specific AI use cases—key for displacing entrenched workflow tools.",
+      "importance": "medium"
+    }
+  ],
+  "note": "",
+  "date": "2026-05-02",
+  "generated_at": "2026-05-02 23:44 UTC",
+  "total_signals": 24
+}
