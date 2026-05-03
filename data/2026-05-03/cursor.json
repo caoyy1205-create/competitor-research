@@ -1,0 +1,74 @@
+{
+  "competitor": "Cursor",
+  "summary": "Cursor is executing a broad engineering hiring surge across infrastructure, AI/ML, security, and enterprise domains, signaling aggressive scaling to support product maturity and commercial expansion. The addition of GTM, Field Engineering, and AI Deployment roles indicates a strategic pivot toward enterprise sales motion and customer-facing AI implementation capabilities.",
+  "signals": [
+    {
+      "type": "hiring",
+      "title": "Hiring for Software Engineer, ML Research and Research Scientist",
+      "url": "https://jobs.ashbyhq.com/cursor/0aa0650b-f93c-416e-9e2f-4fdf1556fd14",
+      "date": "2026-05-03",
+      "insight": "Signals intensified investment in proprietary model research and advanced AI capabilities—potentially aiming to reduce reliance on third-party LLMs and differentiate on inference quality or efficiency.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring for Engineering Manager, Model Routing & Inference",
+      "url": "https://jobs.ashbyhq.com/cursor/e3966cb2-c584-4c8a-9d25-1309af31b3a9",
+      "date": "2026-05-03",
+      "insight": "Reveals focus on optimizing real-time LLM orchestration—critical for low-latency, cost-efficient, and multi-model AI coding experiences, directly competing with GitHub Copilot and Tabnine on performance and flexibility.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring for Software Engineer, Agent Harness",
+      "url": "https://jobs.ashbyhq.com/cursor/6e6f5bc2-eb32-40e2-bba9-cfa56479600d",
+      "date": "2026-05-03",
+      "insight": "Indicates active development of autonomous coding agents—suggesting Cursor is moving beyond chat-assisted editing toward goal-driven, multi-step automation, a key frontier in AI developer tools.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring for AI Deployment Manager (Customer Success)",
+      "url": "https://jobs.ashbyhq.com/cursor/193c326d-2ffc-4c11-8bba-73d243fd178b",
+      "date": "2026-05-03",
+      "insight": "Highlights shift toward enterprise-grade AI adoption support—enabling tailored model fine-tuning, on-prem deployment, and integration consulting, which strengthens competitive positioning against Coder and CodeWhisperer in regulated sectors.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring for Account Executive, Geo Enterprise and Field Engineering",
+      "url": "https://jobs.ashbyhq.com/cursor/61e4677d-cf3d-458a-bf6c-02287d5d2c39",
+      "date": "2026-05-03",
+      "insight": "Confirms formalization of an enterprise sales motion with geographic specialization and pre-sales technical capacity—signaling readiness to compete head-to-head with GitHub's enterprise offerings and accelerate ARR growth.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring for Software Engineer, Security",
+      "url": "https://jobs.ashbyhq.com/cursor/94cc6684-9dbf-43f9-8ffc-405614e64ddd",
+      "date": "2026-05-03",
+      "insight": "Suggests growing emphasis on secure code generation, supply chain integrity, and compliance—critical for winning enterprise contracts where security posture is a gating factor.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring for GTM Engineer, Growth Programs",
+      "url": "https://jobs.ashbyhq.com/cursor/044a003e-d6cc-43b6-806a-833d9399c3d4",
+      "date": "2026-05-03",
+      "insight": "Reflects investment in product-led growth infrastructure—such as in-app experimentation, usage analytics, and conversion optimization—indicating focus on scaling free-to-paid conversion amid rising competition.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring for Engineering Manager, Developer Productivity",
+      "url": "https://jobs.ashbyhq.com/cursor/eb174a32-1542-4f99-a363-6a544e7e37f1",
+      "date": "2026-05-03",
+      "insight": "Points to internal tooling and platform investments that improve engineering velocity—essential for sustaining rapid iteration cycles as the codebase and team scale, indirectly strengthening competitive agility.",
+      "importance": "medium"
+    }
+  ],
+  "note": "",
+  "date": "2026-05-03",
+  "generated_at": "2026-05-03 23:45 UTC",
+  "total_signals": 20
+}
