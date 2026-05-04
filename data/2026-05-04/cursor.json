@@ -1,0 +1,74 @@
+{
+  "competitor": "Cursor",
+  "summary": "Cursor is executing a major engineering hiring surge across infrastructure, AI/ML, and enterprise domains, signaling aggressive scaling of its developer AI platform. The simultaneous openings for Growth Engineering, GTM Engineering, and Enterprise Sales roles indicate a strategic pivot toward monetization and market expansion. Notably, specialized roles in Model Routing & Inference, Agent Harness, and AI Deployment Manager suggest accelerated investment in production-grade AI agent capabilities and enterprise deployment tooling.",
+  "signals": [
+    {
+      "type": "hiring",
+      "title": "Hiring Software Engineer, Model Routing & Inference",
+      "url": "https://jobs.ashbyhq.com/cursor/e3966cb2-c584-4c8a-9d25-1309af31b3a9",
+      "date": "2026-05-04",
+      "insight": "Signals deep technical investment in real-time LLM orchestration—critical for competitive differentiation in low-latency, multi-model AI coding assistants.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Software Engineer, Agent Harness",
+      "url": "https://jobs.ashbyhq.com/cursor/6e6f5bc2-eb32-40e2-bba9-cfa56479600d",
+      "date": "2026-05-04",
+      "insight": "Reveals prioritization of autonomous agent frameworks—directly competing with GitHub Copilot's upcoming agent features and Replit's Ghostwriter evolution.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring AI Deployment Manager",
+      "url": "https://jobs.ashbyhq.com/cursor/193c326d-2ffc-4c11-8bba-73d243fd178b",
+      "date": "2026-05-04",
+      "insight": "Indicates formalization of enterprise AI ops—addressing a key adoption barrier for regulated customers and differentiating from consumer-first rivals like Tabnine.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring GTM Engineer, Growth Programs",
+      "url": "https://jobs.ashbyhq.com/cursor/044a003e-d6cc-43b6-806a-833d9399c3d4",
+      "date": "2026-05-04",
+      "insight": "Suggests product-led growth acceleration via embedded analytics, experimentation, and conversion optimization—mirroring Vercel's and Linear's successful GTM engineering models.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Engineering Manager, Developer Productivity",
+      "url": "https://jobs.ashbyhq.com/cursor/eb174a32-1542-4f99-a363-6a544e7e37f1",
+      "date": "2026-05-04",
+      "insight": "Highlights internal focus on scaling engineering velocity—essential for sustaining rapid iteration amid growing codebase complexity and feature sprawl.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Account Executive, Geo Enterprise",
+      "url": "https://jobs.ashbyhq.com/cursor/61e4677d-cf3d-458a-bf6c-02287d5d2c39",
+      "date": "2026-05-04",
+      "insight": "Confirms dedicated enterprise sales motion targeting geographic markets—likely responding to demand from Fortune 500 dev teams seeking on-prem or air-gapped AI coding solutions.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Research Scientist",
+      "url": "https://jobs.ashbyhq.com/cursor/cd4bad0a-e2f6-4a8d-9b57-ce1780efedae",
+      "date": "2026-05-04",
+      "insight": "Signals continued R&D investment beyond applied engineering—potentially exploring novel code synthesis architectures or verification methods to outpace open-weight competitors.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Software Engineer, Security",
+      "url": "https://jobs.ashbyhq.com/cursor/94cc6684-9dbf-43f9-8ffc-405614e64ddd",
+      "date": "2026-05-04",
+      "insight": "Reflects growing emphasis on trust and compliance as Cursor targets regulated industries, directly addressing a key gap versus incumbents like GitHub Advanced Security.",
+      "importance": "medium"
+    }
+  ],
+  "note": "",
+  "date": "2026-05-04",
+  "generated_at": "2026-05-04 23:54 UTC",
+  "total_signals": 20
+}
