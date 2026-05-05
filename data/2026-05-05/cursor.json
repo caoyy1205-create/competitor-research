@@ -1,0 +1,74 @@
+{
+  "competitor": "Cursor",
+  "summary": "Cursor is executing a broad, multi-front engineering hiring surge across infrastructure, storage, AI/ML, security, and agent systems—indicating aggressive scaling of its core platform and enterprise readiness. Simultaneously, new GTM and customer-facing roles (GTM Engineer, AI Deployment Manager, Field Engineering, Account Executive) signal intensified focus on commercialization, enterprise adoption, and post-sales AI implementation support.",
+  "signals": [
+    {
+      "type": "hiring",
+      "title": "Hiring for Engineering Manager, Model Routing & Inference",
+      "url": "https://jobs.ashbyhq.com/cursor/e3966cb2-c584-4c8a-9d25-1309af31b3a9",
+      "date": "2026-05-05",
+      "insight": "Signals strategic prioritization of scalable, low-latency LLM inference infrastructure—critical for differentiating real-time AI coding experiences against competitors like GitHub Copilot and Tabnine.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring for Software Engineer, Agent Harness",
+      "url": "https://jobs.ashbyhq.com/cursor/6e6f5bc2-eb32-40e2-bba9-cfa56479600d",
+      "date": "2026-05-05",
+      "insight": "Reveals active investment in autonomous agent frameworks—positioning Cursor to move beyond chat-based assistance toward self-executing, context-aware coding agents, a key frontier in AI dev tools.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring for AI Deployment Manager (Customer Success)",
+      "url": "https://jobs.ashbyhq.com/cursor/193c326d-2ffc-4c11-8bba-73d243fd178b",
+      "date": "2026-05-05",
+      "insight": "Indicates formalization of enterprise AI rollout capabilities—addressing a critical gap for large customers and directly competing with GitHub's Enterprise Support and Replit's deployment integrations.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring for GTM Engineer, Growth Programs",
+      "url": "https://jobs.ashbyhq.com/cursor/044a003e-d6cc-43b6-806a-833d9399c3d4",
+      "date": "2026-05-05",
+      "insight": "Suggests deep integration of engineering talent into growth operations—enabling rapid experimentation with product-led acquisition levers (e.g., in-editor trials, usage-triggered onboarding), a competitive advantage over less technical GTM teams.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring for Software Engineer, Security",
+      "url": "https://jobs.ashbyhq.com/cursor/94cc6684-9dbf-43f9-8ffc-405614e64ddd",
+      "date": "2026-05-05",
+      "insight": "Reflects growing emphasis on trust and compliance as Cursor targets regulated industries and enterprise contracts, where security posture is a key evaluation criterion versus incumbents.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring for Field Engineering",
+      "url": "https://jobs.ashbyhq.com/cursor/64a6cb18-493b-4d18-9f22-c661ae533bfa",
+      "date": "2026-05-05",
+      "insight": "Confirms expansion of pre-sales technical capacity—essential for winning complex enterprise deals against solutions with mature field engineering organizations like GitHub and GitLab.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring for Software Engineer, Storage",
+      "url": "https://jobs.ashbyhq.com/cursor/515926c1-f044-4aff-9d5f-0bb84cb7eca2",
+      "date": "2026-05-05",
+      "insight": "Points to foundational work on persistent, versioned, or semantic codebase storage—potentially enabling advanced features like long-context project memory or offline-capable AI reasoning.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring for Research Scientist",
+      "url": "https://jobs.ashbyhq.com/cursor/cd4bad0a-e2f6-4a8d-9b57-ce1780efedae",
+      "date": "2026-05-05",
+      "insight": "Signals continued investment in proprietary AI research—likely focused on code-specific model optimization or novel training paradigms, reinforcing differentiation from API-dependent rivals.",
+      "importance": "medium"
+    }
+  ],
+  "note": "",
+  "date": "2026-05-05",
+  "generated_at": "2026-05-05 23:47 UTC",
+  "total_signals": 20
+}

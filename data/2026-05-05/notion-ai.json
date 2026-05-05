@@ -1,0 +1,74 @@
+{
+  "competitor": "Notion AI",
+  "summary": "Notion AI is executing a major global GTM expansion, with concentrated hiring across sales leadership, regional field roles (EMEA, Asia, Japan, AMER), and customer-facing technical positions. Concurrently, it is strengthening AI-specific security capabilities and core data infrastructure—indicating preparation for enterprise-scale adoption and regulatory scrutiny. This signals a decisive shift from product-led growth to full-funnel, verticalized enterprise motion.",
+  "signals": [
+    {
+      "type": "hiring",
+      "title": "Hiring Enterprise Sales Leader and Sales Manager, Asia",
+      "url": "https://jobs.ashbyhq.com/notion/7f02bc74-65e8-4b62-a2dc-aee2fa8a3894",
+      "date": "2026-05-05",
+      "insight": "Signals Notion AI's formal entry into high-value enterprise sales with dedicated regional leadership—directly competing with Asana, Monday.com, and ClickUp for large commercial and Fortune 500 contracts.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Solutions Engineer, EMEA and Tokyo; Forward Deployed Engineer, GTM",
+      "url": "https://jobs.ashbyhq.com/notion/6ad34426-b980-436b-80c4-3634c00094ad",
+      "date": "2026-05-05",
+      "insight": "Demonstrates investment in pre-sales technical capacity to support complex enterprise evaluations—closing a key gap versus incumbents like ServiceNow and Microsoft that leverage deep solution engineering for deal velocity.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Application Security Engineer, AI Security",
+      "url": "https://jobs.ashbyhq.com/notion/e3944777-d4a8-41d2-88ab-32daef949d4e",
+      "date": "2026-05-05",
+      "insight": "Reflects proactive response to rising enterprise demand for AI governance, model provenance, and red-team readiness—critical for winning regulated sectors (finance, healthcare) where competitors like Coda and Airtable lack dedicated AI security roles.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Enterprise Customer Success Manager, Japan and AMER",
+      "url": "https://jobs.ashbyhq.com/notion/8ca01f57-f808-43bc-ae39-cb35fdad1dc5",
+      "date": "2026-05-05",
+      "insight": "Confirms strategic focus on retention and expansion in high-growth, high-touch markets—countering churn risk as usage scales and differentiating from PLG-only peers unable to deliver embedded success support.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Software Engineer, Datastore and Data Platform",
+      "url": "https://jobs.ashbyhq.com/notion/3fbcf972-52d5-4475-8720-040025c6f7da",
+      "date": "2026-05-05",
+      "insight": "Suggests foundational work to decouple and scale Notion's data layer—enabling faster AI inference, real-time sync, and third-party integrations critical for enterprise workflow orchestration against competitors like Linear or Jira.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Enterprise Product Marketing, GTM",
+      "url": "https://jobs.ashbyhq.com/notion/5f986e92-f668-4c9b-8b13-3de9cfe737e2",
+      "date": "2026-05-05",
+      "insight": "Indicates maturation of go-to-market strategy with dedicated positioning for enterprise use cases (e.g., compliance, cross-tool automation), moving beyond generic 'AI workspace' messaging to compete head-on with specialized vendors.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring GTM Recruiter, Tokyo",
+      "url": "https://jobs.ashbyhq.com/notion/6b702ebf-0829-4b0a-b103-fe9271708881",
+      "date": "2026-05-05",
+      "insight": "Reveals intent to build localized, scalable GTM teams in Japan—a high-barrier market requiring native language fluency and regulatory familiarity, signaling long-term commitment beyond surface-level localization.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Corporate Strategic Finance",
+      "url": "https://jobs.ashbyhq.com/notion/a8acb2fc-2a83-487b-9338-a45f416802b0",
+      "date": "2026-05-05",
+      "insight": "Suggests preparation for capital allocation decisions around M&A, pricing model evolution, or international entity structuring—potentially foreshadowing monetization shifts that could pressure freemium-focused rivals.",
+      "importance": "medium"
+    }
+  ],
+  "note": "",
+  "date": "2026-05-05",
+  "generated_at": "2026-05-05 23:48 UTC",
+  "total_signals": 20
+}

@@ -1,0 +1,74 @@
+{
+  "competitor": "Perplexity AI",
+  "summary": "Perplexity AI is executing a major, coordinated hiring push across core technical domains—especially Search, AI infrastructure, and monetization—indicating imminent product expansion and enterprise readiness. The simultaneous recruitment of an Engineering Site Lead for AI and an AI Research Lead signals a strategic shift toward deeper R&D investment and organizational scaling in artificial intelligence. Notably, the emphasis on Search Core, Crawler, and Rust engineering suggests foundational enhancements to its proprietary search stack, while new monetization and enterprise customer success roles confirm accelerated commercialization.",
+  "signals": [
+    {
+      "type": "hiring",
+      "title": "Engineering Site Lead (AI)",
+      "url": "https://jobs.ashbyhq.com/perplexity/638e6823-be7f-46c6-9675-7b1197fc9b8c",
+      "date": "2026-05-05",
+      "insight": "A senior leadership hire in AI signals Perplexity's intent to scale its AI org structurally—not just headcount—and likely precedes expanded research output or model development initiatives that could challenge incumbents' technical roadmaps.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Member of Technical Staff (AI Research Lead)",
+      "url": "https://jobs.ashbyhq.com/perplexity/16bc54a6-83ab-4802-8a65-d88fbb7ebe03",
+      "date": "2026-05-05",
+      "insight": "This role directly competes for top-tier AI research talent and implies Perplexity is formalizing internal research capabilities—potentially targeting novel reasoning architectures or retrieval-augmented foundation models that differentiate from LLM-only competitors.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Member of Technical Staff (Search Engine Developer, Search Core)",
+      "url": "https://jobs.ashbyhq.com/perplexity/27aa1a14-bc59-4613-a65a-38598695076f",
+      "date": "2026-05-05",
+      "insight": "Hiring for Search Core—alongside Rust Engineer and Crawler roles—reveals a focused effort to strengthen proprietary search infrastructure, reducing reliance on third-party indexes and enabling faster, more accurate answer synthesis critical for competitive differentiation.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Member of Technical Staff (Software Engineer, Monetization)",
+      "url": "https://jobs.ashbyhq.com/perplexity/043d6a58-87a1-4e3c-bf47-4dc351b94cf4",
+      "date": "2026-05-05",
+      "insight": "The dedicated monetization engineering role confirms Perplexity is moving beyond freemium experimentation into scalable, embedded revenue systems—likely preparing for tiered API access, usage-based billing, or premium features that pressure rivals' pricing models.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Enterprise Customer Success Manager",
+      "url": "https://jobs.ashbyhq.com/perplexity/9a570310-305d-4f4e-9807-b8862b31194b",
+      "date": "2026-05-05",
+      "insight": "This hire marks a concrete step toward enterprise sales motion, suggesting Perplexity is actively building capacity to onboard, retain, and expand within large organizations—a direct threat to incumbents' B2B dominance and a signal of near-term revenue diversification.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Member of Technical Staff (AI Infrastructure Engineer)",
+      "url": "https://jobs.ashbyhq.com/perplexity/598e1f7d-b802-4de2-99ac-90eb2bc33315",
+      "date": "2026-05-05",
+      "insight": "Investing in AI infrastructure signals preparation for higher-volume inference, model fine-tuning at scale, or multi-modal expansion—enabling lower latency and cost-efficient deployment that could undercut competitors' operational efficiency.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Member of Technical Staff (Cloud Security Engineer)",
+      "url": "https://jobs.ashbyhq.com/perplexity/b932d73f-49f3-4367-8fa7-a22f760e55a3",
+      "date": "2026-05-05",
+      "insight": "Strengthening cloud security capabilities is essential for enterprise trust and compliance; this hire supports upcoming SOC 2/GDPR readiness and positions Perplexity to compete for regulated-sector contracts currently dominated by incumbents.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Commercial Counsel",
+      "url": "https://jobs.ashbyhq.com/perplexity/09a2f0e5-c38c-49ee-a5af-9a179e137a44",
+      "date": "2026-05-05",
+      "insight": "Adding legal expertise focused on commercial agreements accelerates enterprise deal velocity and signals readiness to negotiate complex SLAs, data processing terms, and IP ownership—key gating factors for large-scale adoption.",
+      "importance": "medium"
+    }
+  ],
+  "note": "",
+  "date": "2026-05-05",
+  "generated_at": "2026-05-05 23:47 UTC",
+  "total_signals": 20
+}
