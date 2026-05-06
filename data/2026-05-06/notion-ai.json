@@ -1,0 +1,74 @@
+{
+  "competitor": "Notion AI",
+  "summary": "Notion AI is accelerating enterprise GTM expansion with a massive wave of sales, customer success, and security hires across EMEA, Japan, and AMER—indicating aggressive commercialization of its AI offerings. Concurrently, SDK updates reveal foundational improvements to comment functionality, filtering capabilities, and API reliability—suggesting enhanced AI-assisted collaboration and data querying features are in active development.",
+  "signals": [
+    {
+      "type": "github",
+      "title": "notion-sdk-js v5.20.0 adds request_status field to list responses",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.20.0",
+      "date": "2026-04-20",
+      "insight": "Adding `request_status` improves error visibility and debugging for AI-powered batch operations—critical for enterprise customers relying on robust, observable integrations.",
+      "importance": "high"
+    },
+    {
+      "type": "github",
+      "title": "notion-sdk-js v5.18.0 adds multi-value filters for select/status/multi_select properties",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.18.0",
+      "date": "2026-04-13",
+      "insight": "Enables complex, AI-driven database queries (e.g., 'show all tasks in status: Done OR In Review')—a key enabler for advanced AI agents and automation workflows.",
+      "importance": "high"
+    },
+    {
+      "type": "github",
+      "title": "notion-sdk-js v5.17.0 adds markdown parameter to Create Comment endpoint",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.17.0",
+      "date": "2026-04-07",
+      "insight": "Allows AI-generated comments to retain rich formatting (bullets, links, code), significantly improving the usability and professionalism of AI-suggested feedback and summaries.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Notion AI hiring Enterprise Sales Leader",
+      "url": "https://jobs.ashbyhq.com/notion/7f02bc74-65e8-4b62-a2dc-aee2fa8a3894",
+      "date": "2026-05-06",
+      "insight": "Signals formal launch of dedicated enterprise sales motion for Notion AI—direct competitive threat to AI-augmented workspace platforms like Coda and ClickUp in large-account deals.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Notion AI hiring Application Security Engineer, AI Security",
+      "url": "https://jobs.ashbyhq.com/notion/e3944777-d4a8-41d2-88ab-32daef949d4e",
+      "date": "2026-05-06",
+      "insight": "First explicit AI-specific security hire signals growing focus on securing AI model inputs/outputs and mitigating hallucination or prompt injection risks—key for regulated enterprise adoption.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Notion AI hiring Solutions Engineer, Tokyo & EMEA",
+      "url": "https://jobs.ashbyhq.com/notion/e5d316fa-0857-4e4b-96ca-1f2710a96c95 https://jobs.ashbyhq.com/notion/6ad34426-b980-436b-80c4-3634c00094ad",
+      "date": "2026-05-06",
+      "insight": "Localized technical sales capacity indicates imminent regional AI product launches or deep integrations targeting enterprise buyers in high-growth markets.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Notion AI hiring Enterprise Customer Success Manager, Japan",
+      "url": "https://jobs.ashbyhq.com/notion/8ca01f57-f808-43bc-ae39-cb35fdad1dc5",
+      "date": "2026-05-06",
+      "insight": "Dedicated Japan-based CSMs suggest strategic prioritization of Japanese enterprise accounts—where AI adoption in knowledge work is rapidly accelerating and competition is intensifying.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Notion AI hiring Software Engineer, Datastore & Data Platform",
+      "url": "https://jobs.ashbyhq.com/notion/3fbcf972-52d5-4475-8720-040025c6f7da https://jobs.ashbyhq.com/notion/91156750-4050-4621-aa45-0fb068308d2c",
+      "date": "2026-05-06",
+      "insight": "Dual datastore/data platform engineering hires point to infrastructure investments enabling real-time, low-latency AI inference over Notion's relational graph—core to differentiating from static LLM wrappers.",
+      "importance": "high"
+    }
+  ],
+  "note": "",
+  "date": "2026-05-06",
+  "generated_at": "2026-05-06 23:54 UTC",
+  "total_signals": 24
+}

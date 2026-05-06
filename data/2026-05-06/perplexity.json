@@ -1,0 +1,74 @@
+{
+  "competitor": "Perplexity AI",
+  "summary": "Perplexity AI is executing a major, multi-front engineering expansion—particularly in Search, AI infrastructure, and monetization—indicating aggressive product scaling and commercialization. The simultaneous hiring of an AI Research Lead, AI Security Engineer, and Commercial Counsel signals maturation toward enterprise readiness, regulatory compliance, and R&D leadership. This wave reflects a strategic pivot from pure research/prototype phase to building a scalable, secure, and revenue-generating AI-native search platform.",
+  "signals": [
+    {
+      "type": "hiring",
+      "title": "Hiring Engineering Site Lead for AI Department",
+      "url": "https://jobs.ashbyhq.com/perplexity/638e6823-be7f-46c6-9675-7b1197fc9b8c",
+      "date": "2026-05-06",
+      "insight": "Signals formalization of AI engineering leadership and likely upcoming internal reorganization or expansion of AI product lines beyond core search.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Member of Technical Staff (Software Engineer, Monetization)",
+      "url": "https://jobs.ashbyhq.com/perplexity/043d6a58-87a1-4e3c-bf47-4dc351b94cf4",
+      "date": "2026-05-06",
+      "insight": "Confirms active development of revenue-generating features (e.g., premium tiers, API access, or B2B integrations), marking a critical shift toward sustainable unit economics.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring AI Research Lead and AI Researcher roles",
+      "url": "https://jobs.ashbyhq.com/perplexity/16bc54a6-83ab-4802-8a65-d88fbb7ebe03",
+      "date": "2026-05-06",
+      "insight": "Suggests Perplexity is institutionalizing long-term AI innovation—potentially to differentiate with proprietary models, reasoning architectures, or retrieval-augmented techniques against competitors like Anthropic or Google.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring AI Security Engineer and Cloud Security Engineer",
+      "url": "https://jobs.ashbyhq.com/perplexity/cdbf6ccb-2078-4499-b0a6-af8a04754eee",
+      "date": "2026-05-06",
+      "insight": "Indicates prioritization of trust and compliance ahead of enterprise adoption, directly addressing a key barrier for regulated customers and differentiating from less-secured AI search alternatives.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring multiple Search-focused engineers (Core, Crawler, ML, Rust)",
+      "url": "https://jobs.ashbyhq.com/perplexity/27aa1a14-bc59-4613-a65a-38598695076f",
+      "date": "2026-05-06",
+      "insight": "Reveals deep, sustained investment in vertical integration of search infrastructure—aiming to reduce reliance on third-party indexes and improve latency, freshness, and answer quality versus Bing/Google.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Enterprise Customer Success Manager and APAC Support Associate",
+      "url": "https://jobs.ashbyhq.com/perplexity/9a570310-305d-4f4e-9807-b8862b31194b",
+      "date": "2026-05-06",
+      "insight": "Demonstrates concrete preparation for enterprise sales motion and geographic expansion, implying near-term contract wins or pilot deployments in regulated or high-value markets.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Commercial Counsel",
+      "url": "https://jobs.ashbyhq.com/perplexity/09a2f0e5-c38c-49ee-a5af-9a179e137a44",
+      "date": "2026-05-06",
+      "insight": "Supports complex B2B contracting, data licensing, and IP governance—essential for scaling partnerships, model training data sourcing, and mitigating legal risk in competitive AI search.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring iOS Software Engineer",
+      "url": "https://jobs.ashbyhq.com/perplexity/1dc97d9e-565e-4079-9fba-40fab14a3602",
+      "date": "2026-05-06",
+      "insight": "Highlights mobile-first growth strategy, aiming to capture user engagement outside the browser and compete directly with mobile AI assistants like Apple Intelligence or Gemini.",
+      "importance": "medium"
+    }
+  ],
+  "note": "",
+  "date": "2026-05-06",
+  "generated_at": "2026-05-06 23:53 UTC",
+  "total_signals": 20
+}
