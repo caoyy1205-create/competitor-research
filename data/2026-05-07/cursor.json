@@ -1,0 +1,74 @@
+{
+  "competitor": "Cursor",
+  "summary": "Cursor is executing a broad engineering hiring surge across infrastructure, AI/ML, and product domains, signaling aggressive scaling of its AI coding platform. The addition of specialized roles like Agent Harness, Bugbot, Model Routing & Inference, and AI Deployment Manager reveals a strategic pivot toward autonomous agent architecture, robust inference optimization, and enterprise-grade AI deployment capabilities. This expansion—spanning Engineering, GTM, Sales, and Customer Success—suggests preparation for commercial acceleration and deeper enterprise penetration.",
+  "signals": [
+    {
+      "type": "hiring",
+      "title": "Engineering Manager, Model Routing & Inference",
+      "url": "https://jobs.ashbyhq.com/cursor/e3966cb2-c584-4c8a-9d25-1309af31b3a9",
+      "date": "2026-05-07",
+      "insight": "Signals strategic investment in scalable, low-latency LLM inference infrastructure—critical for differentiating real-time coding assistance against competitors like GitHub Copilot and Tabnine.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Software Engineer, Agent Harness",
+      "url": "https://jobs.ashbyhq.com/cursor/6e6f5bc2-eb32-40e2-bba9-cfa56479600d",
+      "date": "2026-05-07",
+      "insight": "Reveals active development of autonomous agent frameworks—positioning Cursor to move beyond chat-based code completion into goal-driven, multi-step software automation, a key frontier in AI devtools.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Software Engineer, Bugbot",
+      "url": "https://jobs.ashbyhq.com/cursor/88d47f97-0bea-448c-9abb-4720e4acf17a",
+      "date": "2026-05-07",
+      "insight": "Indicates dedicated focus on automated bug detection, triage, and repair—enhancing differentiation in reliability and developer trust versus generalized coding assistants.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "AI Deployment Manager",
+      "url": "https://jobs.ashbyhq.com/cursor/193c326d-2ffc-4c11-8bba-73d243fd178b",
+      "date": "2026-05-07",
+      "insight": "Highlights growing emphasis on enterprise AI operationalization—enabling on-prem/private-cloud deployments and compliance workflows, directly competing with GitHub's Enterprise Copilot rollout.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "GTM Engineer, Growth Programs",
+      "url": "https://jobs.ashbyhq.com/cursor/044a003e-d6cc-43b6-806a-833d9399c3d4",
+      "date": "2026-05-07",
+      "insight": "Suggests integration of engineering rigor into growth loops (e.g., in-product activation, usage-based conversion), enabling data-driven scalability beyond traditional SaaS marketing.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Account Executive, Geo Enterprise",
+      "url": "https://jobs.ashbyhq.com/cursor/61e4677d-cf3d-458a-bf6c-02287d5d2c39",
+      "date": "2026-05-07",
+      "insight": "Confirms targeted expansion into regional enterprise sales—indicating readiness to compete for large contracts against incumbents in regulated or geographically constrained markets.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Research Scientist",
+      "url": "https://jobs.ashbyhq.com/cursor/cd4bad0a-e2f6-4a8d-9b57-ce1780efedae",
+      "date": "2026-05-07",
+      "insight": "Strengthens internal R&D capacity for foundational improvements in code understanding, reasoning, and tool use—essential for maintaining technical leadership amid rapid model advancements.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Field Engineer",
+      "url": "https://jobs.ashbyhq.com/cursor/64a6cb18-493b-4d18-9f22-c661ae533bfa",
+      "date": "2026-05-07",
+      "insight": "Enables hands-on technical support for complex enterprise integrations, reducing time-to-value and strengthening competitive moat against self-serve-only alternatives.",
+      "importance": "medium"
+    }
+  ],
+  "note": "",
+  "date": "2026-05-07",
+  "generated_at": "2026-05-07 23:53 UTC",
+  "total_signals": 20
+}
