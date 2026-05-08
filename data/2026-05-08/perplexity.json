@@ -1,0 +1,74 @@
+{
+  "competitor": "Perplexity AI",
+  "summary": "Perplexity AI is executing a major engineering and commercial scaling push, with concentrated hiring across AI infrastructure, search core development, and monetization functions. The simultaneous expansion in AI research leadership, security, and APAC customer success signals preparation for enterprise growth and product maturity beyond its current consumer/Pro offering.",
+  "signals": [
+    {
+      "type": "hiring",
+      "title": "Hiring Engineering Site Lead for AI Department",
+      "url": "https://jobs.ashbyhq.com/perplexity/638e6823-be7f-46c6-9675-7b1197fc9b8c",
+      "date": "2026-05-08",
+      "insight": "Establishing dedicated AI site leadership indicates organizational scaling to support accelerated R&D, model deployment, and cross-functional AI product integration — a prerequisite for competing with Anthropic and OpenAI on technical execution velocity.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Member of Technical Staff (Software Engineer, Monetization)",
+      "url": "https://jobs.ashbyhq.com/perplexity/043d6a58-87a1-4e3c-bf47-4dc351b94cf4",
+      "date": "2026-05-08",
+      "insight": "First explicit monetization engineering role signals prioritization of revenue infrastructure — likely for upcoming enterprise pricing tiers, usage-based billing, or embedded paywalls, directly threatening Cohere and You.com's freemium positioning.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring AI Research Lead and AI Researcher roles",
+      "url": "https://jobs.ashbyhq.com/perplexity/16bc54a6-83ab-4802-8a65-d88fbb7ebe03",
+      "date": "2026-05-08",
+      "insight": "Adding senior AI research leadership alongside researchers suggests investment in proprietary model development or fine-tuning capabilities — a strategic move to reduce reliance on third-party LLMs and differentiate from Perplexity's current API-driven architecture.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring multiple Search Core Engineers (Rust, Golang, ML, Crawler, Backend)",
+      "url": "https://jobs.ashbyhq.com/perplexity/27aa1a14-bc59-4613-a65a-38598695076f",
+      "date": "2026-05-08",
+      "insight": "Unprecedented breadth and depth of search engineering hires — especially in Rust/Golang and crawler/backend — confirms aggressive vertical integration of search infrastructure, aiming to surpass Bing/Copilot and Google's AI Overviews on latency, freshness, and source fidelity.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Cloud Security and AI Security Engineers",
+      "url": "https://jobs.ashbyhq.com/perplexity/b932d73f-49f3-4367-8fa7-a22f760e55a3",
+      "date": "2026-05-08",
+      "insight": "Dual-track security hiring reflects growing enterprise readiness — addressing compliance (SOC 2, ISO 27001) and AI-specific risks (prompt injection, model theft) required to win regulated customers, differentiating from less secure open-weight competitors.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Forward Deployed Engineer and Customer Success Engineer (APAC)",
+      "url": "https://jobs.ashbyhq.com/perplexity/aa511ea8-96e3-42ba-b28f-5e222170bcee",
+      "date": "2026-05-08",
+      "insight": "Forward-deployed AI engineers paired with APAC-specific success roles indicate targeted enterprise GTM expansion into Asia — a high-growth region where local technical enablement is critical to displacing incumbents like Salesforce Einstein and Microsoft Copilot Studio.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring Enterprise Customer Success Manager",
+      "url": "https://jobs.ashbyhq.com/perplexity/9a570310-305d-4f4e-9807-b8862b31194b",
+      "date": "2026-05-08",
+      "insight": "Dedicated enterprise CSM signals formalization of B2B sales motion and contract management — a necessary step toward recurring revenue and competitive parity with Anthropic's enterprise contracts and Cohere's private cloud deployments.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Hiring AI Infrastructure and AI Inference Engineers",
+      "url": "https://jobs.ashbyhq.com/perplexity/598e1f7d-b802-4de2-99ac-90eb2bc33315",
+      "date": "2026-05-08",
+      "insight": "Investing in low-level AI infrastructure and inference optimization reveals focus on cost-efficient, low-latency model serving — essential for scaling Pro/Enterprise usage while maintaining margins against rivals relying on expensive external APIs.",
+      "importance": "high"
+    }
+  ],
+  "note": "",
+  "date": "2026-05-08",
+  "generated_at": "2026-05-08 23:56 UTC",
+  "total_signals": 20
+}

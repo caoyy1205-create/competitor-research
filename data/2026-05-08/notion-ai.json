@@ -1,0 +1,74 @@
+{
+  "competitor": "Notion AI",
+  "summary": "Notion AI is accelerating enterprise GTM expansion with a surge of sales, customer success, and security hires across AMER, EMEA, and Asia—particularly Japan—while simultaneously enhancing API capabilities for complex filtering and comment management. The addition of an AI Security-focused Application Security Engineer signals growing emphasis on trust and compliance for AI-powered features in regulated environments.",
+  "signals": [
+    {
+      "type": "github",
+      "title": "notion-sdk-js v5.20.0 adds request_status field to list responses",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.20.0",
+      "date": "2026-04-20",
+      "insight": "Enables developers to programmatically monitor AI request lifecycle (e.g., pending, succeeded, failed), improving reliability and observability for AI-integrated workflows—a critical capability for enterprise automation use cases.",
+      "importance": "high"
+    },
+    {
+      "type": "github",
+      "title": "notion-sdk-js v5.18.0 adds multi-value filters for select/status/multi_select properties",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.18.0",
+      "date": "2026-04-13",
+      "insight": "Significantly enhances querying flexibility for AI-powered data analysis and dashboarding, allowing more precise targeting of database entries—key for building intelligent, context-aware Notion AI agents.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Application Security Engineer, AI Security",
+      "url": "https://jobs.ashbyhq.com/notion/e3944777-d4a8-41d2-88ab-32daef949d4e",
+      "date": "2026-05-08",
+      "insight": "First publicly advertised role explicitly focused on AI security signals proactive investment in securing AI models, prompts, and outputs—addressing a top concern for enterprise buyers evaluating Notion AI against competitors like Microsoft Copilot or Coda.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Enterprise Sales Leader",
+      "url": "https://jobs.ashbyhq.com/notion/7f02bc74-65e8-4b62-a2dc-aee2fa8a3894",
+      "date": "2026-05-08",
+      "insight": "Indicates formalization of a dedicated enterprise sales motion, suggesting Notion AI is shifting from self-serve/PLG to high-touch, contract-driven revenue—directly competing with Atlassian and ClickUp for large-scale deployments.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Solutions Engineer, Tokyo & Solutions Consultant",
+      "url": "https://jobs.ashbyhq.com/notion/e5d316fa-0857-4e4b-96ca-1f2710a96c95",
+      "date": "2026-05-08",
+      "insight": "Dual Tokyo-based technical sales roles confirm aggressive localization and enterprise readiness in Japan—a high-value, AI-adopting market where Notion faces intense competition from domestic players and global incumbents.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Enterprise Customer Success Manager, Japan",
+      "url": "https://jobs.ashbyhq.com/notion/8ca01f57-f808-43bc-ae39-cb35fdad1dc5",
+      "date": "2026-05-08",
+      "insight": "Signals commitment to post-sale retention and expansion in Japan, implying Notion AI is moving beyond early adopters to mature enterprise accounts requiring dedicated support and ROI measurement.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Enterprise Product Marketing, GTM",
+      "url": "https://jobs.ashbyhq.com/notion/5f986e92-f668-4c9b-8b13-3de9cfe737e2",
+      "date": "2026-05-08",
+      "insight": "Marks strategic shift toward messaging AI capabilities for enterprise buyers (e.g., security, scalability, integration)—a necessary counter to positioning by competitors emphasizing governance and compliance.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Software Engineer, Datastore & Data Platform",
+      "url": "https://jobs.ashbyhq.com/notion/3fbcf972-52d5-4475-8720-040025c6f7da",
+      "date": "2026-05-08",
+      "insight": "Back-end infrastructure hiring suggests scaling of AI's underlying data layer—critical for low-latency, high-volume AI operations like real-time document synthesis and cross-workspace reasoning.",
+      "importance": "medium"
+    }
+  ],
+  "note": "",
+  "date": "2026-05-08",
+  "generated_at": "2026-05-08 23:57 UTC",
+  "total_signals": 23
+}
