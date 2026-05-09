@@ -1,0 +1,74 @@
+{
+  "competitor": "Cursor",
+  "summary": "Cursor is executing a broad, multi-front engineering hiring surge across infrastructure, AI/ML, security, and product domains, signaling aggressive scaling of its technical foundation and enterprise readiness. The addition of specialized roles like Agent Harness, Bugbot, Model Routing & Inference, and AI Deployment Manager reveals a strategic pivot toward autonomous agent architecture, robust on-prem/cloud deployment capabilities, and deep integration with enterprise DevOps workflows. Concurrent GTM and sales hires (GTM Engineer, Account Executive, Field Engineer) confirm accelerated commercialization targeting large organizations.",
+  "signals": [
+    {
+      "type": "hiring",
+      "title": "Engineering Manager, Model Routing & Inference",
+      "url": "https://jobs.ashbyhq.com/cursor/e3966cb2-c584-4c8a-9d25-1309af31b3a9",
+      "date": "2026-05-09",
+      "insight": "Signals prioritization of scalable, low-latency LLM inference infrastructure—critical for real-time IDE assistance and competitive differentiation against GitHub Copilot and Tabnine in latency-sensitive coding workflows.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Software Engineer, Agent Harness",
+      "url": "https://jobs.ashbyhq.com/cursor/6e6f5bc2-eb32-40e2-bba9-cfa56479600d",
+      "date": "2026-05-09",
+      "insight": "Indicates active development of autonomous coding agents that orchestrate tools, APIs, and environments—positioning Cursor to move beyond chat-based assistance toward self-executing developer workflows, a key frontier against Replit, Windsurf, and Cognition's Devin.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "AI Deployment Manager",
+      "url": "https://jobs.ashbyhq.com/cursor/193c326d-2ffc-4c11-8bba-73d243fd178b",
+      "date": "2026-05-09",
+      "insight": "Reveals focus on enterprise-grade, secure, and customizable AI model deployment—addressing a critical gap for regulated industries and directly competing with GitHub's Enterprise Copilot rollout and Amazon CodeWhisperer's private model options.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Software Engineer, Bugbot",
+      "url": "https://jobs.ashbyhq.com/cursor/88d47f97-0bea-448c-9abb-4720e4acf17a",
+      "date": "2026-05-09",
+      "insight": "Suggests dedicated investment in automated bug detection, reproduction, and patching—enhancing reliability and developer trust while differentiating from competitors focused solely on code generation rather than full-cycle code health.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Software Engineer, Storage",
+      "url": "https://jobs.ashbyhq.com/cursor/515926c1-f044-4aff-9d5f-0bb84cb7eca2",
+      "date": "2026-05-09",
+      "insight": "Highlights infrastructure investment in high-performance, version-aware code storage—essential for context-rich, cross-repo, and long-horizon reasoning, supporting advanced features like workspace-wide refactoring and historical code understanding.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "GTM Engineer, Growth Programs",
+      "url": "https://jobs.ashbyhq.com/cursor/044a003e-d6cc-43b6-806a-833d9399c3d4",
+      "date": "2026-05-09",
+      "insight": "Demonstrates maturation of growth operations with engineering-led experimentation (e.g., in-product onboarding, usage-triggered feature activation), enabling data-driven expansion beyond organic developer adoption into structured sales motion.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Account Executive, Geo Enterprise",
+      "url": "https://jobs.ashbyhq.com/cursor/61e4677d-cf3d-458a-bf6c-02287d5d2c39",
+      "date": "2026-05-09",
+      "insight": "Confirms formalized enterprise sales motion targeting geographic-specific large accounts—escalating competitive pressure on GitHub Copilot Enterprise and Amazon CodeWhisperer in regulated sectors like finance and government.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Research Scientist",
+      "url": "https://jobs.ashbyhq.com/cursor/cd4bad0a-e2f6-4a8d-9b57-ce1780efedae",
+      "date": "2026-05-09",
+      "insight": "Signals continued investment in foundational AI research—likely focused on code-specific alignment, reasoning, and evaluation—bolstering long-term defensibility against open-weight models and academic spin-offs.",
+      "importance": "medium"
+    }
+  ],
+  "note": "",
+  "date": "2026-05-09",
+  "generated_at": "2026-05-09 23:51 UTC",
+  "total_signals": 20
+}
