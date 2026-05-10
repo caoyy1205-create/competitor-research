@@ -1,0 +1,74 @@
+{
+  "competitor": "Notion AI",
+  "summary": "Notion AI is aggressively expanding its global go-to-market (GTM) and enterprise sales capabilities, with targeted hiring across EMEA, Asia (especially Japan), and AMER. Simultaneously, it is strengthening AI-specific security infrastructure and core data platform engineering—indicating parallel investments in enterprise trust, scalability, and AI product depth.",
+  "signals": [
+    {
+      "type": "hiring",
+      "title": "Outbound Business Development Representative (x2)",
+      "url": "https://jobs.ashbyhq.com/notion/05e14247-17c4-4e98-9a13-53828a4e2f13",
+      "date": "2026-05-10",
+      "insight": "Dual BDR roles signal intensified outbound motion to acquire new logos, especially in competitive collaboration/AI workspace markets.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Solutions Engineer, EMEA and Tokyo",
+      "url": "https://jobs.ashbyhq.com/notion/6ad34426-b980-436b-80c4-3634c00094ad",
+      "date": "2026-05-10",
+      "insight": "Dedicated regional solutions engineering capacity implies Notion AI is preparing for complex, high-touch enterprise deals in key international markets where technical credibility is critical.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Application Security Engineer, AI Security",
+      "url": "https://jobs.ashbyhq.com/notion/e3944777-d4a8-41d2-88ab-32daef949d4e",
+      "date": "2026-05-10",
+      "insight": "First dedicated AI Security role signals proactive investment in securing AI models, prompts, and outputs—addressing a top enterprise concern and differentiating against less secure competitors.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Sales Manager, Asia and Enterprise Sales Leader",
+      "url": "https://jobs.ashbyhq.com/notion/92601e94-66c8-46ef-b949-da1547a5caa8",
+      "date": "2026-05-10",
+      "insight": "Senior leadership hires for Asia and enterprise sales confirm strategic prioritization of high-growth, high-ACV markets—directly challenging incumbents like Microsoft (Loop, Copilot) and emerging AI-native platforms in APAC.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Enterprise Customer Success Manager, Japan",
+      "url": "https://jobs.ashbyhq.com/notion/8ca01f57-f808-43bc-ae39-cb35fdad1dc5",
+      "date": "2026-05-10",
+      "insight": "Localized CSM hiring in Japan reflects commitment to post-sale retention and expansion in a culturally demanding, relationship-driven market—critical for long-term enterprise adoption.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Software Engineer, Datastore and Data Platform",
+      "url": "https://jobs.ashbyhq.com/notion/3fbcf972-52d5-4475-8720-040025c6f7da",
+      "date": "2026-05-10",
+      "insight": "Concurrent hiring for datastore and data platform engineers suggests foundational work to improve AI model training data pipelines, real-time sync, and scalability—enabling more reliable and context-aware AI features.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Enterprise Product Marketing, GTM",
+      "url": "https://jobs.ashbyhq.com/notion/5f986e92-f668-4c9b-8b13-3de9cfe737e2",
+      "date": "2026-05-10",
+      "insight": "Dedicated enterprise PMM signals maturation of Notion AI's positioning beyond individual users toward ROI-driven narratives for IT, security, and procurement stakeholders.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Forward Deployed Engineer, GTM",
+      "url": "https://jobs.ashbyhq.com/notion/10437426-14c8-4c45-8075-67959ce80393",
+      "date": "2026-05-10",
+      "insight": "FDE role indicates growing need for on-site or embedded technical support during enterprise sales cycles—highlighting increasing deal complexity and competition with deeply integrated rivals like Coda and ClickUp AI.",
+      "importance": "medium"
+    }
+  ],
+  "note": "",
+  "date": "2026-05-10",
+  "generated_at": "2026-05-10 23:54 UTC",
+  "total_signals": 20
+}

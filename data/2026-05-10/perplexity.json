@@ -1,0 +1,74 @@
+{
+  "competitor": "Perplexity AI",
+  "summary": "Perplexity AI is executing a major engineering hiring surge across AI, Search, Security, and Monetization functions, signaling aggressive product expansion and infrastructure scaling. The simultaneous focus on AI research leadership, search core development (including Rust/Golang), and monetization engineering suggests imminent commercialization of advanced capabilities and deeper enterprise integration. This hiring wave—particularly the Engineering Site Lead and AI Research Lead roles—indicates organizational maturation and preparation for rapid growth beyond its current consumer/developer base.",
+  "signals": [
+    {
+      "type": "hiring",
+      "title": "Engineering Site Lead hire in AI department",
+      "url": "https://jobs.ashbyhq.com/perplexity/638e6823-be7f-46c6-9675-7b1197fc9b8c",
+      "date": "2026-05-10",
+      "insight": "Signals formalization of AI engineering leadership and likely upcoming expansion of AI R&D scope, including potential new model architectures or vertical-specific AI agents.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "AI Research Lead and AI Researcher roles opened",
+      "url": "https://jobs.ashbyhq.com/perplexity/16bc54a6-83ab-4802-8a65-d88fbb7ebe03",
+      "date": "2026-05-10",
+      "insight": "Indicates strategic investment in foundational AI research—potentially targeting proprietary model improvements, reasoning enhancements, or multimodal capabilities to differentiate from LLM API-dependent competitors.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Monetization-focused Software Engineer role",
+      "url": "https://jobs.ashbyhq.com/perplexity/043d6a58-87a1-4e3c-bf47-4dc351b94cf4",
+      "date": "2026-05-10",
+      "insight": "Confirms accelerated commercialization efforts, likely supporting upcoming paid tiers, API monetization, or enterprise billing infrastructure—directly threatening revenue models of rivals like You.com and Phind.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "Dedicated Search Core engineering roles (Rust, Golang, Crawler, Engine Developer)",
+      "url": "https://jobs.ashbyhq.com/perplexity/a19f1774-5944-4981-b446-e3e40d0dd281",
+      "date": "2026-05-10",
+      "insight": "Reveals deep vertical integration ambition—building proprietary, high-performance search infrastructure to reduce reliance on third-party indexes and enable real-time, citation-rich answer generation as a defensible moat.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "AI Security Engineer and Cloud Security Engineer roles",
+      "url": "https://jobs.ashbyhq.com/perplexity/cdbf6ccb-2078-4499-b0a6-af8a04754eee",
+      "date": "2026-05-10",
+      "insight": "Suggests proactive hardening for enterprise adoption, especially around prompt injection, model supply chain, and data isolation—critical for winning regulated-sector contracts against incumbents like Coveo or Elastic.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Forward Deployed Engineer and Customer Success Engineer (APAC)",
+      "url": "https://jobs.ashbyhq.com/perplexity/aa511ea8-96e3-42ba-b28f-5e222170bcee",
+      "date": "2026-05-10",
+      "insight": "Demonstrates targeted geographic expansion and enterprise readiness, enabling hands-on implementation support for APAC-based clients—a key differentiator versus US-centric AI search competitors.",
+      "importance": "medium"
+    },
+    {
+      "type": "hiring",
+      "title": "Enterprise Customer Success Manager role",
+      "url": "https://jobs.ashbyhq.com/perplexity/9a570310-305d-4f4e-9807-b8862b31194b",
+      "date": "2026-05-10",
+      "insight": "Confirms prioritization of B2B revenue streams and signals imminent launch or scaling of Perplexity Enterprise, directly competing with Microsoft Copilot Studio and Anthropic's enterprise offerings.",
+      "importance": "high"
+    },
+    {
+      "type": "hiring",
+      "title": "AI Infrastructure and AI Inference Engineer roles",
+      "url": "https://jobs.ashbyhq.com/perplexity/598e1f7d-b802-4de2-99ac-90eb2bc33315",
+      "date": "2026-05-10",
+      "insight": "Highlights focus on cost-efficient, low-latency inference—essential for scaling Pro subscriptions and real-time applications, and a prerequisite for competitive pricing against AWS Bedrock or Azure AI.",
+      "importance": "medium"
+    }
+  ],
+  "note": "",
+  "date": "2026-05-10",
+  "generated_at": "2026-05-10 23:53 UTC",
+  "total_signals": 20
+}
