@@ -1,0 +1,18 @@
+{
+  "competitor": "Cursor",
+  "summary": "1 signals collected for Cursor this period.",
+  "signals": [
+    {
+      "type": "pricing",
+      "title": "Cursor — pricing page changed",
+      "url": "https://cursor.com/pricing",
+      "date": "2026-05-29",
+      "insight": "Pricing page changed significantly (~6% different from last snapshot).",
+      "importance": "medium"
+    }
+  ],
+  "note": "LLM synthesis unavailable — showing raw signals.",
+  "date": "2026-05-29",
+  "generated_at": "2026-05-29 00:11 UTC",
+  "total_signals": 1
+}

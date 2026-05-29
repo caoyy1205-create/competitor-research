@@ -1,0 +1,26 @@
+{
+  "competitor": "Notion AI",
+  "summary": "2 signals collected for Notion AI this period.",
+  "signals": [
+    {
+      "type": "github",
+      "title": "Notion AI — notion-sdk-js v5.22.0",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.22.0",
+      "date": "2026-05-19",
+      "insight": "## What's Changed\r\n\r\n* **Add `position` field to `insert_content` params for update page markdown endpoint** in https://github.com/makenotion/notion-s",
+      "importance": "medium"
+    },
+    {
+      "type": "github",
+      "title": "Notion AI — notion-sdk-js v5.21.0",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.21.0",
+      "date": "2026-05-11",
+      "insight": "## What's Changed\r\n\r\n* **chore: sync generated api endpoints modules** by @haustle in https://github.com/makenotion/notion-sdk-js/pull/714\r\n* **feat: ",
+      "importance": "medium"
+    }
+  ],
+  "note": "LLM synthesis unavailable — showing raw signals.",
+  "date": "2026-05-29",
+  "generated_at": "2026-05-29 00:11 UTC",
+  "total_signals": 2
+}
