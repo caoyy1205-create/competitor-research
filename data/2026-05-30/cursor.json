@@ -1,0 +1,74 @@
+{
+  "competitor": "Cursor",
+  "summary": "20 signals collected for Cursor this period.",
+  "signals": [
+    {
+      "type": "jobs",
+      "title": "Cursor hiring: Software Engineer, Growth ",
+      "url": "https://jobs.ashbyhq.com/cursor/0ec39ed7-a5dc-4551-bb26-b7f4f9fb4a74",
+      "date": "2026-05-30",
+      "insight": "Department: Engineering",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Cursor hiring: Software Engineer, Services Platform",
+      "url": "https://jobs.ashbyhq.com/cursor/0863d184-1b2f-42cd-9fca-37fa90efe2eb",
+      "date": "2026-05-30",
+      "insight": "Department: Engineering",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Cursor hiring: Software Engineer, Infrastructure",
+      "url": "https://jobs.ashbyhq.com/cursor/6d576a09-f30d-4e5e-bb58-5d7ef56cb511",
+      "date": "2026-05-30",
+      "insight": "Department: Engineering",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Cursor hiring: Software Engineer, Storage",
+      "url": "https://jobs.ashbyhq.com/cursor/515926c1-f044-4aff-9d5f-0bb84cb7eca2",
+      "date": "2026-05-30",
+      "insight": "Department: Engineering",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Cursor hiring: Software Engineer, Core Services",
+      "url": "https://jobs.ashbyhq.com/cursor/77bf35db-119c-4533-8187-1e8d5ae08c45",
+      "date": "2026-05-30",
+      "insight": "Department: Engineering",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Cursor hiring: GTM Engineer, Growth Programs",
+      "url": "https://jobs.ashbyhq.com/cursor/044a003e-d6cc-43b6-806a-833d9399c3d4",
+      "date": "2026-05-30",
+      "insight": "Department: Marketing",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Cursor hiring: Software Engineer, Client Infrastructure",
+      "url": "https://jobs.ashbyhq.com/cursor/e08262e8-c089-488d-9b59-9e21f7702b64",
+      "date": "2026-05-30",
+      "insight": "Department: Engineering",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Cursor hiring: Software Engineer, Generalist",
+      "url": "https://jobs.ashbyhq.com/cursor/36e69353-0452-4bf6-9f35-b1e7307959a7",
+      "date": "2026-05-30",
+      "insight": "Department: Engineering",
+      "importance": "medium"
+    }
+  ],
+  "note": "LLM synthesis unavailable — showing raw signals.",
+  "date": "2026-05-30",
+  "generated_at": "2026-05-30 00:09 UTC",
+  "total_signals": 20
+}
