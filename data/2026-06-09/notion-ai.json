@@ -1,0 +1,74 @@
+{
+  "competitor": "Notion AI",
+  "summary": "22 signals collected for Notion AI this period.",
+  "signals": [
+    {
+      "type": "github",
+      "title": "Notion AI — notion-sdk-js v5.22.0",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.22.0",
+      "date": "2026-05-19",
+      "insight": "## What's Changed\r\n\r\n* **Add `position` field to `insert_content` params for update page markdown endpoint** in https://github.com/makenotion/notion-s",
+      "importance": "medium"
+    },
+    {
+      "type": "github",
+      "title": "Notion AI — notion-sdk-js v5.21.0",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.21.0",
+      "date": "2026-05-11",
+      "insight": "## What's Changed\r\n\r\n* **chore: sync generated api endpoints modules** by @haustle in https://github.com/makenotion/notion-sdk-js/pull/714\r\n* **feat: ",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Notion AI hiring: Outbound Business Development Representative ",
+      "url": "https://jobs.ashbyhq.com/notion/05e14247-17c4-4e98-9a13-53828a4e2f13",
+      "date": "2026-06-09",
+      "insight": "Department: Sales",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Notion AI hiring: Solutions Engineer, EMEA",
+      "url": "https://jobs.ashbyhq.com/notion/6ad34426-b980-436b-80c4-3634c00094ad",
+      "date": "2026-06-09",
+      "insight": "Department: Sales",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Notion AI hiring: Application Security Engineer, AI Security",
+      "url": "https://jobs.ashbyhq.com/notion/e3944777-d4a8-41d2-88ab-32daef949d4e",
+      "date": "2026-06-09",
+      "insight": "Department: Security",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Notion AI hiring: Outbound Business Development Representative ",
+      "url": "https://jobs.ashbyhq.com/notion/b21fef72-4864-4a3e-a627-91557a0f8a36",
+      "date": "2026-06-09",
+      "insight": "Department: Sales",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Notion AI hiring: Product Designer",
+      "url": "https://jobs.ashbyhq.com/notion/d177d052-ef57-4900-acf2-d58e9eded620",
+      "date": "2026-06-09",
+      "insight": "Department: Product Design",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Notion AI hiring: Enterprise Customer Success Manager, AMER",
+      "url": "https://jobs.ashbyhq.com/notion/1ecf717b-264d-4557-ab7d-d00cd670d33d",
+      "date": "2026-06-09",
+      "insight": "Department: Customer Success",
+      "importance": "medium"
+    }
+  ],
+  "note": "LLM synthesis unavailable — showing raw signals.",
+  "date": "2026-06-09",
+  "generated_at": "2026-06-09 00:05 UTC",
+  "total_signals": 22
+}
