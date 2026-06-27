@@ -1,0 +1,74 @@
+{
+  "competitor": "Perplexity AI",
+  "summary": "20 signals collected for Perplexity AI this period.",
+  "signals": [
+    {
+      "type": "jobs",
+      "title": "Perplexity AI hiring: Member of Technical Staff (Machine Learning Engineer, Search)",
+      "url": "https://jobs.ashbyhq.com/perplexity/0190699f-010b-44f2-8399-278899fef018",
+      "date": "2026-06-27",
+      "insight": "Department: Search",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Perplexity AI hiring: Member of Technical Staff (Software Engineer, Monetization)",
+      "url": "https://jobs.ashbyhq.com/perplexity/043d6a58-87a1-4e3c-bf47-4dc351b94cf4",
+      "date": "2026-06-27",
+      "insight": "Department: AI Products",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Perplexity AI hiring: Member of Technical Staff (Software Engineer, Cloud Infrastructure)",
+      "url": "https://jobs.ashbyhq.com/perplexity/0d722589-0f8c-4500-ae79-d3bba5c8a0ea",
+      "date": "2026-06-27",
+      "insight": "Department: Platform & Infrastructure",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Perplexity AI hiring: Enterprise Customer Support Specialist",
+      "url": "https://jobs.ashbyhq.com/perplexity/111dfa6f-e6f3-45b6-9de4-69e4a28e3f12",
+      "date": "2026-06-27",
+      "insight": "Department: Customer Success & Support",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Perplexity AI hiring: Sr. Technical Sourcer",
+      "url": "https://jobs.ashbyhq.com/perplexity/1523826c-80ca-4e32-95f2-ddd6604afd26",
+      "date": "2026-06-27",
+      "insight": "Department: People",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Perplexity AI hiring: Engineering Site Lead",
+      "url": "https://jobs.ashbyhq.com/perplexity/1545ffba-b0c9-4b4f-b493-795388e5d69b",
+      "date": "2026-06-27",
+      "insight": "Department: AI Research & Systems",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Perplexity AI hiring: Senior IT Systems Administrator ",
+      "url": "https://jobs.ashbyhq.com/perplexity/18509f15-ab49-450d-8a01-4b280e464ad0",
+      "date": "2026-06-27",
+      "insight": "Department: IT",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Perplexity AI hiring: Workplace Operations Specialist",
+      "url": "https://jobs.ashbyhq.com/perplexity/209036d1-278a-4a2f-a912-3c68a7881e6a",
+      "date": "2026-06-27",
+      "insight": "Department: Workplace",
+      "importance": "medium"
+    }
+  ],
+  "note": "LLM synthesis unavailable — showing raw signals.",
+  "date": "2026-06-27",
+  "generated_at": "2026-06-27 00:06 UTC",
+  "total_signals": 20
+}
