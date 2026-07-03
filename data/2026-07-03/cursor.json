@@ -1,0 +1,74 @@
+{
+  "competitor": "Cursor",
+  "summary": "20 signals collected for Cursor this period.",
+  "signals": [
+    {
+      "type": "jobs",
+      "title": "Cursor hiring: Billing Support Manager",
+      "url": "https://jobs.ashbyhq.com/cursor/00e98809-a4ec-4f32-91db-0e63ef5778b0",
+      "date": "2026-07-03",
+      "insight": "Department: User Ops",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Cursor hiring: Software Engineer, Developer Productivity",
+      "url": "https://jobs.ashbyhq.com/cursor/010063bd-6083-4fc0-a455-e6f0193b5347",
+      "date": "2026-07-03",
+      "insight": "Department: Engineering",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Cursor hiring: Executive Assistant, User Operations",
+      "url": "https://jobs.ashbyhq.com/cursor/0291653e-c192-4c87-b77e-5d1876748923",
+      "date": "2026-07-03",
+      "insight": "Department: Operations",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Cursor hiring: Regional Director, Field Engineering - Verticals",
+      "url": "https://jobs.ashbyhq.com/cursor/040ac0f8-dba7-4d13-8171-b902e925f334",
+      "date": "2026-07-03",
+      "insight": "Department: Solutions",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Cursor hiring: Marketing Program Manager",
+      "url": "https://jobs.ashbyhq.com/cursor/064db0d3-3085-4fa4-8ba6-9c111a2bd329",
+      "date": "2026-07-03",
+      "insight": "Department: Marketing",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Cursor hiring: Forward Deployed Engineer - EMEA",
+      "url": "https://jobs.ashbyhq.com/cursor/0a82f564-de1b-4c72-9ba4-10cf2b63c483",
+      "date": "2026-07-03",
+      "insight": "Department: Customer Success",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Cursor hiring: Software Engineer, ML Research ",
+      "url": "https://jobs.ashbyhq.com/cursor/0aa0650b-f93c-416e-9e2f-4fdf1556fd14",
+      "date": "2026-07-03",
+      "insight": "Department: Engineering",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Cursor hiring: Technical Support Engineering Manager, Singapore, Australia ",
+      "url": "https://jobs.ashbyhq.com/cursor/0cf937d6-ed98-42fa-a737-bb3f9f9b8aed",
+      "date": "2026-07-03",
+      "insight": "Department: User Ops",
+      "importance": "medium"
+    }
+  ],
+  "note": "LLM synthesis unavailable — showing raw signals.",
+  "date": "2026-07-03",
+  "generated_at": "2026-07-03 00:04 UTC",
+  "total_signals": 20
+}
