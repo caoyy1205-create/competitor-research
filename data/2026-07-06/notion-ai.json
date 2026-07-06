@@ -1,0 +1,74 @@
+{
+  "competitor": "Notion AI",
+  "summary": "21 signals collected for Notion AI this period.",
+  "signals": [
+    {
+      "type": "github",
+      "title": "Notion AI — new repo: vercel-ship-2026-workers",
+      "url": "https://github.com/makenotion/vercel-ship-2026-workers",
+      "date": "2026-06-18",
+      "insight": "",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Notion AI hiring: A/NZ Country Marketing Specialist (Contractor)",
+      "url": "https://jobs.ashbyhq.com/notion/03143d98-a561-44c6-96a5-fc9bfaf8d18d",
+      "date": "2026-07-06",
+      "insight": "Department: Marketing",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Notion AI hiring: Outbound Business Development Representative, AMER",
+      "url": "https://jobs.ashbyhq.com/notion/05e14247-17c4-4e98-9a13-53828a4e2f13",
+      "date": "2026-07-06",
+      "insight": "Department: Early Career",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Notion AI hiring: Enterprise Account Executive",
+      "url": "https://jobs.ashbyhq.com/notion/06c66703-c3e8-4bf2-96c1-5bd7d70676d4",
+      "date": "2026-07-06",
+      "insight": "Department: Sales",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Notion AI hiring: Security Engineer, Detection and Response",
+      "url": "https://jobs.ashbyhq.com/notion/06e1d3a8-2706-4ed9-9fe6-8b69607de18e",
+      "date": "2026-07-06",
+      "insight": "Department: Security",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Notion AI hiring: Finance Business Partner, GTM",
+      "url": "https://jobs.ashbyhq.com/notion/07021c98-7b93-4748-ae7c-b83b3daa7ecd",
+      "date": "2026-07-06",
+      "insight": "Department: Finance",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Notion AI hiring: Head of Early Career Recruiting",
+      "url": "https://jobs.ashbyhq.com/notion/076371b1-e9b0-4ad7-b67b-ae9e4572f65a",
+      "date": "2026-07-06",
+      "insight": "Department: People",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Notion AI hiring: Account Executive, Mid-Market, CEE",
+      "url": "https://jobs.ashbyhq.com/notion/0b05e487-b468-44b1-a1da-affc2844656b",
+      "date": "2026-07-06",
+      "insight": "Department: Sales",
+      "importance": "medium"
+    }
+  ],
+  "note": "LLM synthesis unavailable — showing raw signals.",
+  "date": "2026-07-06",
+  "generated_at": "2026-07-06 00:04 UTC",
+  "total_signals": 21
+}
