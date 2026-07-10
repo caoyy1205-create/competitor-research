@@ -1,0 +1,74 @@
+{
+  "competitor": "Perplexity AI",
+  "summary": "20 signals collected for Perplexity AI this period.",
+  "signals": [
+    {
+      "type": "jobs",
+      "title": "Perplexity AI hiring: Member of Technical Staff (Software Engineer, Monetization)",
+      "url": "https://jobs.ashbyhq.com/perplexity/043d6a58-87a1-4e3c-bf47-4dc351b94cf4",
+      "date": "2026-07-10",
+      "insight": "Department: AI Products",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Perplexity AI hiring: Customer Success & Enterprise Support Lead, APAC ",
+      "url": "https://jobs.ashbyhq.com/perplexity/ab448b33-0a0e-4acf-8b86-df61f38716ac",
+      "date": "2026-07-10",
+      "insight": "Department: Customer Success & Support",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Perplexity AI hiring: Member of Technical Staff (AI Inference Engineer)",
+      "url": "https://jobs.ashbyhq.com/perplexity/8a976851-9bef-4b07-8d36-567fa9540aef",
+      "date": "2026-07-10",
+      "insight": "Department: AI Research & Systems",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Perplexity AI hiring: Member of Technical Staff (AI Infrastructure Engineer)",
+      "url": "https://jobs.ashbyhq.com/perplexity/598e1f7d-b802-4de2-99ac-90eb2bc33315",
+      "date": "2026-07-10",
+      "insight": "Department: AI Research & Systems",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Perplexity AI hiring: Member of Technical Staff (Forward Deployed Engineer, Applied AI)",
+      "url": "https://jobs.ashbyhq.com/perplexity/aa511ea8-96e3-42ba-b28f-5e222170bcee",
+      "date": "2026-07-10",
+      "insight": "Department: AI Research & Systems",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Perplexity AI hiring: Member of Technical Staff (Backend/Infrastructure Engineer, Search)",
+      "url": "https://jobs.ashbyhq.com/perplexity/dd80ab52-34bd-42af-aa5e-6283b7e6c194",
+      "date": "2026-07-10",
+      "insight": "Department: Search",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Perplexity AI hiring: Member of Technical Staff (Machine Learning Engineer, Search)",
+      "url": "https://jobs.ashbyhq.com/perplexity/0190699f-010b-44f2-8399-278899fef018",
+      "date": "2026-07-10",
+      "insight": "Department: Search",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Perplexity AI hiring: Member of Technical Staff (Search Engine Developer, Search Core)",
+      "url": "https://jobs.ashbyhq.com/perplexity/27aa1a14-bc59-4613-a65a-38598695076f",
+      "date": "2026-07-10",
+      "insight": "Department: Search",
+      "importance": "medium"
+    }
+  ],
+  "note": "LLM synthesis unavailable — showing raw signals.",
+  "date": "2026-07-10",
+  "generated_at": "2026-07-10 00:04 UTC",
+  "total_signals": 20
+}
