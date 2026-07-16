@@ -1,0 +1,74 @@
+{
+  "competitor": "Cursor",
+  "summary": "20 signals collected for Cursor this period.",
+  "signals": [
+    {
+      "type": "jobs",
+      "title": "Cursor hiring: Software Engineer, Growth ",
+      "url": "https://jobs.ashbyhq.com/cursor/0ec39ed7-a5dc-4551-bb26-b7f4f9fb4a74",
+      "date": "2026-07-16",
+      "insight": "Department: Engineering",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Cursor hiring: Software Engineer, Infrastructure",
+      "url": "https://jobs.ashbyhq.com/cursor/6d576a09-f30d-4e5e-bb58-5d7ef56cb511",
+      "date": "2026-07-16",
+      "insight": "Department: Engineering",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Cursor hiring: Software Engineer, Core Services",
+      "url": "https://jobs.ashbyhq.com/cursor/77bf35db-119c-4533-8187-1e8d5ae08c45",
+      "date": "2026-07-16",
+      "insight": "Department: Engineering",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Cursor hiring: Software Engineer, Client Infrastructure",
+      "url": "https://jobs.ashbyhq.com/cursor/e08262e8-c089-488d-9b59-9e21f7702b64",
+      "date": "2026-07-16",
+      "insight": "Department: Engineering",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Cursor hiring: Software Engineer, Generalist",
+      "url": "https://jobs.ashbyhq.com/cursor/36e69353-0452-4bf6-9f35-b1e7307959a7",
+      "date": "2026-07-16",
+      "insight": "Department: Engineering",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Cursor hiring: Software Engineer, Enterprise ",
+      "url": "https://jobs.ashbyhq.com/cursor/54a9cfcd-570a-4e9c-b52c-bd2336c60991",
+      "date": "2026-07-16",
+      "insight": "Department: Engineering",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Cursor hiring: Software Engineer, ML Research ",
+      "url": "https://jobs.ashbyhq.com/cursor/0aa0650b-f93c-416e-9e2f-4fdf1556fd14",
+      "date": "2026-07-16",
+      "insight": "Department: Engineering",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Cursor hiring: Software Engineer, Product ",
+      "url": "https://jobs.ashbyhq.com/cursor/3551cdaa-cf08-4c04-adbe-a968185bc769",
+      "date": "2026-07-16",
+      "insight": "Department: Engineering",
+      "importance": "medium"
+    }
+  ],
+  "note": "LLM synthesis unavailable — showing raw signals.",
+  "date": "2026-07-16",
+  "generated_at": "2026-07-16 23:58 UTC",
+  "total_signals": 20
+}
