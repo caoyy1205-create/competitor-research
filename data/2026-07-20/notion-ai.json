@@ -1,0 +1,74 @@
+{
+  "competitor": "Notion AI",
+  "summary": "23 signals collected for Notion AI this period.",
+  "signals": [
+    {
+      "type": "github",
+      "title": "Notion AI — notion-sdk-js v5.23.2",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.23.2",
+      "date": "2026-07-15",
+      "insight": "## What's Changed\n\n### New capabilities\n\n* **`filter.in_trash` on search** (#748)\n  - [`client.search()`](https://developers.notion.com/reference/post",
+      "importance": "medium"
+    },
+    {
+      "type": "github",
+      "title": "Notion AI — notion-sdk-js v5.23.1",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.23.1",
+      "date": "2026-07-15",
+      "insight": "## What's Changed\n\n### Type & bug fixes\n\n* **Rich text annotation types are now exported** (#740)\n  - Adds `ApiColor`, `RichTextItemResponseCommon`, a",
+      "importance": "medium"
+    },
+    {
+      "type": "github",
+      "title": "Notion AI — notion-sdk-js v5.23.0",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.23.0",
+      "date": "2026-07-08",
+      "insight": "## What's Changed\r\n\r\n### New capabilities\r\n\r\n* **Webhook signature verification helpers** (#722)\r\n  - Adds `verifyWebhookSignature()` (and `signWebhoo",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Notion AI hiring: Outbound Business Development Representative, AMER",
+      "url": "https://jobs.ashbyhq.com/notion/05e14247-17c4-4e98-9a13-53828a4e2f13",
+      "date": "2026-07-20",
+      "insight": "Department: Early Career",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Notion AI hiring: Solutions Engineer, EMEA",
+      "url": "https://jobs.ashbyhq.com/notion/6ad34426-b980-436b-80c4-3634c00094ad",
+      "date": "2026-07-20",
+      "insight": "Department: Sales",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Notion AI hiring: Outbound Business Development Representative, AMER ",
+      "url": "https://jobs.ashbyhq.com/notion/b21fef72-4864-4a3e-a627-91557a0f8a36",
+      "date": "2026-07-20",
+      "insight": "Department: Early Career",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Notion AI hiring: Product Designer",
+      "url": "https://jobs.ashbyhq.com/notion/d177d052-ef57-4900-acf2-d58e9eded620",
+      "date": "2026-07-20",
+      "insight": "Department: Product Design",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Notion AI hiring: Country Manager, Singapore",
+      "url": "https://jobs.ashbyhq.com/notion/92601e94-66c8-46ef-b949-da1547a5caa8",
+      "date": "2026-07-20",
+      "insight": "Department: Sales",
+      "importance": "medium"
+    }
+  ],
+  "note": "LLM synthesis unavailable — showing raw signals.",
+  "date": "2026-07-20",
+  "generated_at": "2026-07-20 23:56 UTC",
+  "total_signals": 23
+}
