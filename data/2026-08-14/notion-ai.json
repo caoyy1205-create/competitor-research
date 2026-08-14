@@ -1,0 +1,74 @@
+{
+  "competitor": "Notion AI",
+  "summary": "22 signals collected for Notion AI this period.",
+  "signals": [
+    {
+      "type": "github",
+      "title": "Notion AI — lore Lore v1.0.0",
+      "url": "https://github.com/makenotion/lore/releases/tag/v1.0.0",
+      "date": "2026-08-04",
+      "insight": "Lore is now publicly available on npm as @notionhq/lore.",
+      "importance": "medium"
+    },
+    {
+      "type": "github",
+      "title": "Notion AI — new repo: notion-as-code-template",
+      "url": "https://github.com/makenotion/notion-as-code-template",
+      "date": "2026-07-16",
+      "insight": "Template for Notion as Code Project",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Notion AI hiring: Business Development Representative, New York",
+      "url": "https://jobs.ashbyhq.com/notion/05e14247-17c4-4e98-9a13-53828a4e2f13",
+      "date": "2026-08-14",
+      "insight": "Department: Early Career",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Notion AI hiring: Business Development Representative, San Francisco",
+      "url": "https://jobs.ashbyhq.com/notion/b21fef72-4864-4a3e-a627-91557a0f8a36",
+      "date": "2026-08-14",
+      "insight": "Department: Early Career",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Notion AI hiring: Product Designer",
+      "url": "https://jobs.ashbyhq.com/notion/d177d052-ef57-4900-acf2-d58e9eded620",
+      "date": "2026-08-14",
+      "insight": "Department: Product Design",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Notion AI hiring: Business Development Representative, Japan",
+      "url": "https://jobs.ashbyhq.com/notion/c64a2cda-4c84-45bd-823d-f9141c316733",
+      "date": "2026-08-14",
+      "insight": "Department: Sales",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Notion AI hiring: Forward Deployed Engineer, GTM, AMER",
+      "url": "https://jobs.ashbyhq.com/notion/10437426-14c8-4c45-8075-67959ce80393",
+      "date": "2026-08-14",
+      "insight": "Department: Sales",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Notion AI hiring: Sales Operations Lead, AMER",
+      "url": "https://jobs.ashbyhq.com/notion/cb4f5e1a-88e4-4259-b73c-ac975dbcde5f",
+      "date": "2026-08-14",
+      "insight": "Department: Revenue Operations & Strategy ",
+      "importance": "medium"
+    }
+  ],
+  "note": "LLM synthesis unavailable — showing raw signals.",
+  "date": "2026-08-14",
+  "generated_at": "2026-08-14 23:20 UTC",
+  "total_signals": 22
+}
