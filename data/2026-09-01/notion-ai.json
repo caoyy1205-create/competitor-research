@@ -1,0 +1,74 @@
+{
+  "competitor": "Notion AI",
+  "summary": "25 signals collected for Notion AI this period.",
+  "signals": [
+    {
+      "type": "github",
+      "title": "Notion AI — notion-sdk-js v5.26.0",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.26.0",
+      "date": "2026-08-31",
+      "insight": "## What’s changed\n\n### New capabilities\n\n- **Agent and session APIs** ([#768](https://github.com/makenotion/notion-sdk-js/pull/768), [#769](https://gi",
+      "importance": "medium"
+    },
+    {
+      "type": "github",
+      "title": "Notion AI — notion-sdk-js v5.25.2",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.25.2",
+      "date": "2026-08-13",
+      "insight": "## What’s changed\n\n### API request types\n\n- **`does_not_equal` condition on verification property filters** ([#766](https://github.com/makenotion/noti",
+      "importance": "medium"
+    },
+    {
+      "type": "github",
+      "title": "Notion AI — notion-sdk-js v5.25.1",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.25.1",
+      "date": "2026-08-13",
+      "insight": "## What’s changed\n\n### Fixes\n\n- **`isFullDataSource` and `isFullDatabase` no longer accept partial responses** ([#764](https://github.com/makenotion/n",
+      "importance": "medium"
+    },
+    {
+      "type": "github",
+      "title": "Notion AI — notion-sdk-js v5.25.0",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.25.0",
+      "date": "2026-08-12",
+      "insight": "## What’s changed\n\n### New capabilities\n\n- **Filter properties on page writes** ([#761](https://github.com/makenotion/notion-sdk-js/pull/761))\n  - `cl",
+      "importance": "medium"
+    },
+    {
+      "type": "github",
+      "title": "Notion AI — notion-sdk-js v5.24.0",
+      "url": "https://github.com/makenotion/notion-sdk-js/releases/tag/v5.24.0",
+      "date": "2026-08-05",
+      "insight": "## What’s changed\r\n\r\n### New capabilities\r\n\r\n- **Create meeting notes** ([#753](https://github.com/makenotion/notion-sdk-js/pull/753))\r\n  - Use `clien",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Notion AI hiring: Software Engineer, Developer Platform",
+      "url": "https://jobs.ashbyhq.com/notion/1fc309c8-da20-4ff2-84c7-8b863ece2b0a",
+      "date": "2026-09-01",
+      "insight": "Department: Engineering",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Notion AI hiring: Business Development Representative, New York",
+      "url": "https://jobs.ashbyhq.com/notion/05e14247-17c4-4e98-9a13-53828a4e2f13",
+      "date": "2026-09-01",
+      "insight": "Department: Early Career",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Notion AI hiring: Business Development Representative, San Francisco",
+      "url": "https://jobs.ashbyhq.com/notion/b21fef72-4864-4a3e-a627-91557a0f8a36",
+      "date": "2026-09-01",
+      "insight": "Department: Early Career",
+      "importance": "medium"
+    }
+  ],
+  "note": "LLM synthesis unavailable — showing raw signals.",
+  "date": "2026-09-01",
+  "generated_at": "2026-09-01 01:40 UTC",
+  "total_signals": 25
+}
