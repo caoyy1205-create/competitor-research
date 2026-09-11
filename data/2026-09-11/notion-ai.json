@@ -1,0 +1,74 @@
+{
+  "competitor": "Notion AI",
+  "summary": "20 signals collected for Notion AI this period.",
+  "signals": [
+    {
+      "type": "jobs",
+      "title": "Notion AI hiring: Software Engineer, Developer Platform",
+      "url": "https://jobs.ashbyhq.com/notion/1fc309c8-da20-4ff2-84c7-8b863ece2b0a",
+      "date": "2026-09-11",
+      "insight": "Department: Engineering",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Notion AI hiring: Business Development Representative, New York",
+      "url": "https://jobs.ashbyhq.com/notion/05e14247-17c4-4e98-9a13-53828a4e2f13",
+      "date": "2026-09-11",
+      "insight": "Department: Early Career",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Notion AI hiring: Business Development Representative, San Francisco",
+      "url": "https://jobs.ashbyhq.com/notion/b21fef72-4864-4a3e-a627-91557a0f8a36",
+      "date": "2026-09-11",
+      "insight": "Department: Early Career",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Notion AI hiring: Product Designer",
+      "url": "https://jobs.ashbyhq.com/notion/d177d052-ef57-4900-acf2-d58e9eded620",
+      "date": "2026-09-11",
+      "insight": "Department: Product Design",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Notion AI hiring: Business Development Representative",
+      "url": "https://jobs.ashbyhq.com/notion/c64a2cda-4c84-45bd-823d-f9141c316733",
+      "date": "2026-09-11",
+      "insight": "Department: Sales",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Notion AI hiring: Forward Deployed Engineer, GTM, AMER",
+      "url": "https://jobs.ashbyhq.com/notion/10437426-14c8-4c45-8075-67959ce80393",
+      "date": "2026-09-11",
+      "insight": "Department: Sales",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Notion AI hiring: Sales Recruiter",
+      "url": "https://jobs.ashbyhq.com/notion/f663839e-46ac-44ad-9720-da2b6aa28093",
+      "date": "2026-09-11",
+      "insight": "Department: People",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Notion AI hiring: Solutions Consultant Manager, Commercial (Sales Leadership)",
+      "url": "https://jobs.ashbyhq.com/notion/e95ff317-92fe-4e34-88da-a83fe093f017",
+      "date": "2026-09-11",
+      "insight": "Department: Sales",
+      "importance": "medium"
+    }
+  ],
+  "note": "LLM synthesis unavailable — showing raw signals.",
+  "date": "2026-09-11",
+  "generated_at": "2026-09-11 00:50 UTC",
+  "total_signals": 20
+}
