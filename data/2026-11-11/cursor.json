@@ -1,0 +1,74 @@
+{
+  "competitor": "Cursor",
+  "summary": "20 signals collected for Cursor this period.",
+  "signals": [
+    {
+      "type": "jobs",
+      "title": "Cursor hiring: Field Engineer, Life Sciences",
+      "url": "https://jobs.ashbyhq.com/cursor/d02cb5cc-496f-4998-80a7-87c20312c82c",
+      "date": "2026-11-11",
+      "insight": "Department: Solutions",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Cursor hiring: Account Executive, Commercial",
+      "url": "https://jobs.ashbyhq.com/cursor/13ceadb8-638f-40c7-a59d-70dab2f4de0b",
+      "date": "2026-11-11",
+      "insight": "Department: Sales",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Cursor hiring: Regional Director, Strategic Enterprise",
+      "url": "https://jobs.ashbyhq.com/cursor/f602d5d4-7961-479b-894e-7e975e7bfe4e",
+      "date": "2026-11-11",
+      "insight": "Department: Sales",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Cursor hiring: Forward Deployed Engineer",
+      "url": "https://jobs.ashbyhq.com/cursor/34cecd0c-c392-4454-8ef5-261310541011",
+      "date": "2026-11-11",
+      "insight": "Department: Solutions",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Cursor hiring: GTM Applications Engineer",
+      "url": "https://jobs.ashbyhq.com/cursor/cddb7c29-39e2-431d-af11-029edd4207c4",
+      "date": "2026-11-11",
+      "insight": "Department: Revenue Operations",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Cursor hiring: Solutions Architect, Central Europe",
+      "url": "https://jobs.ashbyhq.com/cursor/8759ece1-451e-4074-93dd-9d247a648ef7",
+      "date": "2026-11-11",
+      "insight": "Department: Solutions",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Cursor hiring: Recruiting Coordinator",
+      "url": "https://jobs.ashbyhq.com/cursor/8b795459-4f93-45b2-a570-bed630cb09ee",
+      "date": "2026-11-11",
+      "insight": "Department: People",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Cursor hiring: Solutions Architect - Western Europe",
+      "url": "https://jobs.ashbyhq.com/cursor/e7fc78cd-a4b9-468e-b286-e20cf3728d45",
+      "date": "2026-11-11",
+      "insight": "Department: Customer Success",
+      "importance": "medium"
+    }
+  ],
+  "note": "LLM synthesis unavailable — showing raw signals.",
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11 02:32 UTC",
+  "total_signals": 20
+}
