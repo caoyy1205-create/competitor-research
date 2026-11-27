@@ -1,0 +1,74 @@
+{
+  "competitor": "Cursor",
+  "summary": "20 signals collected for Cursor this period.",
+  "signals": [
+    {
+      "type": "jobs",
+      "title": "Cursor hiring: Field Engineer, Life Sciences",
+      "url": "https://jobs.ashbyhq.com/cursor/d02cb5cc-496f-4998-80a7-87c20312c82c",
+      "date": "2026-11-27",
+      "insight": "Department: Solutions",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Cursor hiring: Account Executive, Commercial",
+      "url": "https://jobs.ashbyhq.com/cursor/13ceadb8-638f-40c7-a59d-70dab2f4de0b",
+      "date": "2026-11-27",
+      "insight": "Department: Sales",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Cursor hiring: Regional Director, Strategic Enterprise",
+      "url": "https://jobs.ashbyhq.com/cursor/f602d5d4-7961-479b-894e-7e975e7bfe4e",
+      "date": "2026-11-27",
+      "insight": "Department: Sales",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Cursor hiring: Forward Deployed Engineer",
+      "url": "https://jobs.ashbyhq.com/cursor/34cecd0c-c392-4454-8ef5-261310541011",
+      "date": "2026-11-27",
+      "insight": "Department: Solutions",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Cursor hiring: GTM Applications Engineer",
+      "url": "https://jobs.ashbyhq.com/cursor/cddb7c29-39e2-431d-af11-029edd4207c4",
+      "date": "2026-11-27",
+      "insight": "Department: Revenue Operations",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Cursor hiring: Field Engineer - ASEAN",
+      "url": "https://jobs.ashbyhq.com/cursor/2575f103-bf9a-4fc4-91be-23bec1142e88",
+      "date": "2026-11-27",
+      "insight": "Department: Solutions",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Cursor hiring: Field Engineering - Japan",
+      "url": "https://jobs.ashbyhq.com/cursor/7469c39d-0dd4-47e3-9437-5f14b4fc8509",
+      "date": "2026-11-27",
+      "insight": "Department: Solutions",
+      "importance": "medium"
+    },
+    {
+      "type": "jobs",
+      "title": "Cursor hiring: Sales Development Leader, APJ",
+      "url": "https://jobs.ashbyhq.com/cursor/a59371c8-cd50-48e3-9f21-4b79a6f0e3b2",
+      "date": "2026-11-27",
+      "insight": "Department: Sales",
+      "importance": "medium"
+    }
+  ],
+  "note": "LLM synthesis unavailable — showing raw signals.",
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27 04:48 UTC",
+  "total_signals": 20
+}
